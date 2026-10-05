@@ -1,0 +1,13 @@
+Product Name,Min Loan Amount,Max Loan Amount,Duration (Weeks),Interest Rate (%),Interest Type,Application Fee,Application Fee Type,Penalty Rate
+Karibu (4 Wks),3000,5000,4,20%,Percentage,700,Fixed,0
+Karibu (6 Wks),3000,5000,6,30%,Percentage,700,Fixed,0
+Daraja (4 Wks),6000,10000,4,20%,Percentage,700,Fixed,0
+Daraja (6 Wks),6000,10000,6,30%,Percentage,700,Fixed,0
+Vuka (4 Wks),11000,15000,4,20%,Percentage,7%,Percentage,0
+Vuka (6 Wks),11000,15000,6,30%,Percentage,7%,Percentage,0
+wezesha (4 Wks),16000,20000,4,20%,Percentage,7%,Percentage,0
+wezesha (6 Wks),16000,20000,6,30%,Percentage,7%,Percentage,0
+Paa (4 Wks),21000,25000,4,20%,Percentage,7%,Percentage,0
+Paa (6 Wks),21000,25000,6,30%,Percentage,7%,Percentage,0
+Ngaa (4 Wks),26000,No Limit,4,20%,Percentage,7%,Percentage,0
+Ngaa (6 Wks),26000,No Limit,6,30%,Percentage,7%,Percentage,0

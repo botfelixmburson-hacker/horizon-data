@@ -1,0 +1,2 @@
+﻿name,product_code,description,default_interest_rate,default_interest_rate_type,default_term_months,default_term_unit,interest_type,min_loan_amount,max_loan_amount,penalty_amount,penalty_amount_type,arrears_penalty_scope,payment_interval_days,is_active
+"Business Loan",LP-BIZ,"Working capital",12,percent,6,monthly,flat_rate,5000,500000,5,percent,whole_loan,30,1

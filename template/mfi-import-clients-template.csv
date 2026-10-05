@@ -1,0 +1,2 @@
+﻿id_number,first_name,last_name,phone,email,gender,address,branch,loan_officer_employee_number,next_of_kin_name,next_of_kin_contact,client_status,notes
+12345678,Jane,Wanjiku,712345678,jane@example.com,female,Nairobi,Main,1001,"John Doe",722000111,active,Migrated

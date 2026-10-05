@@ -1,0 +1,2 @@
+﻿loan_number,client_id_number,client_phone,client_number,product_name,principal,balance,fees_outstanding,interest_rate,term_value,term_unit,status,disbursed_at,maturity_date,branch,collection_agent_employee_number,notes
+LN-10001,12345678,,,Business Loan,50000,32000,500,12,6,months,active,6/1/2025,12/1/2025,Main,1001,Migrated

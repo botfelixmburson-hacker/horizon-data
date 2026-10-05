@@ -1,0 +1,186 @@
+,Head Office  Current Loans,,,,,,,,,,,,
+No,Client,Idno,Contact,Portfolio,Product,Disbursement,Loan,ToPay,Paid,Percentage,Balance,Status,Maturity
+1,Mary Chege,24532013,727833081,Nancy Wamboi,Vuka 6wks,19-05-2026,15000,19500,0,0%,19500,Overdue,30-06-2026
+2,Beatrice Makena Ngeera,11257845,729148650,David Wambugu,Vuka 6wks,11-08-2026,12000,15600,0,0%,15600,Overdue,22-09-2026
+3,Faith Njoki Ndiangui,25424867,724988443,Evaline Muthoni,Vuka 6wks,04-06-2026,15000,19500,6450,33.08%,13050,Overdue,16-07-2026
+4,Jane Wakuthi Gichamba,11818728,727583414,Silvester Muthomi,Daraja 6wks,14-08-2026,10000,13000,0,0%,13000,Overdue,25-09-2026
+5,Purity Wanjiru,12477096,713290488,David Wambugu,Daraja 6wks,14-08-2026,10000,13000,0,0%,13000,Overdue,25-09-2026
+6,Geddidah Wairimu Mathenge,26402244,717523158,Naftaly  Kinyua,Daraja 6wks,11-08-2026,10000,13000,0,0%,13000,Overdue,22-09-2026
+7,Mary Nyaira Muriithi,24667218,726518607,Mercy  Karimi,Daraja 6wks,17-08-2026,10000,13000,0,0%,13000,Overdue,28-09-2026
+8,James Kariuki Gikonyo,21968498,703637510,Naftaly  Kinyua,Daraja 6wks,12-08-2026,10000,13000,0,0%,13000,Overdue,23-09-2026
+9,Mary Kathure Muriuki,11773533,113720913,Mercy  Karimi,Daraja 6wks,10-08-2026,10000,13000,0,0%,13000,Overdue,21-09-2026
+10,Purity Njoki Mwangi,31867824,143178817,Mercy  Karimi,Daraja 6wks,08-07-2026,10000,13000,0,0%,13000,Overdue,19-08-2026
+11,Rose Wanja Wangui,25586166,712872335,David Wambugu,Daraja 6wks,10-07-2026,10000,13000,0,0%,13000,Overdue,21-08-2026
+12,Agnes Muthoni Ndiritu,27221760,724590343,David Wambugu,Daraja 6wks,05-08-2026,10000,13000,0,0%,13000,Overdue,16-09-2026
+13,Susan Njiri Watiri,2353086,723512549,Naftaly  Kinyua,Daraja 6wks,03-08-2026,10000,13000,500,3.85%,12500,Overdue,14-09-2026
+14,Nancy Wanjiku Kiguta,23797035,721841322,David Wambugu,Daraja 6wks,07-10-2026,10000,12000,0,0%,12000,Active,04-11-2026
+15,Nancy Wanjiku Kiguta,23797035,721841322,David Wambugu,Daraja 6wks,10-07-2026,10000,12000,0,0%,12000,Overdue,07-08-2026
+16,Monicah Wamucii Njoroge,24827208,720637112,Silvester Muthomi,Daraja 6wks,29-07-2026,9000,11700,0,0%,11700,Overdue,09-09-2026
+17,Agnes Konaria  Esther,24244638,715368475,David Wambugu,Daraja 6wks,12-08-2026,9000,11700,0,0%,11700,Overdue,23-09-2026
+18,Mercy Wambui Nduati,24993751,790554705,Peter Nderitu Machira,Daraja 6wks,21-05-2026,10000,13000,2167,16.67%,10833,Overdue,02-07-2026
+19,Purity Nyaguthii Wanjohi,21701047,714680432,David Wambugu,Daraja 6wks,05-08-2026,10000,13000,2170,16.69%,10830,Overdue,16-09-2026
+20,Milka Wairimu Karume,12472746,729500609,David Wambugu,Daraja 6wks,04-08-2026,10000,13000,2170,16.69%,10830,Overdue,15-09-2026
+21,Agnes Wanjiku Muiyuro,13392320,722675172,Naftaly  Kinyua,Daraja 6wks,10-08-2026,10000,13000,2170,16.69%,10830,Overdue,21-09-2026
+22,Jane Wanjiru Muriithi,9581815,702661812,Mercy  Karimi,Daraja 6wks,06-08-2026,10000,13000,2170,16.69%,10830,Overdue,17-09-2026
+23,Evan Wangombe Murani,39367266,740132792,Mercy  Karimi,Daraja 6wks,05-08-2026,10000,13000,2170,16.69%,10830,Overdue,16-09-2026
+24,Jannifer Wambui Wangui,23728337,768845384,Mercy  Karimi,Daraja 6wks,03-08-2026,10000,13000,2170,16.69%,10830,Overdue,14-09-2026
+25,James Gachimba Wothaya,31179068,799205142,Naftaly  Kinyua,Daraja 6wks,17-08-2026,8000,10400,0,0%,10400,Overdue,28-09-2026
+26,Leah Nyambura Kabiro,13453034,792850882,David Wambugu,Daraja 6wks,17-08-2026,8000,10400,0,0%,10400,Overdue,28-09-2026
+27,Mary Mwikali Mang'uru,38579424,798433762,David Wambugu,Daraja 6wks,18-08-2026,8000,10400,0,0%,10400,Overdue,29-09-2026
+28,Lucy Wambura Ngacha,5558524,711452040,David Wambugu,Daraja 6wks,14-08-2026,8000,10400,0,0%,10400,Overdue,25-09-2026
+29,Fredrick Karanja,24056745,727176910,Caroline Nyakio,Ng'aa 6wks,12-05-2026,30000,39000,28630,73.41%,10370,Overdue,23-06-2026
+30,Jeresa Muthoni Gaceru,34668382,791526649,David Wambugu,Daraja 6wks,14-08-2026,8000,10400,400,3.85%,10000,Overdue,25-09-2026
+31,Alice Wachuka Gitonga,237570,720653621,Mercy  Karimi,Daraja 6wks,18-08-2026,10000,13000,3000,23.08%,10000,Overdue,29-09-2026
+32,Charity Wanjiru Kinyua,28763662,716207585,Silvester Muthomi,Vuka 6wks,21-07-2026,15000,19500,9750,50%,9750,Overdue,01-09-2026
+33,George Njoroge Kamande,22326151,718668200,Charles Kingori,Daraja 6wks,17-07-2026,10000,13000,3650,28.08%,9350,Overdue,28-08-2026
+34,Pauline Wanjiku Kimani,25362649,711154802,Mercy  Karimi,Daraja 6wks,14-08-2026,7000,9100,0,0%,9100,Overdue,25-09-2026
+35,Beatrice Wangeci Kariamwere,24924431,745736789,David Wambugu,Daraja 6wks,11-08-2026,7000,9100,0,0%,9100,Overdue,22-09-2026
+36,Racheal Keru Wanjiku,24960498,115746322,David Wambugu,Daraja 6wks,12-08-2026,7000,9100,0,0%,9100,Overdue,23-09-2026
+37,Julia Kathina Mbuki,7721375,720887990,Silvester Muthomi,Daraja 6wks,11-08-2026,7000,9100,0,0%,9100,Overdue,22-09-2026
+38,Lucy Wanjiru Wangondu,26381267,708356421,Silvester Muthomi,Daraja 6wks,17-08-2026,7000,9100,0,0%,9100,Overdue,28-09-2026
+39,Christine Nyokabi Bisonga,21985939,724974652,Naftaly  Kinyua,Daraja 6wks,18-08-2026,7000,9100,0,0%,9100,Overdue,29-09-2026
+40,Martin Kimathi Kariuki,30353004,117422497,Silvester Muthomi,Daraja 6wks,18-08-2026,7000,9100,0,0%,9100,Overdue,29-09-2026
+41,Poline Muthoni,20368523,714226124,David Wambugu,Daraja 6wks,18-08-2026,7000,9100,0,0%,9100,Overdue,29-09-2026
+42,Naomi Nyaguthi Munjari,42056759,793551785,Naftaly  Kinyua,Daraja 6wks,18-08-2026,7000,9100,0,0%,9100,Overdue,29-09-2026
+43,Nancy Nyaguthii Ndegwa,9075851,724633563,David Wambugu,Daraja 6wks,11-08-2026,7000,9100,0,0%,9100,Overdue,22-09-2026
+44,Elizabeth Njambi Chege,22162392,726541516,Naftaly  Kinyua,Daraja 6wks,10-08-2026,7000,9100,0,0%,9100,Overdue,21-09-2026
+45,Ann Wanjiku Njoroge,25089546,724260510,Naftaly  Kinyua,Daraja 6wks,10-07-2026,7000,9100,45,0.49%,9055,Overdue,21-08-2026
+46,Mirriam Rotich,20935810,726281613,Nancy Wamboi,Wezesha 6wks,04-05-2026,20000,26000,17332,66.66%,8668,Overdue,15-06-2026
+47,Alice Wambui  Maina,27972897,723834640,David Wambugu,Daraja 6wks,27-07-2026,10000,13000,4340,33.38%,8660,Overdue,07-09-2026
+48,Millicent Wawira Wambugu,24309632,795543318,David Wambugu,Daraja 6wks,28-07-2026,8000,10400,1740,16.73%,8660,Overdue,08-09-2026
+49,Purity Kanana,27443997,721919217,Silvester Muthomi,Daraja 6wks,28-07-2026,10000,13000,4340,33.38%,8660,Overdue,08-09-2026
+50,Esther Gathoni Mureithi,28566026,748495658,David Wambugu,Daraja 6wks,29-07-2026,10000,13000,4340,33.38%,8660,Overdue,09-09-2026
+51,Grace Gathoni Gatheru,13453617,712650572,Naftaly  Kinyua,Daraja 6wks,19-06-2026,10000,13000,4340,33.38%,8660,Overdue,31-07-2026
+52,Rhoda Wanjiru Mundia,21594721,742279176,Silvester Muthomi,Daraja 6wks,04-08-2026,8000,10400,1832,17.62%,8568,Overdue,15-09-2026
+53,Florence Nyambura Mwangi,23888450,758796378,Peter Mathenge,Daraja 6wks,17-06-2026,10000,13000,4550,35%,8450,Overdue,29-07-2026
+54,Godfrey Kiamenyi,42647083,791381569,Mercy  Karimi,Daraja 6wks,29-07-2026,7000,9100,770,8.46%,8330,Overdue,09-09-2026
+55,Ann Wangui Maina,25226013,728562926,Silvester Muthomi,Daraja 6wks,04-08-2026,7000,9100,770,8.46%,8330,Overdue,15-09-2026
+56,Rosaline Wanja Nyaga,25308011,710602129,David Wambugu,Daraja 6wks,05-08-2026,7000,9100,770,8.46%,8330,Overdue,16-09-2026
+57,Patience Mumo Ngonzi,31855559,743534921,Naftaly  Kinyua,Daraja 6wks,04-08-2026,7000,9100,770,8.46%,8330,Overdue,15-09-2026
+58,Cecilia Muthoni Maina,22307659,724202982,Mercy  Karimi,Daraja 6wks,05-08-2026,10000,13000,4770,36.69%,8230,Overdue,16-09-2026
+59,Mary Wangari Ngenyi,39779366,746365638,Peter Mathenge,Daraja 6wks,18-06-2026,7000,9100,1000,10.99%,8100,Overdue,30-07-2026
+60,Jane Wangui Wangi,29963123,792517330,Charles Kingori,Daraja 6wks,28-07-2026,9000,11700,3700,31.62%,8000,Overdue,08-09-2026
+61,Grace Muthoni Mburu,21459847,745517475,David Wambugu,Daraja 6wks,04-08-2026,7000,9100,1270,13.96%,7830,Overdue,15-09-2026
+62,Eva Wamuyu Waruguru,28522352,719412237,David Wambugu,Vuka 6wks,17-07-2026,12000,15600,7800,50%,7800,Overdue,28-08-2026
+63,Zipporah Rotich,485452,720853132,Caroline Nyakio,Daraja 4wks,06-05-2026,10000,12500,5000,40%,7500,Overdue,03-06-2026
+64,Alice Muthoni Wachira,23742451,720233892,Simon Gichigi,Daraja 6wks,09-06-2026,7000,9100,1667,18.32%,7433,Overdue,21-07-2026
+65,Esther Wanjira Mwangi,26365335,712780643,Silvester Muthomi,Daraja 6wks,22-07-2026,8000,10400,3060,29.42%,7340,Overdue,02-09-2026
+66,Lucy Wanjiku Ndirangu,11032880,721386523,Naftaly  Kinyua,Daraja 6wks,04-08-2026,8000,10400,3060,29.42%,7340,Overdue,15-09-2026
+67,Eunice Wambui Githumbi,22588986,702941499,David Wambugu,Daraja 6wks,29-07-2026,8000,10400,3070,29.52%,7330,Overdue,09-09-2026
+68,Teresa Wangari Wachinga,35815888,797396128,David Wambugu,Daraja 6wks,28-07-2026,8000,10400,3070,29.52%,7330,Overdue,08-09-2026
+69,Julia Wanjugu Ngatia,27665673,703438648,David Wambugu,Daraja 6wks,29-07-2026,8000,10400,3070,29.52%,7330,Overdue,09-09-2026
+70,Mary Njeri Kamundiga,22695670,790791661,David Wambugu,Daraja 6wks,29-07-2026,7000,9100,1770,19.45%,7330,Overdue,09-09-2026
+71,Gladys Wothaya Gachau,22831199,725853279,Mercy  Karimi,Daraja 6wks,29-07-2026,9000,11700,4700,40.17%,7000,Overdue,09-09-2026
+72,Lucy Wakiuru Kanja,30920237,708742365,Naftaly  Kinyua,Daraja 6wks,30-07-2026,9000,11700,4700,40.17%,7000,Overdue,10-09-2026
+73,Fatuma Alimo Mohammed,26699359,706826637,Naftaly  Kinyua,Daraja 6wks,27-07-2026,7000,9100,2420,26.59%,6680,Overdue,07-09-2026
+74,Edith Gathigia,29308215,724137855,Mercy  Karimi,Daraja 6wks,03-08-2026,7000,9100,2420,26.59%,6680,Overdue,14-09-2026
+75,Rose Ikua,29235850,706241487,Silvester Muthomi,Daraja 6wks,03-08-2026,7000,9100,2420,26.59%,6680,Overdue,14-09-2026
+76,Faith Wanjiru Maina,22028297,758335400,Silvester Muthomi,Daraja 6wks,27-07-2026,7000,9100,2440,26.81%,6660,Overdue,07-09-2026
+77,Lucy Waceke Wanjau,31114208,712184728,Naftaly  Kinyua,Daraja 6wks,28-07-2026,7000,9100,2440,26.81%,6660,Overdue,08-09-2026
+78,Florence Mwarania Kinyua,23768278,702258262,Naftaly  Kinyua,Daraja 6wks,29-07-2026,7000,9100,2470,27.14%,6630,Overdue,09-09-2026
+79,Susan Njoki Maina,24309052,725250520,Sharlet Sally,Daraja 6wks,12-05-2026,9000,11700,5100,43.59%,6600,Overdue,23-06-2026
+80,Jesse Mwangi Kitheka,27743539,719335155,Silvester Muthomi,Daraja 6wks,09-07-2026,10000,13000,6480,49.85%,6520,Overdue,20-08-2026
+81,Maryann Mukami Wagura,31017569,708341205,Naftaly  Kinyua,Daraja 6wks,17-07-2026,10000,13000,6490,49.92%,6510,Overdue,28-08-2026
+82,Brigit Kamba,33844184,794955639,Nancy Wamboi,Vuka 6wks,28-04-2026,15000,19500,13000,66.67%,6500,Overdue,09-06-2026
+83,Leah Wangechi Mwaniki,22919746,725986031,Simon Gichigi,Daraja 6wks,09-06-2026,10000,13000,6504,50.03%,6496,Overdue,21-07-2026
+84,Susan Kananu Kaberia,28576880,793873983,David Wambugu,Daraja 6wks,24-07-2026,10000,13000,6510,50.08%,6490,Overdue,04-09-2026
+85,Sheila Langat,26914983,707451706,Nancy Wamboi,Daraja 6wks,05-05-2026,10000,13000,6591,50.7%,6409,Overdue,16-06-2026
+86,Beatrice Mumbi Karombu,35988036,795381249,Sharlet Sally,Daraja 6wks,19-05-2026,10000,13000,6601,50.78%,6399,Overdue,30-06-2026
+87,Peter Gichohi Kihara,14519083,720709061,David Wambugu,Daraja 6wks,21-07-2026,8000,10400,4080,39.23%,6320,Overdue,01-09-2026
+88,Beatrice Waithira Mucheru,11179541,729659614,David Wambugu,Daraja 6wks,17-07-2026,10000,13000,6690,51.46%,6310,Overdue,28-08-2026
+89,Francis Waweru,267551,716034398,Naftaly  Kinyua,Daraja 6wks,03-08-2026,9000,11700,5400,46.15%,6300,Overdue,14-09-2026
+90,Jackline Wanjiru Ndambiri,498459500,759433215,Naftaly  Kinyua,Daraja 6wks,27-07-2026,9000,11700,5700,48.72%,6000,Overdue,07-09-2026
+91,Judy Wanjiku Warui,24188580,715902352,Caroline Mureithi,Daraja 6wks,02-06-2026,7000,9100,3137,34.47%,5963,Overdue,14-07-2026
+92,Patrick Kinya Kariuki,36996924,117665073,Simon Gichigi,Daraja 6wks,18-06-2026,7000,9100,3367,37%,5733,Overdue,30-07-2026
+93,Loise Wanjiku,21549876,729298620,Caroline Nyakio,Daraja 6wks,15-04-2026,10000,13000,7270,55.92%,5730,Overdue,27-05-2026
+94,Alice Wanjiku Kireru,22091500,715690487,Simon Gichigi,Daraja 6wks,16-06-2026,7000,9100,3467,38.1%,5633,Overdue,28-07-2026
+95,Loise Njoki Ngamau,27452274,705311814,Nancy Wamboi,Daraja 6wks,19-05-2026,7000,9100,3537,38.87%,5563,Overdue,30-06-2026
+96,Priscah Nyangweso Mbatia,31246744,758659128,Silvester Muthomi,Daraja 6wks,21-07-2026,8000,10400,4894,47.06%,5506,Overdue,01-09-2026
+97,Veronica Mbaika  Mutua,32724484,112720895,Mercy  Karimi,Daraja 6wks,27-07-2026,8000,10400,4895,47.07%,5505,Overdue,07-09-2026
+98,Richard Sike,40145313,722340765,Nancy Wamboi,Vuka 6wks,29-04-2026,15000,19500,14000,71.79%,5500,Overdue,10-06-2026
+99,Jane Waithera,28514706,700083991,Peter Nderitu Machira,Daraja 4wks,19-05-2026,7000,8750,3300,37.71%,5450,Overdue,16-06-2026
+100,Joseph Mwangi Wangeci,531038092,117734053,Mercy  Karimi,Daraja 6wks,27-07-2026,8000,10400,4960,47.69%,5440,Overdue,07-09-2026
+101,Kenneth Mwirigi,26395273,726022867,Nancy Wamboi,Daraja 6wks,11-05-2026,7000,9100,3667,40.3%,5433,Overdue,22-06-2026
+102,Lucy Nyacomba Mwangi,11129479,710339502,Silvester Muthomi,Daraja 6wks,13-07-2026,10000,13000,7660,58.92%,5340,Overdue,24-08-2026
+103,Naomi Wangui,2178940,711962072,Nancy Wamboi,Daraja 6wks,05-05-2026,7000,9100,3840,42.2%,5260,Overdue,16-06-2026
+104,Salome Njoki Kaharu,20905006,743662912,Peter Mathenge,Daraja 6wks,16-06-2026,7000,9100,4010,44.07%,5090,Overdue,28-07-2026
+105,Grace Wanjiru Wangui,29225000,793010635,Naftaly  Kinyua,Daraja 6wks,24-07-2026,7000,9100,4090,44.95%,5010,Overdue,04-09-2026
+106,Nancy Wangeci Gathigia,27841566,704709046,Silvester Muthomi,Daraja 6wks,24-07-2026,7000,9100,4090,44.95%,5010,Overdue,04-09-2026
+107,Salome Wanjiru Wachira,31204394,745707906,David Wambugu,Daraja 6wks,10-07-2026,10000,13000,8380,64.46%,4620,Overdue,21-08-2026
+108,Mary Wanjira Kamanga,708710644,708710644,Simon Gichigi,Daraja 6wks,04-06-2026,10000,13000,8384,64.49%,4616,Overdue,16-07-2026
+109,Catherine Wangari Murithi,26084088,790512348,Naftaly  Kinyua,Daraja 6wks,13-07-2026,8000,10400,5860,56.35%,4540,Overdue,24-08-2026
+110,Mary Nanjala,29119763,742459392,Caroline Nyakio,Daraja 6wks,30-04-2026,7000,9100,4642,51.01%,4458,Overdue,11-06-2026
+111,Purity Njoki Macharia,28263106,713978869,Mercy  Karimi,Daraja 6wks,13-07-2026,10000,13000,8660,66.62%,4340,Overdue,24-08-2026
+112,Jane Muthoni Mwaniki,9322781,721086504,Mercy  Karimi,Daraja 6wks,13-07-2026,10000,13000,8660,66.62%,4340,Overdue,24-08-2026
+113,Shelmith Gathoni Gichohi,25132565,746399541,Mercy  Karimi,Daraja 6wks,16-07-2026,10000,13000,8660,66.62%,4340,Overdue,27-08-2026
+114,Evalyne  Wangui Wanjiru,36501682,745967398,Mercy  Karimi,Daraja 6wks,17-07-2026,10000,13000,8660,66.62%,4340,Overdue,28-08-2026
+115,Lucy Wamjira Gachara,34167443,100000000,Naftaly  Kinyua,Daraja 6wks,16-07-2026,10000,13000,8660,66.62%,4340,Overdue,27-08-2026
+116,Tabitha Nyokabi Njenga,21543280,796291816,Peter Nderitu Machira,Daraja 6wks,21-05-2026,7000,9100,4844,53.23%,4256,Overdue,02-07-2026
+117,Mary Njeri Kaniaru,7113828,729294832,David Wambugu,Daraja 6wks,17-07-2026,7000,9100,4890,53.74%,4210,Overdue,28-08-2026
+118,Damaris Wakarima,41434940,703913312,Evaline Muthoni,Daraja 6wks,16-06-2026,7000,9100,5004,54.99%,4096,Overdue,28-07-2026
+119,Eunice Nancy Nyaguthii Mwangi,23383011,111221071,Silvester Muthomi,Daraja 6wks,22-06-2026,8000,10400,6315,60.72%,4085,Overdue,03-08-2026
+120,Patricia Wamuyu Gakui,23725649,715363435,Simon Gichigi,Daraja 6wks,18-05-2026,6999,9099,5037,55.36%,4062,Overdue,29-06-2026
+121,Beth Wangui Muthigani,5552874,725727216,Silvester Muthomi,Daraja 6wks,01-07-2026,9000,11700,7700,65.81%,4000,Overdue,12-08-2026
+122,Annah Wangui Wachania,22112936,702029942,David Wambugu,Daraja 6wks,17-07-2026,10000,13000,9160,70.46%,3840,Overdue,28-08-2026
+123,Mary Wanjiru Ngatia,23469396,726151673,Mercy  Karimi,Daraja 6wks,17-07-2026,7000,9100,5270,57.91%,3830,Overdue,28-08-2026
+124,Joyce Macharia,8678387,729417206,Caroline Nyakio,Daraja 6wks,21-05-2026,10000,13000,9206,70.82%,3794,Overdue,02-07-2026
+125,Jacinter Waithira Chege,34743497,748865530,Caroline Nyakio,Daraja 6wks,29-05-2026,7000,9100,5357,58.87%,3743,Overdue,10-07-2026
+126,Purity Wairimu Kamau,25395294,729374373,Mercy  Karimi,Daraja 6wks,18-06-2026,8000,10400,6730,64.71%,3670,Overdue,30-07-2026
+127,Rose Wanjiku Githinji,24960584,713146035,David Wambugu,Daraja 6wks,14-07-2026,8000,10400,6730,64.71%,3670,Overdue,25-08-2026
+128,Margaret Wambui Mwangi,26304922,742578283,Mercy  Karimi,Daraja 6wks,15-07-2026,8000,10400,6730,64.71%,3670,Overdue,26-08-2026
+129,Samuel Mwenda Mwiti,23497949,743333421,Mercy  Karimi,Daraja 6wks,13-07-2026,10000,13000,9360,72%,3640,Overdue,24-08-2026
+130,Alice Wanjiru Mucheru,11630922,700705976,Naftaly  Kinyua,Daraja 6wks,17-07-2026,10000,13000,9510,73.15%,3490,Overdue,28-08-2026
+131,Janet Muthoni Kinyua,34963158,790544260,Sharlet Sally,Daraja 6wks,09-06-2026,7000,9100,5666,62.26%,3434,Overdue,21-07-2026
+132,Rachel Mwangi,37132889,707670443,Caroline Nyakio,Daraja 6wks,19-05-2026,10000,13000,9687,74.52%,3313,Overdue,30-06-2026
+133,Caroline Gatwiri Bundi,27072016,716171095,Naftaly  Kinyua,Daraja 6wks,17-07-2026,10000,13000,9760,75.08%,3240,Overdue,28-08-2026
+134,Kelvin Karuga Kanabu,108171433,705738790,Evaline Muthoni,Daraja 6wks,18-06-2026,7000,9100,5884,64.66%,3216,Overdue,30-07-2026
+135,Godfrey Mwai Gatimu,21322670,725555578,Simon Gichigi,Daraja 6wks,10-06-2026,7000,9100,6207,68.21%,2893,Overdue,22-07-2026
+136,Rebecca Nyaguthii Thamaini,24346337,758011823,Sharlet Sally,Daraja 6wks,28-04-2026,8000,10400,7568,72.77%,2832,Overdue,09-06-2026
+137,Catherine Nyambura Kagunyu,3614276,712046450,Caroline Mureithi,Daraja 6wks,16-06-2026,9000,11700,8900,76.07%,2800,Overdue,28-07-2026
+138,Grace Wanjiru Ngunyi,24661407,727516887,David Wambugu,Daraja 6wks,23-06-2026,7000,9100,6480,71.21%,2620,Overdue,04-08-2026
+139,Virginia Wangui Kabaiku,27960445,715010933,Silvester Muthomi,Daraja 6wks,17-07-2026,7000,9100,6490,71.32%,2610,Overdue,28-08-2026
+140,Evaline Aleyo,23071138,741213695,Nancy Wamboi,Daraja 6wks,21-05-2026,7000,9100,6590,72.42%,2510,Overdue,02-07-2026
+141,Jane Mukami Nyiha,34602461,721730653,Peter Mathenge,Daraja 6wks,10-06-2026,7000,9100,6688,73.49%,2412,Overdue,22-07-2026
+142,Serah Kimani,21626553,726145455,Peter Nderitu Machira,Daraja 4wks,19-05-2026,7000,8750,6400,73.14%,2350,Overdue,16-06-2026
+143,Philis Wanjiru Onyango,35079381,723117536,Simon Gichigi,Daraja 6wks,08-06-2026,7000,9100,6840,75.16%,2260,Overdue,20-07-2026
+144,Susan Ndinda Kinyua,28498632,110688130,Caroline Mureithi,Daraja 4wks,03-06-2026,9000,11250,9050,80.44%,2200,Overdue,01-07-2026
+145,Mary Muthoni Kanja,29844329,799113717,Caroline Mureithi,Daraja 6wks,18-06-2026,7000,9100,6917,76.01%,2183,Overdue,30-07-2026
+146,Teresa Nderitu Gathoni,12780142,710199397,David Wambugu,Daraja 6wks,21-07-2026,10000,13000,10830,83.31%,2170,Overdue,01-09-2026
+147,Gladys Nyaguthii Waiguru,27168046,711755150,Naftaly  Kinyua,Daraja 6wks,17-07-2026,10000,13000,10830,83.31%,2170,Overdue,28-08-2026
+148,Serah Wairimu Kinyua,24713898,715368458,Silvester Muthomi,Daraja 6wks,24-06-2026,10000,13000,10830,83.31%,2170,Overdue,05-08-2026
+149,Beatrice Wairimu Mukumbu,24285285,704064377,David Wambugu,Daraja 6wks,29-06-2026,10000,13000,10830,83.31%,2170,Overdue,10-08-2026
+150,Susan Waguthii Maina,11413712,724057954,Mercy  Karimi,Daraja 6wks,07-07-2026,10000,13000,10830,83.31%,2170,Overdue,18-08-2026
+151,Teresa Nderitu Gathoni,12780142,710199397,David Wambugu,Daraja 6wks,21-07-2026,8000,10400,8230,79.13%,2170,Overdue,01-09-2026
+152,Alice Wachira Kariuki,24290358,723279066,Silvester Muthomi,Daraja 6wks,21-07-2026,8000,10400,8230,79.13%,2170,Overdue,01-09-2026
+153,Susan Wanjiku Kirugo,28182575,114231644,Silvester Muthomi,Daraja 6wks,01-07-2026,10000,13000,10830,83.31%,2170,Overdue,12-08-2026
+154,Mercy Wanjiru Maina,24272958,701187397,Mercy  Karimi,Daraja 6wks,06-07-2026,10000,13000,10830,83.31%,2170,Overdue,17-08-2026
+155,Raphael Gikandi Maina,24189307,708320978,Silvester Muthomi,Daraja 6wks,08-07-2026,10000,13000,10830,83.31%,2170,Overdue,19-08-2026
+156,Michael Muthii Muriuki,10952883,716645885,Mercy  Karimi,Daraja 6wks,10-07-2026,10000,13000,10830,83.31%,2170,Overdue,21-08-2026
+157,Jackline Mwende Ireri,330468290,113487083,Silvester Muthomi,Daraja 6wks,10-07-2026,10000,13000,10830,83.31%,2170,Overdue,21-08-2026
+158,Sylvester Njuguna Kamau,36239339,727149758,Naftaly  Kinyua,Daraja 6wks,10-07-2026,10000,13000,10830,83.31%,2170,Overdue,21-08-2026
+159,Elizabeth Akinyi Osio,24337107,713874511,Silvester Muthomi,Daraja 6wks,09-07-2026,8000,10400,8330,80.1%,2070,Overdue,20-08-2026
+160,Monicah Wangui Njenga,24635706,719624262,Mercy  Karimi,Daraja 6wks,09-07-2026,8000,10400,8400,80.77%,2000,Overdue,20-08-2026
+161,Selina Ekiela,34005439,745464053,Caroline Nyakio,Daraja 6wks,19-05-2026,7000,9100,7168,78.77%,1932,Overdue,30-06-2026
+162,Joyce Wambui Gathigia,24907842,705763601,Silvester Muthomi,Daraja 6wks,23-06-2026,7000,9100,7180,78.9%,1920,Overdue,04-08-2026
+163,Anne Mukami Maina,27380882,720871643,David Wambugu,Daraja 6wks,08-07-2026,8000,10400,8565,82.36%,1835,Overdue,19-08-2026
+164,Alice Wanjiru Kihuko,9553092,748947116,David Wambugu,Daraja 6wks,17-06-2026,7000,9100,7290,80.11%,1810,Overdue,29-07-2026
+165,Susan Wangari,20606674,113300495,Nancy Wamboi,Karibu,04-05-2026,5000,6000,4340,72.33%,1660,Overdue,01-06-2026
+166,Jackson Maina Gatia,24549006,724836345,Silvester Muthomi,Daraja 6wks,13-07-2026,10000,13000,11490,88.38%,1510,Overdue,24-08-2026
+167,Brian Mugo Wachira,36786253,712556511,Evaline Muthoni,Daraja 4wks,16-06-2026,7000,8750,7250,82.86%,1500,Overdue,14-07-2026
+168,Faith Wanjeri Gacharira,24079916,759780337,Simon Gichigi,Daraja 6wks,01-06-2026,7000,9100,7688,84.48%,1412,Overdue,13-07-2026
+169,Erick Mwaki Mutiria,40305051,796787883,Evaline Muthoni,Daraja 4wks,02-06-2026,9000,11250,9900,88%,1350,Overdue,30-06-2026
+170,Evergerine Wamuyu Warutere,759386,706515204,Simon Gichigi,Daraja 6wks,17-06-2026,7000,9100,7844,86.2%,1256,Overdue,29-07-2026
+171,Gladys Watetu Wakahu,23666488,796890432,Evaline Muthoni,Daraja 6wks,03-06-2026,9000,11700,10500,89.74%,1200,Overdue,15-07-2026
+172,Teresia Muthoni Waithaka,21114950,704159480,Caroline Mureithi,Daraja 6wks,16-06-2026,7000,9100,8048,88.44%,1052,Overdue,28-07-2026
+173,Caroline Ngari,36868661,797584851,Nancy Wamboi,Karibu,19-05-2026,5000,6000,5000,83.33%,1000,Overdue,16-06-2026
+174,Agnes Wanjugu Maina,27091490,724342004,Simon Gichigi,Daraja 6wks,27-05-2026,7000,9100,8100,89.01%,1000,Overdue,08-07-2026
+175,Stella Wangui Nyawira,28426847,790351484,Naftaly  Kinyua,Daraja 6wks,23-06-2026,8000,10400,9565,91.97%,835,Overdue,04-08-2026
+176,Susan Modo,20347847,721991675,Caroline Nyakio,Karibu,19-05-2026,5000,6000,5167,86.12%,833,Overdue,16-06-2026
+177,Monica Nyambura Gatimu,13454318,723553746,Evaline Muthoni,Daraja 6wks,09-06-2026,9000,11700,10900,93.16%,800,Overdue,21-07-2026
+178,Lucy Njoki Muchina,32309143,794113332,Nancy Wamboi,Daraja 6wks,01-05-2026,7000,9100,8335,91.59%,765,Overdue,12-06-2026
+179,Caroline Wairimu Wambui,23133717,746421447,Sharlet Sally,Daraja 4wks,04-06-2026,9000,11250,10750,95.56%,500,Overdue,02-07-2026
+180,Mirriam Wamuyu Kiama,28500793,717735348,Mercy  Karimi,Daraja 6wks,03-07-2026,10000,13000,12500,96.15%,500,Overdue,14-08-2026
+181,Consolata Wangeci Murigu,10134255,710601342,Sharlet Sally,Daraja 6wks,28-05-2026,7000,9100,8835,97.09%,265,Overdue,09-07-2026
+182,Patricia Wanjiru Kario,31156525,721996908,Simon Gichigi,Daraja 6wks,19-05-2026,6999,9099,8854,97.31%,245,Overdue,30-06-2026
+183,Jackson Mutinda Mutunga,12956509,702744779,Silvester Muthomi,Daraja 6wks,23-06-2026,10000,13000,12760,98.15%,240,Overdue,04-08-2026
+184,Hellen Wainana,25765046,727059976,Nancy Wamboi,Daraja 6wks,06-05-2026,10000,13000,12857,98.9%,143,Overdue,17-06-2026
