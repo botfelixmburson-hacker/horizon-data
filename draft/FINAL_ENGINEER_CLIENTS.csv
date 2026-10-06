@@ -1,0 +1,58 @@
+id_number,first_name,last_name,phone,email,gender,address,branch,loan_officer_employee_number,next_of_kin_name,next_of_kin_contact,client_status,notes
+25467679,Priscillah,Nyambura Mutonya,,,,,Engineer,,,,active,Migrated from Engineer branch loans
+21791345,Teresa,Wanjiku Nyaguthii,,,,,Engineer,,Jane Njeri Wanjiku,254727142888,Active,Migrated from Engineer branch loans
+21496227,Martha,Wambui Mwangi,,,,,Engineer,,Victor Kuria Mwangi,254769821355,Active,Migrated from Engineer branch loans
+32739955,Mose,Bahati Bevlyne,,,,,Engineer,,Evans Mogoah Nyaega,254715909749,Active,Migrated from Engineer branch loans
+32798367,Abigael,Gichemba Noah,,,,,Engineer,,,,active,Migrated from Engineer branch loans
+20196938,Mirriam,Wanjiku Gitonga,,,,,Engineer,,Regina Wangari Mwangi,254742754722,Active,Migrated from Engineer branch loans
+20473278,Samuel,Kahura Kabiro,,,,,Engineer,,Isaac Njogu Muiruri,254717537152,Active,Migrated from Engineer branch loans
+13882897,Paul,Kariuki Wangaru,,,,,Engineer,,Michael Ndungu Kimani,254725946628,Active,Migrated from Engineer branch loans
+33439693,Francis,Waweru Wang'ombe,,,,,Engineer,,Isaac Kangau Muthee,254745878870,Active,Migrated from Engineer branch loans
+9504030,Josphine,Wanjiru Mbae,,,,,Engineer,,John Mbae Kimani,254713865645,Active,Migrated from Engineer branch loans
+31510377,Everlyne,Atieno Ochieng,,,,,Engineer,,Beatrice Akinyi Ombija,254713537118,Active,Migrated from Engineer branch loans
+42233463,Jane,Njeri Wanjiku,,,,,Engineer,,Ann Njoki Njanja,254798733681,Active,Migrated from Engineer branch loans
+11729390,Sera,Wanjiku Mwangi,,,,,Engineer,,Philip Muriithi Mwangi,254715025272,Active,Migrated from Engineer branch loans
+2950435,Teresiah,Wanjiru Kanyi,,,,,Engineer,,Eneta Wambui Mwaniki,254797064929,Active,Migrated from Engineer branch loans
+27052355,Simon,Kinyanjui Nguhi,,,,,Engineer,,Isaac Mbae Nyoro,254731818745,Active,Migrated from Engineer branch loans
+41394930,Evalyne,Mugure Mwaura,,,,,Engineer,,Agnes Wambui Kamau,254727050349,Active,Migrated from Engineer branch loans
+28726796,John,Musyoka Kamene,,,,,Engineer,,Ann Wambui Nyambura,254748413174,Active,Migrated from Engineer branch loans
+27774973,Sarah,Muthoni Wanjiru,,,,,Engineer,,Pauline Ngubia Waweru,254742794403,Active,Migrated from Engineer branch loans
+21143242,Margaret,Moraa Kirera,,,,,Engineer,,Margaret Mwithaki Kimani,254792373496,Active,Migrated from Engineer branch loans
+11082073,Ambrosia,Wanja Mwangi,,,,,Engineer,,Catherine Njeri Monyo,254769638347,Active,Migrated from Engineer branch loans
+25221358,Mary,Njeri Kimani,,,,,Engineer,,Beth Wambui Kihiko,254796478898,Active,Migrated from Engineer branch loans
+26214022,Susan,Wambui Matu,,,,,Engineer,,Wambui Beth Wangari,254700483702,Active,Migrated from Engineer branch loans
+21791345,Teresa,Wanjiku Nyaguthii (REPEAT),,,,,Engineer,,,,active,Migrated from Engineer branch loans
+39262726,Tabitha,Wangari Ndiro,,,,,Engineer,,Esther Nyakiri Chege,254743958657,Active,Migrated from Engineer branch loans
+5751111,Rahab,Wanjiku Kimani,,,,,Engineer,,Simon Nganga Kariuki,254712731304,Active,Migrated from Engineer branch loans
+24034006,Margaret,Nyambura Mugekenyi,,,,,Engineer,,Esther Muthoni Mwaura,254704888492,Active,Migrated from Engineer branch loans
+28599488,Evalyne,Wanjiru Gichuhi,,,,,Engineer,,Mary Wangari Mwangi,254115931777,Active,Migrated from Engineer branch loans
+13212667,Patrick,Mathenge Wachira,,,,,Engineer,,Paul Ng'ang'a Gichuhi,254712089478,Active,Migrated from Engineer branch loans
+12417467,Samuel,Ruhangi Mwangi,,,,,Engineer,,John Kimani Ngotho,254721156069,Active,Migrated from Engineer branch loans
+26903488,Teresiah,Nduta Gitau,,,,,Engineer,,Kennedy Kirumba Gitau,254114975258,Active,Migrated from Engineer branch loans
+22372303,John,Mirara Muthoga,,,,,Engineer,,Patrick Njoroge Kungu,254745078949,Active,Migrated from Engineer branch loans
+24938672,Hannah,Nyaguthii,,,,,Engineer,,Mirriam Wairimu Gitaka,254741123659,Active,Migrated from Engineer branch loans
+27492006,Mercy,Nyambura Maina,,,,Karatina,Engineer,,,,Dormant,Migrated from Engineer branch loans
+26869225,Esther,Njambi Numera,,,,,Engineer,,Mary Wanjiku Muigai,254715641477,Active,Migrated from Engineer branch loans
+27860175,Elizabeth,Nyambura Gitau,,,,,Engineer,,Esther Wanjiru Muriithi,254111573126,Active,Migrated from Engineer branch loans
+26744903,Fredrick,Odionyi,,,,,Engineer,,Dorcas Wambui Kamau,254718958835,Active,Migrated from Engineer branch loans
+28382916,Salome,Njeri Mbuthia,,,,,Engineer,,Mary Njeri Kamau,254716427700,Active,Migrated from Engineer branch loans
+28102915,Naomi,Wanjiru Njuguna,,,,,Engineer,,Grace Wambui Kirungo,254748838165,Active,Migrated from Engineer branch loans
+33003036,Jackson,Njogu Ndekei,,,,,Engineer,,Benson Muthee Kinyanjui,254114361766,Active,Migrated from Engineer branch loans
+25476433,Esther,Gathoni Chege,,,,,Engineer,,Josphine Njoki Ndung'u,254725569996,Active,Migrated from Engineer branch loans
+7028707,Catherine,Wachuka Kariuki,,,,,Engineer,,Jackline Warukira Kariuki,254702695058,Active,Migrated from Engineer branch loans
+25486582,Jane,Wanjiku Macharia,,,,,Engineer,,Peter Karibu Githitu,254701640618,Active,Migrated from Engineer branch loans
+31012591,Damaris,Wairimu Mwangi,,,,,Engineer,,Grace Wanjiru Karungo,254727903371,Active,Migrated from Engineer branch loans
+32517912,Grace,Mugure Macharia,,,,,Engineer,,Grace Wambui Ndiritu,254115444106,Active,Migrated from Engineer branch loans
+22118116,Nelson,Mwangi Kirima,,,,,Engineer,,Paul Thiong'o Mwangi,254717034868,Active,Migrated from Engineer branch loans
+26275607,Tabitha,Wangari Kimani,,,,,Engineer,,Juliana Nyokabi Njogu,254704296513,Active,Migrated from Engineer branch loans
+25532121,Monica,Wanjiru,,,,,Engineer,,Ruth Wairimu Ngatia,254721320807,Active,Migrated from Engineer branch loans
+32739955,Mose,Bahati Bevlyne(Repeat),,,,,Engineer,,,,active,Migrated from Engineer branch loans
+36160319,Ann,Njoki Njanja,,,,,Engineer,,Mercy Murugi Mutundu,254707405265,Active,Migrated from Engineer branch loans
+42233463,Jane,Njeri Wanjiku (repeat),,,,,Engineer,,,,active,Migrated from Engineer branch loans
+25467679,Priscillah,Nyambura Mutonya (REPEAT),,,,,Engineer,,Hannah Wairimu Githinji,254707572433,Active,Migrated from Engineer branch loans
+32798367,Abigael,Gichemba Noah (REPEAT),,,,,Engineer,,John Kanini Nyaga,254702014098,Active,Migrated from Engineer branch loans
+9815102,Leah,Wanjiru Waweru,,,,,Engineer,,Hannah Nyokabi Kungu,254715007156,Active,Migrated from Engineer branch loans
+21905797,Peter,Maina Mworia,,,,,Engineer,,David Maina Wambui,254758411395,Active,Migrated from Engineer branch loans
+8060028,Monica,Wambui Nguku,,,,,Engineer,,Andrew Mungai Thuo,254706106746,Active,Migrated from Engineer branch loans
+24633265,Sera,Muringa Ruoro,,,,,Engineer,,Obadiah Mburu Ruoro,254712477429,Active,Migrated from Engineer branch loans
+27307693,Beatrice,Nyambura Mwangi,,,,,Engineer,,Esther Wambui Wachira,254727118382,Active,Migrated from Engineer branch loans

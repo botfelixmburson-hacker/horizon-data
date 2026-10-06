@@ -1,0 +1,58 @@
+Disbursement Date,Client Name,Client Contact,Client ID,Guarantor Name,Guarantor Contact,Guarantor ID,Amount Disbursed,Repayment Period,Processing Fees,Interest,OLB,Weekly Installment,Total Payments,Total Loan Balance,Loan Officer,Branch,Month
+2026-09-04,Priscillah Nyambura Mutonya,,25467679,Hannah Wairimu Githinji,707572433,,10000,6 Weeks,,,,,,CLEARED,Ann Wangari Rigio,ENGINEER,Engineer
+2026-09-04,Teresa Wanjiku Nyaguthii,,21791345,Jane Njeri Wanjiku,727142888,,15000,4 Weeks,,,,,,CLEARED,Ann Wangari Rigio,ENGINEER,Engineer
+2026-09-07,Martha Wambui Mwangi,,21496227,Victor Kuria Mwangi,769821355,,10000,4 weeks,,,,,,CLEARED,Ann Wangari Rigio,ENGINEER,Engineer
+2026-09-09,Mose Bahati Bevlyne,,32739955,Evans Mogoah Nyaega,715909749,,20000,4 Weeks,,,,,,CLEARED,Ann Wangari Rigio,ENGINEER,Engineer
+2026-09-09,Abigael Gichemba Noah,,32798367,John Kanini Nyaga,702014098,,20000,4 Weeks,,,,,,CLEARED,Ann Wangari Rigio,ENGINEER,Engineer
+2026-09-09,Mirriam Wanjiku Gitonga,,20196938,Regina Wangari Mwangi ,742754722,,8000,4 weeks,,,,,,CLEARED,Milkah Wagaki Kihara,ENGINEER,Engineer
+2026-09-10,Samuel Kahura Kabiro,,20473278,Isaac Njogu Muiruri,717537152,,7000,4 Weeks,,,,,,4500,Milka,ENGINEER,Engineer
+2026-09-10,Paul Kariuki Wangaru,,13882897,Michael Ndungu Kimani,725946628,,20000,4 Weeks,,,,,,CLEARED,Ann,ENGINEER,Engineer
+2026-09-10,Francis Waweru Wang'ombe,,33439693,Isaac Kangau Muthee,745878870,,10000,6 Weeks,,,,,,CLEARED,Milka,ENGINEER,Engineer
+2026-09-11,Josphine Wanjiru Mbae,,9504030,John Mbae Kimani,713865645,,20000,6 Weeks,,,,,,17332,Ann,ENGINEER,Engineer
+2026-09-11,Everlyne Atieno Ochieng,,31510377,Beatrice Akinyi Ombija,713537118,,10000,6 Weeks,,,,,,8666,Ann,ENGINEER,Engineer
+2026-09-11,Jane Njeri Wanjiku,,42233463,Ann Njoki Njanja,798733681,,10000,4 Weeks,,,,,,9000,Ann,ENGINEER,Engineer
+2026-09-15,Sera Wanjiku Mwangi,,11729390,Philip Muriithi Mwangi ,715025272,,15000,6 Weeks,,,,,,13000,Milka,ENGINEER,Engineer
+2026-09-15,Teresiah Wanjiru Kanyi,,2950435,Eneta Wambui Mwaniki,797064929,,10000,6 Weeks,,,,,,8666,Milka,ENGINEER,Engineer
+2026-09-15,Simon Kinyanjui Nguhi,,27052355,Isaac Mbae Nyoro,731818745,,16000,6 Weeks,,,,,,13866,Milka,ENGINEER,Engineer
+2026-09-15,Evalyne Mugure Mwaura,,41394930,Agnes Wambui Kamau,727050349,,10000,6 Weeks,,,,,,CLEARED,Ann,ENGINEER,Engineer
+2026-09-15,John Musyoka Kamene,,28726796,Ann Wambui Nyambura,748413174,,12000,6 Weeks,,,,,,10400,Ann,ENGINEER,Engineer
+2026-09-15,Sarah Muthoni Wanjiru,,27774973,Pauline Ngubia Waweru,742794403,,15000,6 Weeks,,,,,,13000,Ann,ENGINEER,Engineer
+2026-09-15,Margaret Moraa Kirera,,21143242,Margaret Mwithaki Kimani,792373496,,10000,4 Weeks,,,,,,10000,Ann,ENGINEER,Engineer
+2026-09-15,Ambrosia Wanja Mwangi,,11082073,Catherine Njeri Monyo,769638347,,10000,6 Weeks,,,,,,8666,Milka,ENGINEER,Engineer
+2026-09-15,Mary Njeri Kimani,,25221358,Beth Wambui Kihiko,796478898,,20000,6 Weeks,,,,,,17332,Ann,ENGINEER,Engineer
+2026-09-15,Susan Wambui Matu,,26214022,Wambui Beth Wangari,700483702,,15000,6 Weeks,,,,,,13000,Ann,ENGINEER,Engineer
+2026-09-15,Teresa Wanjiku Nyaguthii (REPEAT),,21791345,Jane Njeri Wanjiku,727142888,,15000,4 Weeks,,,,,,9000,Ann,ENGINEER,Engineer
+2026-09-17,Tabitha Wangari Ndiro ,,39262726,Esther Nyakiri Chege,743958657,,10000,6 weeks,,,,,,10833,Ann,ENGINEER,Engineer
+2026-09-17,Rahab Wanjiku Kimani,,5751111,Simon Nganga Kariuki,712731304,,15000,6 Weeks,,,,,,16250,Ann,ENGINEER,Engineer
+2026-09-17,Margaret Nyambura Mugekenyi,,24034006,Esther Muthoni Mwaura,704888492,,8000,6 Weeks,,,,,,7617,Ann,ENGINEER,Engineer
+2026-09-17,Evalyne Wanjiru Gichuhi,,28599488,Mary Wangari Mwangi,115931777,,10000,6 weeks,,,,,,CLEARED,Milka,ENGINEER,Engineer
+2026-09-17,Patrick Mathenge Wachira,,13212667,Paul Ng'ang'a Gichuhi,712089478,,10000,6 Weeks,,,,,,10833,Ann,ENGINEER,Engineer
+2026-09-17,Samuel Ruhangi Mwangi,,12417467,John Kimani Ngotho,721156069,,8000,6 Weeks,,,,,,8333,Milka,ENGINEER,Engineer
+2026-09-18,Teresiah Nduta Gitau,,26903488,Kennedy Kirumba Gitau,114975258,,10000,6 Weeks,,,,,,10833,Milka,ENGINEER,Engineer
+2026-09-18,John Mirara Muthoga,,22372303,Patrick Njoroge Kungu,745078949,,30000,4 Weeks,,,,,,27000,Ann,ENGINEER,Engineer
+2026-09-18,Hannah Nyaguthii,,24938672,Mirriam Wairimu Gitaka,741123659,,15000,6 Weeks,,,,,,16250,Ann,ENGINEER,Engineer
+2026-09-18,Mercy Nyambura Maina,,27492006,Tabitha Waithera Ndungu,797744897,,15000,6 Weeks,,,,,,16250,Milka,ENGINEER,Engineer
+2026-09-22,Esther Njambi Numera,,26869225,Mary Wanjiku Muigai,715641477,,15000,6 weeks,,,,,,16250,Ann,ENGINEER,Engineer
+2026-09-22,Elizabeth Nyambura Gitau,,27860175,Esther Wanjiru Muriithi,111573126,,10000,6 weeks,,,,,,10833,Ann,ENGINEER,Engineer
+2026-09-22,Fredrick Odionyi,,26744903,Dorcas Wambui Kamau,718958835,,20000,6 Weeks,,,,,,23833,Ann,ENGINEER,Engineer
+2026-09-22,Salome Njeri Mbuthia,,28382916,Mary Njeri Kamau,716427700,,10000,6 weeks,,,,,,10833,Milka,ENGINEER,Engineer
+2026-09-22,Naomi Wanjiru Njuguna,,28102915,Grace Wambui Kirungo,748838165,,10000,6 weeks,,,,,,10833,Ann,ENGINEER,Engineer
+2026-09-22,Jackson Njogu Ndekei,,33003036,Benson Muthee Kinyanjui,114361766,,10000,6 Weeks,,,,,,11066,Milka,ENGINEER,Engineer
+2026-09-22,Esther Gathoni Chege,,25476433,Josphine Njoki Ndung'u,725569996,,20000,6 Weeks,,,,,,21666,Milka,ENGINEER,Engineer
+2026-09-23,Catherine Wachuka Kariuki,,7028707,Jackline Warukira Kariuki,702695058,,15000,6 Weeks,,,,,,16250,Milka,ENGINEER,Engineer
+2026-09-23,Jane Wanjiku Macharia,,25486582,Peter Karibu Githitu,701640618,,10000,6 weeks,,,,,,12000,Milka,ENGINEER,Engineer
+2026-09-25,Damaris Wairimu Mwangi,,31012591,Grace Wanjiru Karungo,727903371,,10000,6 weeks,,,,,,13000,Milka,ENGINEER,Engineer
+2026-09-25,Grace Mugure Macharia,,32517912,Grace Wambui Ndiritu,115444106,,10000,6 weeks,,,,,,13000,Milka,ENGINEER,Engineer
+2026-09-25,Nelson Mwangi Kirima,,22118116,Paul Thiong'o Mwangi,717034868,,20000,4 weeks,,,,,,18000,Ann,ENGINEER,Engineer
+2026-09-28,Tabitha Wangari Kimani,,26275607,Juliana Nyokabi Njogu,704296513,,10000,6 Weeks,,,,,,13000,Milka,ENGINEER,Engineer
+2026-09-28,Monica Wanjiru,,25532121,Ruth Wairimu Ngatia,721320807,,10000,6 Weeks,,,,,,13000,Milka,ENGINEER,Engineer
+2026-09-28,Mose Bahati Bevlyne(Repeat),,32739955,Evans Mogoah Nyaega,715909749,,20000,4 Weeks,,,,,,24000,Ann,ENGINEER,Engineer
+2026-09-28,Ann Njoki Njanja,,36160319,Mercy Murugi Mutundu,707405265,,10000,4 Weeks,,,,,,12000,Ann,ENGINEER,Engineer
+2026-09-11,Jane Njeri Wanjiku (repeat),,42233463,Ann Njoki Njanja,798733681,,10000,4 Weeks,,,,,,12000,Ann,ENGINEER,Engineer
+2026-09-28,Priscillah Nyambura Mutonya (REPEAT),,25467679,Hannah Wairimu Githinji,707572433,,10000,6 Weeks,,,,,,13000,Ann,ENGINEER,Engineer
+2026-09-29,Abigael Gichemba Noah (REPEAT),,32798367,John Kanini Nyaga,702014098,,20000,4 Weeks,,,,,,24000,Ann,ENGINEER,Engineer
+2026-09-29,Leah Wanjiru Waweru,,9815102,Hannah Nyokabi Kungu,715007156,,12000,6 Weeks,,,,,,19600,Milka,ENGINEER,Engineer
+2026-09-29,Peter Maina Mworia,,21905797,David Maina Wambui,758411395,,10000,4 weeks,,,,,,13000,Milka,ENGINEER,Engineer
+2026-10-02,Monica Wambui Nguku ,,8060028,Andrew Mungai Thuo,706106746,,7000,6 Weeks,,,,,,9000,Milka,ENGINEER,Engineer
+2026-10-02,Sera Muringa Ruoro,,24633265,Obadiah Mburu Ruoro,712477429,,8000,6 Weeks,,,,,,10000,Milka,ENGINEER,Engineer
+2026-10-02,Beatrice Nyambura Mwangi,,27307693,Esther Wambui Wachira,727118382,,8000,6 Weeks,,,,,,10000,Ann,ENGINEER,Engineer
