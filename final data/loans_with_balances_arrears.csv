@@ -1,0 +1,762 @@
+﻿Loan Number,Client Name,Client ID,Client Phone,Guarantor Name,Guarantor Contact,Product Name,Principal,Balance,Interest Rate,Disbursement Date,Maturity Date,Branch,Loan Officer,Status,Arrears Indicator,Source File
+LN-529,,,792612031,,,Daraja (6 Wks),7000,10000,30,9/9/2029,51/9/2029,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-466,,,,,,Daraja (6 Wks),10000,8666,30,9/11/2026,51/11/2026,ENGINEER,,YES - In Arrears,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv
+LN-465,,,,,,wezesha (6 Wks),20000,17332,30,9/11/2026,51/11/2026,ENGINEER,,YES - In Arrears,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv
+LN-467,,,,,,Daraja (6 Wks),10000,9000,30,9/11/2026,51/11/2026,ENGINEER,,YES - In Arrears,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv
+LN-505,,,,,,Daraja (6 Wks),10000,12000,30,9/11/2026,51/11/2026,ENGINEER,,YES - In Arrears,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv
+LN-462,,,,,,Daraja (6 Wks),7000,4500,30,9/10/2026,51/10/2026,ENGINEER,,YES - In Arrears,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv
+LN-463,,,,,,wezesha (6 Wks),20000,CLEARED,30,9/10/2026,51/10/2026,ENGINEER,,NO - Paid,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv
+LN-464,,,,,,Daraja (6 Wks),10000,CLEARED,30,9/10/2026,51/10/2026,ENGINEER,,NO - Paid,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv
+LN-736,,,790058345,,,Daraja (4 Wks),8000,10000,20,3/10/2026,31/10/2026,Nyahururu,,YES - In Arrears,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv
+LN-737,,,791046162,,,Daraja (6 Wks),7000,10000,30,3/10/2026,45/10/2026,Nyahururu,,YES - In Arrears,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv
+LN-735,,,725559308,,,Daraja (6 Wks),7000,10000,30,3/10/2026,45/10/2026,Nyahururu,,YES - In Arrears,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv
+LN-734,,,795314749,,,Daraja (6 Wks),7000,10000,30,3/10/2026,45/10/2026,Nyahururu,,YES - In Arrears,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv
+LN-209,,,795314749,,,Daraja (6 Wks),7000,10000,30,3/10/2026,45/10/2026,Nyahururu,,YES - In Arrears,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv
+LN-212,,,791046162,,,Daraja (6 Wks),7000,10000,30,3/10/2026,45/10/2026,Nyahururu,,YES - In Arrears,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv
+LN-211,,,790058345,,,Daraja (4 Wks),8000,10000,20,3/10/2026,31/10/2026,Nyahururu,,YES - In Arrears,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv
+LN-210,,,725559308,,,Daraja (6 Wks),7000,10000,30,3/10/2026,45/10/2026,Nyahururu,,YES - In Arrears,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv
+LN-196,,,791933445,,,Daraja (4 Wks),7000,9000,20,2/10/2026,30/10/2026,Nyahururu,,YES - In Arrears,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv
+LN-200,,,718886595,,,Daraja (6 Wks),7000,10000,30,2/10/2026,44/10/2026,Nyahururu,,YES - In Arrears,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv
+LN-201,,,720813561,,,wezesha (6 Wks),19000,24800,30,2/10/2026,44/10/2026,Nyahururu,,YES - In Arrears,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv
+LN-202,,,710733293,,,Daraja (6 Wks),7000,10000,30,2/10/2026,44/10/2026,Nyahururu,,YES - In Arrears,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv
+LN-197,,,715068622,,,Daraja (6 Wks),7000,10000,30,2/10/2026,44/10/2026,Nyahururu,,YES - In Arrears,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv
+LN-198,,,725818764,,,Daraja (4 Wks),8000,10000,20,2/10/2026,30/10/2026,Nyahururu,,YES - In Arrears,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv
+LN-199,,,721356359,,,Daraja (4 Wks),7000,9000,20,2/10/2026,30/10/2026,Nyahururu,,YES - In Arrears,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv
+LN-206,,,740854760,,,Vuka (6 Wks),12000,15600,30,2/10/2026,44/10/2026,Nyahururu,,YES - In Arrears,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv
+LN-207,,,769409406,,,Vuka (4 Wks),12000,14400,20,2/10/2026,30/10/2026,Nyahururu,,YES - In Arrears,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv
+LN-208,,,795884457,,,Daraja (6 Wks),7000,10000,30,2/10/2026,44/10/2026,Nyahururu,,YES - In Arrears,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv
+LN-203,,,748310063,,,Daraja (6 Wks),10000,13000,30,2/10/2026,44/10/2026,Nyahururu,,YES - In Arrears,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv
+LN-204,,,700430558,,,Daraja (6 Wks),7000,10000,30,2/10/2026,44/10/2026,Nyahururu,,YES - In Arrears,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv
+LN-205,,,719700664,,,Daraja (6 Wks),7000,10000,30,2/10/2026,44/10/2026,Nyahururu,,YES - In Arrears,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv
+LN-728,,,748310063,,,Daraja (6 Wks),10000,13000,30,2/10/2026,44/10/2026,Nyahururu,,YES - In Arrears,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv
+LN-727,,,710733293,,,Daraja (6 Wks),7000,10000,30,2/10/2026,44/10/2026,Nyahururu,,YES - In Arrears,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv
+LN-726,,,720813561,,,wezesha (6 Wks),19000,24800,30,2/10/2026,44/10/2026,Nyahururu,,YES - In Arrears,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv
+LN-730,,,719700664,,,Daraja (6 Wks),7000,10000,30,2/10/2026,44/10/2026,Nyahururu,,YES - In Arrears,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv
+LN-733,,,795884457,,,Daraja (6 Wks),7000,10000,30,2/10/2026,44/10/2026,Nyahururu,,YES - In Arrears,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv
+LN-732,,,769409406,,,Vuka (4 Wks),12000,14400,20,2/10/2026,30/10/2026,Nyahururu,,YES - In Arrears,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv
+LN-731,,,740854760,,,Vuka (6 Wks),12000,15600,30,2/10/2026,44/10/2026,Nyahururu,,YES - In Arrears,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv
+LN-723,,,725818764,,,Daraja (4 Wks),8000,10000,20,2/10/2026,30/10/2026,Nyahururu,,YES - In Arrears,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv
+LN-729,,,700430558,,,Daraja (6 Wks),7000,10000,30,2/10/2026,44/10/2026,Nyahururu,,YES - In Arrears,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv
+LN-722,,,715068622,,,Daraja (6 Wks),7000,10000,30,2/10/2026,44/10/2026,Nyahururu,,YES - In Arrears,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv
+LN-721,,,791933445,,,Daraja (4 Wks),7000,9000,20,2/10/2026,30/10/2026,Nyahururu,,YES - In Arrears,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv
+LN-725,,,718886595,,,Daraja (6 Wks),7000,10000,30,2/10/2026,44/10/2026,Nyahururu,,YES - In Arrears,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv
+LN-724,,,721356359,,,Daraja (4 Wks),7000,9000,20,2/10/2026,30/10/2026,Nyahururu,,YES - In Arrears,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv
+LN-588,,,742033906,,,Daraja (6 Wks),7000,10000,30,29/9/2026,71/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-589,,,701035799,,,Vuka (6 Wks),15000,19500,30,29/9/2026,71/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-587,,,717622386,,,Vuka (4 Wks),12000,14400,20,29/9/2026,57/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-585,,,722655548,,,Daraja (6 Wks),8000,11000,30,28/9/2026,70/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-584,,,720630896,,,Daraja (6 Wks),8000,11000,30,28/9/2026,70/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-582,,,722527858,,,Daraja (6 Wks),7000,10000,30,28/9/2026,70/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-583,,,720241837,,,Daraja (4 Wks),10000,12000,20,28/9/2026,56/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-580,,,748485559,,,Daraja (6 Wks),7000,10000,30,28/9/2026,70/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-581,,,798632927,,,Daraja (4 Wks),10000,12000,20,28/9/2026,56/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-586,,,704163771,,,wezesha (4 Wks),20000,24000,20,28/9/2026,56/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-572,,,707655312,,,Daraja (6 Wks),10000,13000,30,25/9/2026,67/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-573,,,721950008,,,Daraja (4 Wks),7000,9000,20,25/9/2026,53/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-571,,,794817796,,,Daraja (4 Wks),7000,9000,20,25/9/2026,53/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-578,,,743647697,,,Daraja (4 Wks),7000,9000,20,25/9/2026,53/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-574,,,791542906,,,Daraja (6 Wks),10000,13000,30,25/9/2026,67/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-577,,,728290725,,,Vuka (6 Wks),12000,15600,30,25/9/2026,67/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-576,,,716339627,,,Daraja (4 Wks),10000,12000,20,25/9/2026,53/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-575,,,758849257,,,Daraja (4 Wks),8000,10000,20,25/9/2026,53/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-579,,,700677627,,,Daraja (6 Wks),7000,10000,30,25/9/2026,67/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-570,,,758091413,,,Daraja (4 Wks),10000,12000,20,24/9/2026,52/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-569,,,726683825,,,Daraja (6 Wks),10000,13000,30,24/9/2026,66/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-567,,,711973607,,,wezesha (4 Wks),20000,20000,20,23/9/2026,51/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-566,,,714359854,,,Ngaa (6 Wks),30000,40500,30,23/9/2026,65/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-568,,,723849109,,,Daraja (6 Wks),10000,13000,30,23/9/2026,65/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-560,,,729828281,,,Daraja (6 Wks),7000,10000,30,22/9/2026,64/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-559,,,724479261,,,Daraja (4 Wks),10000,12000,20,22/9/2026,50/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-565,,,724836941,,,Daraja (4 Wks),10000,12000,20,22/9/2026,50/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-563,,,729144308,,,Daraja (6 Wks),10000,13000,30,22/9/2026,64/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-564,,,768824476,,,Daraja (6 Wks),8000,11000,30,22/9/2026,64/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-561,,,711227118,,,Ngaa (6 Wks),30000,40500,30,22/9/2026,64/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-562,,,729518016,,,Daraja (6 Wks),8000,11000,30,22/9/2026,64/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-557,,,721318231,,,Vuka (6 Wks),12000,15600,30,21/9/2026,63/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-556,,,714076538,,,Daraja (4 Wks),10000,12000,20,21/9/2026,49/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-555,,,704244146,,,Daraja (6 Wks),10000,13000,30,21/9/2026,63/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-554,,,725380367,,,Daraja (6 Wks),10000,13000,30,21/9/2026,63/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-558,,,705191158,,,Daraja (6 Wks),7000,10000,30,21/9/2026,63/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-663,,,254797584851,,,Karibu (4 Wks),5000,1500,20,19/9/2026,47/9/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-551,,,708448209,,,Daraja (6 Wks),10000,13000,30,18/9/2026,60/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-550,,,702028822,,,Daraja (6 Wks),10000,13000,30,18/9/2026,60/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-549,,,715365131,,,Vuka (6 Wks),12000,15600,30,18/9/2026,60/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-660,,,254727698567,,,wezesha (4 Wks),18000,5400,20,18/9/2026,46/9/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-553,,,757091865,,,Daraja (6 Wks),7000,10000,30,18/9/2026,60/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-552,,,703915750,,,Daraja (6 Wks),7000,10000,30,18/9/2026,60/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-547,,,700480519,,,Daraja (6 Wks),8000,11000,30,17/9/2026,59/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-548,,,712833328,,,Vuka (6 Wks),12000,15600,30,17/9/2026,59/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-546,,,704424647,,,Daraja (6 Wks),10000,13000,30,17/9/2026,59/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-545,,,715706681,,,Paa (6 Wks),25000,34050,30,17/9/2026,59/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-540,,,724446422,,,Daraja (6 Wks),7000,10000,30,16/9/2026,58/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-539,,,7922579608,,,Daraja (6 Wks),10000,13000,30,16/9/2026,58/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-538,,,742982500,,,Daraja (6 Wks),9000,12000,30,16/9/2026,58/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-541,,,746405759,,,Daraja (6 Wks),8000,11000,30,16/9/2026,58/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-544,,,797064363,,,Daraja (6 Wks),7000,10000,30,16/9/2026,58/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-543,,,706439225,,,Daraja (4 Wks),10000,12000,20,16/9/2026,44/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-542,,,799871943,,,Vuka (6 Wks),12000,15600,30,16/9/2026,58/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-532,,,714716360,,,Daraja (6 Wks),10000,13000,30,14/9/2026,56/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-534,,,705304253,,,Daraja (6 Wks),10000,13000,30,14/9/2026,56/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-535,,,113300495,,,Daraja (6 Wks),7000,10000,30,14/9/2026,56/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-537,,,714885607,,,Vuka (6 Wks),12000,15600,30,14/9/2026,56/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-536,,,725709459,,,Daraja (6 Wks),8000,11000,30,14/9/2026,56/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-531,,,711686002,,,Vuka (6 Wks),12000,15600,30,14/9/2026,56/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-530,,,799835033,,,Daraja (6 Wks),10000,13000,30,10/9/2026,52/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-527,,,794416300,,,Daraja (6 Wks),7000,10000,30,9/9/2026,51/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-528,,,729417206,,,Daraja (6 Wks),10000,13000,30,9/9/2026,51/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-461,,,,,,Daraja (6 Wks),8000,CLEARED,30,9/9/2026,51/9/2026,ENGINEER,38590917,NO - Paid,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv
+LN-460,,,,,,wezesha (6 Wks),20000,CLEARED,30,9/9/2026,51/9/2026,ENGINEER,38439700,NO - Paid,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv
+LN-459,,,,,,wezesha (6 Wks),20000,CLEARED,30,9/9/2026,51/9/2026,ENGINEER,38439700,NO - Paid,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv
+LN-523,,,797775990,,,Vuka (6 Wks),14000,18200,30,8/9/2026,50/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-522,,,718846710,,,Vuka (6 Wks),12000,15600,30,8/9/2026,50/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-524,,,718871498,,,Daraja (6 Wks),7000,10000,30,8/9/2026,50/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-526,,,759900772,,,Daraja (4 Wks),9000,11000,20,8/9/2026,36/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-525,,,727877025,,,Daraja (6 Wks),7000,10000,30,8/9/2026,50/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-521,,,715228494,,,Daraja (6 Wks),7000,10000,30,7/9/2026,49/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-518,,,112149690,,,wezesha (6 Wks),20000,26000,30,7/9/2026,49/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-519,,,707593937,,,Daraja (6 Wks),10000,10000,30,7/9/2026,49/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-520,,,724164082,,,Daraja (4 Wks),10000,12000,20,7/9/2026,35/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-515,,,795157747,,,Daraja (6 Wks),7000,10000,30,4/9/2026,46/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-516,,,720552419,,,Daraja (6 Wks),9000,12000,30,4/9/2026,46/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-517,,,706607577,,,Daraja (6 Wks),10000,13000,30,4/9/2026,46/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-513,,,741590773,,,Daraja (6 Wks),7000,10000,30,2/9/2026,44/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-514,,,721994091,,,Daraja (6 Wks),10000,13000,30,2/9/2026,44/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-189,,,794400120,,,Karibu (6 Wks),3000,4999,30,31/8/2026,70031/8/2026,Nyahururu,,YES - In Arrears,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-190,,,793568159,,,Unknown,2000,2850,0,31/8/2026,63031/8/2026,Nyahururu,,YES - In Arrears,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-187,,,748310063,,,Karibu (6 Wks),3000,0,30,31/8/2026,91031/8/2026,Nyahururu,,NO - Paid,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-188,,,724701702,,,Karibu (6 Wks),3600,5200,30,31/8/2026,109231/8/2026,Nyahururu,,YES - In Arrears,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-191,,,119173109,,,Karibu (6 Wks),3000,3332,30,31/8/2026,70031/8/2026,Nyahururu,,YES - In Arrears,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-194,,,721142486,,,Unknown,10500,13500,0,31/8/2026,283531/8/2026,Nyahururu,,YES - In Arrears,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-195,,,724544938,,,Karibu (6 Wks),3000,4332,30,31/8/2026,91031/8/2026,Nyahururu,,YES - In Arrears,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-192,,,720241837,,,Unknown,2000,0,0,31/8/2026,84031/8/2026,Nyahururu,,NO - Paid,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-193,,,798632927,,,Unknown,2000,0,0,31/8/2026,84031/8/2026,Nyahururu,,NO - Paid,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-184,,,724712026,,,Karibu (6 Wks),4200,3030,30,28/8/2026,127428/8/2026,Nyahururu,,YES - In Arrears,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-183,,,710711406,,,Karibu (6 Wks),3000,4168,30,28/8/2026,70028/8/2026,Nyahururu,,YES - In Arrears,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-186,,,740364099,,,Karibu (6 Wks),3000,1665,30,28/8/2026,70028/8/2026,Nyahururu,,YES - In Arrears,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-185,,,724836941,,,Unknown,2000,0,0,28/8/2026,84028/8/2026,Nyahururu,,NO - Paid,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-178,,,758091413,,,Unknown,2000,0,0,27/8/2026,84027/8/2026,Nyahururu,,NO - Paid,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-177,,,745242789,,,Karibu (6 Wks),3000,2272,30,27/8/2026,91027/8/2026,Nyahururu,,YES - In Arrears,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-176,,,726784976,,,Karibu (6 Wks),3000,10000,30,27/8/2026,70027/8/2026,Nyahururu,,YES - In Arrears,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-179,,,758991413,,,Karibu (6 Wks),3000,4999,30,27/8/2026,70027/8/2026,Nyahururu,,YES - In Arrears,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-182,,,704746868,,,Karibu (6 Wks),3000,0,30,27/8/2026,70027/8/2026,Nyahururu,,NO - Paid,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-181,,,723519085,,,Karibu (6 Wks),3000,2165,30,27/8/2026,91027/8/2026,Nyahururu,,YES - In Arrears,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-180,,,707492014,,,Karibu (6 Wks),3000,3663,30,27/8/2026,77027/8/2026,Nyahururu,,YES - In Arrears,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-171,,,728290725,,,Karibu (6 Wks),3600,0,30,26/8/2026,109226/8/2026,Nyahururu,,NO - Paid,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-170,,,714503794,,,Karibu (6 Wks),3000,0,30,26/8/2026,70026/8/2026,Nyahururu,,NO - Paid,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-169,,,724024611,,,Karibu (6 Wks),3000,2165,30,26/8/2026,91026/8/2026,Nyahururu,,YES - In Arrears,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-175,,,711973607,,,Karibu (6 Wks),4000,0,30,26/8/2026,168026/8/2026,Nyahururu,,NO - Paid,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-173,,,790082214,,,Karibu (6 Wks),3000,6100,30,26/8/2026,84026/8/2026,Nyahururu,,YES - In Arrears,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-172,,,714076538,,,Unknown,2000,0,0,26/8/2026,84026/8/2026,Nyahururu,,NO - Paid,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-163,,,701483016,,,Karibu (6 Wks),3000,1830,30,25/8/2026,77025/8/2026,Nyahururu,,YES - In Arrears,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-164,,,757601818,,,Karibu (6 Wks),3000,10000,30,25/8/2026,70025/8/2026,Nyahururu,,YES - In Arrears,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-161,,,721950008,,,Unknown,2000,0,0,25/8/2026,63025/8/2026,Nyahururu,,NO - Paid,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-162,,,797775990,,,Karibu (6 Wks),3600,0,30,25/8/2026,109225/8/2026,Nyahururu,,NO - Paid,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-167,,,115563126,,,Karibu (6 Wks),3000,1665,30,25/8/2026,70025/8/2026,Nyahururu,,YES - In Arrears,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-168,,,114744475,,,Karibu (6 Wks),3000,10000,30,25/8/2026,70025/8/2026,Nyahururu,,YES - In Arrears,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-165,,,700677627,,,Karibu (6 Wks),3000,0,30,25/8/2026,70025/8/2026,Nyahururu,,NO - Paid,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-166,,,706535129,,,Karibu (6 Wks),3000,1665,30,25/8/2026,70025/8/2026,Nyahururu,,YES - In Arrears,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-153,,,715365131,,,Karibu (6 Wks),3000,0,30,24/8/2026,91024/8/2026,Nyahururu,,NO - Paid,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-154,,,728981668,,,Karibu (6 Wks),3000,0,30,24/8/2026,70024/8/2026,Nyahururu,,NO - Paid,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-152,,,708199244,,,Karibu (6 Wks),4000,17000,30,24/8/2026,168024/8/2026,Nyahururu,,YES - In Arrears,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-150,,,740548417,,,Unknown,2000,0,0,24/8/2026,63024/8/2026,Nyahururu,,NO - Paid,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-151,,,769621536,,,Karibu (6 Wks),4500,3250,30,24/8/2026,136524/8/2026,Nyahururu,,YES - In Arrears,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-155,,,758849257,,,Unknown,2000,0,0,24/8/2026,70024/8/2026,Nyahururu,,NO - Paid,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-159,,,743647697,,,Unknown,2000,0,0,24/8/2026,63024/8/2026,Nyahururu,,NO - Paid,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-158,,,794817796,,,Karibu (6 Wks),3000,0,30,24/8/2026,70024/8/2026,Nyahururu,,NO - Paid,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-160,,,724479261,,,Unknown,2000,0,0,24/8/2026,84024/8/2026,Nyahururu,,NO - Paid,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-156,,,742033906,,,Karibu (6 Wks),3000,1665,30,24/8/2026,70024/8/2026,Nyahururu,,YES - In Arrears,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-157,,,723204844,,,Karibu (6 Wks),3000,0,30,24/8/2026,70024/8/2026,Nyahururu,,NO - Paid,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv
+LN-149,,,702028822,,,Daraja (6 Wks),10000,13000,30,30/7/2026,72/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-142,,,708448209,,,Daraja (6 Wks),10000,13000,30,29/7/2026,71/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-143,,,704825688,,,Daraja (6 Wks),7000,10000,30,29/7/2026,71/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-140,,,727865456,,,Ngaa (6 Wks),30000,40500,30,29/7/2026,71/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-141,,,724701702,,,Vuka (6 Wks),12000,15600,30,29/7/2026,71/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-146,,,729417206,,,Daraja (6 Wks),10000,13000,30,29/7/2026,71/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-147,,,718846710,,,Vuka (6 Wks),12000,15600,30,29/7/2026,71/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-144,,,711382851,,,Karibu (4 Wks),5000,6000,20,29/7/2026,57/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-145,,,718659733,,,Daraja (6 Wks),7000,10000,30,29/7/2026,71/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-133,,,715616331,,,Vuka (6 Wks),12000,15600,30,28/7/2026,70/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-134,,,724836941,,,Daraja (4 Wks),10000,12000,20,28/7/2026,56/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-131,,,724479261,,,Daraja (4 Wks),8000,10000,20,28/7/2026,56/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-132,,,721356359,,,Vuka (4 Wks),15000,19500,20,28/7/2026,56/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-135,,,718886595,,,Karibu (4 Wks),5000,6000,20,28/7/2026,56/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-138,,,721950008,,,Daraja (4 Wks),7000,9000,20,28/7/2026,56/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-139,,,703418234,,,Daraja (4 Wks),7000,9000,20,28/7/2026,56/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-136,,,701169467,,,Daraja (6 Wks),8000,11000,30,28/7/2026,70/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-137,,,723858169,,,Karibu (4 Wks),5000,6000,20,28/7/2026,56/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-127,,,720813561,,,wezesha (6 Wks),19000,24800,30,27/7/2026,69/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-126,,,757723589,,,Karibu (4 Wks),5000,6000,20,27/7/2026,55/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-125,,,708199244,,,wezesha (4 Wks),20000,24000,20,27/7/2026,55/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-130,,,724544938,,,Daraja (6 Wks),10000,13000,30,27/7/2026,69/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-129,,,707655312,,,Daraja (4 Wks),10000,12000,20,27/7/2026,55/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-128,,,758849257,,,Daraja (4 Wks),8000,10000,20,27/7/2026,55/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-117,,,715390575,,,Vuka (6 Wks),12000,15600,30,24/7/2026,66/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-118,,,724164082,,,Daraja (4 Wks),8000,10000,20,24/7/2026,52/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-116,,,759607572,,,Karibu (4 Wks),5000,6000,20,24/7/2026,52/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-114,,,723364504,,,Vuka (6 Wks),12000,15600,30,24/7/2026,66/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-115,,,748310063,,,Daraja (6 Wks),10000,13000,30,24/7/2026,66/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-119,,,715365131,,,Daraja (6 Wks),10000,13000,30,24/7/2026,66/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-123,,,795157747,,,Daraja (6 Wks),7000,10000,30,24/7/2026,66/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-124,,,110724989,,,Karibu (4 Wks),5000,6000,20,24/7/2026,52/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-122,,,792612031,,,Daraja (6 Wks),7000,10000,30,24/7/2026,66/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-120,,,707143090,,,Daraja (6 Wks),7000,10000,30,24/7/2026,66/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-121,,,705757348,,,Daraja (6 Wks),7000,10000,30,24/7/2026,66/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-110,,,796250750,,,Vuka (4 Wks),12000,14400,20,23/7/2026,51/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-109,,,724442266,,,Vuka (6 Wks),15000,19500,30,23/7/2026,65/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-111,,,716331062,,,Karibu (4 Wks),5000,6000,20,23/7/2026,51/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-113,,,707029040,,,wezesha (6 Wks),20000,2600,30,23/7/2026,65/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-112,,,729823193,,,Ngaa (6 Wks),30000,40500,30,23/7/2026,65/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-104,,,728290725,,,Vuka (6 Wks),15000,19500,30,22/7/2026,64/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-105,,,748485559,,,Daraja (6 Wks),7000,10000,30,22/7/2026,64/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-103,,,717796794,,,Daraja (6 Wks),10000,13000,30,22/7/2026,64/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-101,,,715709400,,,Daraja (6 Wks),7000,10000,30,22/7/2026,64/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-102,,,724210636,,,Daraja (6 Wks),7000,10000,30,22/7/2026,64/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-108,,,721994091,,,Daraja (6 Wks),10000,13000,30,22/7/2026,64/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-106,,,715706681,,,wezesha (4 Wks),20000,24000,20,22/7/2026,50/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-107,,,717622386,,,Vuka (4 Wks),12000,14400,20,22/7/2026,50/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-95,,,722655548,,,Daraja (6 Wks),8000,11000,30,21/7/2026,63/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-94,,,723849109,,,Daraja (6 Wks),10000,13000,30,21/7/2026,63/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-88,,,706439225,,,Daraja (4 Wks),10000,12000,20,21/7/2026,49/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-93,,,769621536,,,Vuka (6 Wks),15000,19500,30,21/7/2026,63/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-91,,,725559308,,,Karibu (4 Wks),5000,6000,20,21/7/2026,49/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-92,,,742282927,,,Daraja (6 Wks),10000,13000,30,21/7/2026,63/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-90,,,712833328,,,Daraja (6 Wks),10000,13000,30,21/7/2026,63/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-89,,,797775990,,,Vuka (6 Wks),12000,15600,30,21/7/2026,63/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-99,,,701728665,,,Daraja (6 Wks),7000,10000,30,21/7/2026,63/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-100,,,797396337,,,Daraja (4 Wks),10000,12000,20,21/7/2026,49/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-96,,,790082214,,,Daraja (6 Wks),7000,10000,30,21/7/2026,63/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-98,,,727387416,,,Vuka (6 Wks),12000,15600,30,21/7/2026,63/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-97,,,729144308,,,Vuka (6 Wks),12000,15600,30,21/7/2026,63/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-86,,,724712026,,,Vuka (6 Wks),12000,15600,30,20/7/2026,62/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-87,,,799835033,,,Daraja (6 Wks),10000,13000,30,20/7/2026,62/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-85,,,721142486,,,Ngaa (6 Wks),30000,40500,30,20/7/2026,62/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-84,,,714503794,,,Karibu (4 Wks),5000,6000,20,20/7/2026,48/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-82,,,748586361,,,Karibu (4 Wks),5000,6000,20,17/7/2026,45/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-81,,,707492014,,,Daraja (6 Wks),8000,11000,30,17/7/2026,59/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-80,,,790058345,,,Daraja (4 Wks),8000,10000,20,17/7/2026,45/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-83,,,725380367,,,Daraja (6 Wks),10000,13000,30,17/7/2026,59/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-78,,,792049781,,,Daraja (6 Wks),7000,10000,30,16/7/2026,58/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-79,,,769573260,,,Daraja (4 Wks),10000,12000,20,16/7/2026,44/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-77,,,794416300,,,Karibu (4 Wks),5000,6000,20,16/7/2026,44/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-75,,,723519085,,,Daraja (6 Wks),10000,13000,30,16/7/2026,58/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-76,,,115480067,,,Karibu (4 Wks),5000,6000,20,16/7/2026,44/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-74,,,720241837,,,Daraja (4 Wks),10000,12000,20,16/7/2026,44/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-73,,,799871943,,,Daraja (6 Wks),10000,13000,30,16/7/2026,58/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-67,,,799173612,,,Daraja (4 Wks),10000,12000,20,15/7/2026,43/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-72,,,759900772,,,Daraja (4 Wks),7000,9000,20,15/7/2026,43/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-71,,,710918080,,,Daraja (6 Wks),7000,10000,30,15/7/2026,57/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-70,,,705304253,,,Daraja (6 Wks),9000,11000,30,15/7/2026,57/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-69,,,704163771,,,wezesha (4 Wks),20000,24000,20,15/7/2026,43/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-68,,,722527858,,,Daraja (6 Wks),7000,10000,30,15/7/2026,57/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-63,,,714076538,,,Daraja (4 Wks),10000,12000,20,14/7/2026,42/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-64,,,718871498,,,Karibu (4 Wks),5000,6000,20,14/7/2026,42/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-65,,,724024611,,,Daraja (6 Wks),10000,10000,30,14/7/2026,56/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-62,,,711686002,,,Daraja (6 Wks),10000,13000,30,14/7/2026,56/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-66,,,701035799,,,Vuka (4 Wks),12000,14400,20,14/7/2026,42/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-61,,,769409406,,,Daraja (4 Wks),9000,11000,20,14/7/2026,42/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-58,,,726683825,,,Daraja (6 Wks),10000,13000,30,13/7/2026,55/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-51,,,715228494,,,Daraja (4 Wks),10000,12000,20,13/7/2026,41/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-53,,,748261697,,,Daraja (6 Wks),7000,10000,30,13/7/2026,55/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-54,,,791842906,,,Daraja (6 Wks),10000,13000,30,13/7/2026,55/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-56,,,721572161,,,Vuka (6 Wks),15000,19500,30,13/7/2026,55/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-50,,,758991413,,,Daraja (6 Wks),9000,11000,30,13/7/2026,55/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-57,,,711312215,,,Vuka (6 Wks),12000,15600,30,13/7/2026,55/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-59,,,718400068,,,Daraja (6 Wks),10000,13000,30,13/7/2026,55/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-55,,,727877025,,,Daraja (6 Wks),7000,10000,30,13/7/2026,55/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-60,,,714359854,,,Paa (6 Wks),25000,34050,30,13/7/2026,55/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-47,,,700132036,,,Karibu (4 Wks),5000,6000,20,10/7/2026,38/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-49,,,768824476,,,Daraja (6 Wks),7000,10000,30,10/7/2026,52/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-41,,,714734249,,,Daraja (6 Wks),7000,10000,30,9/7/2026,51/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-42,,,769694106,,,Daraja (4 Wks),10000,12000,20,9/7/2026,37/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-46,,,790244173,,,Daraja (6 Wks),10000,13000,30,9/7/2026,51/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-45,,,746811444,,,Daraja (6 Wks),8000,11000,30,9/7/2026,51/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-44,,,743647697,,,Daraja (4 Wks),7000,9000,20,9/7/2026,37/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-43,,,746999243,,,Daraja (6 Wks),10000,13000,30,9/7/2026,51/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-458,,,,,,Daraja (6 Wks),10000,CLEARED,30,9/7/2026,51/7/2026,ENGINEER,38439700,NO - Paid,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv
+LN-38,,,116140156,,,Vuka (6 Wks),15000,19500,30,8/7/2026,50/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-36,,,791046162,,,Daraja (6 Wks),7000,10000,30,8/7/2026,50/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-39,,,725709459,,,Daraja (6 Wks),7000,10000,30,8/7/2026,50/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-40,,,746194202,,,Daraja (6 Wks),7000,10000,30,8/7/2026,50/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-35,,,705557044,,,Karibu (4 Wks),5000,6000,20,8/7/2026,36/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-34,,,727698567,,,wezesha (4 Wks),18000,21000,20,8/7/2026,36/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-37,,,724350985,,,Vuka (6 Wks),14000,18200,30,8/7/2026,50/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-31,,,715365131,,,Daraja (6 Wks),10000,13000,30,7/7/2026,49/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-30,,,793621965,,,Paa (6 Wks),25000,34050,30,7/7/2026,49/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-27,,,740548417,,,Karibu (4 Wks),5000,6000,20,7/7/2026,35/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-28,,,721318231,,,Daraja (6 Wks),7000,10000,30,7/7/2026,49/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-32,,,114732234,,,Vuka (6 Wks),15000,19500,30,7/7/2026,49/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-23,,,711227118,,,Ngaa (6 Wks),30000,40500,30,6/7/2026,48/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-20,,,712876987,,,Daraja (6 Wks),7000,10000,30,6/7/2026,48/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-21,,,703915750,,,Daraja (6 Wks),7000,10000,30,6/7/2026,48/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-22,,,720552419,,,Daraja (4 Wks),7000,9000,20,6/7/2026,34/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-14,,,794861894,,,Daraja (6 Wks),10000,13000,30,6/7/2026,48/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-18,,,112149690,,,wezesha (6 Wks),20000,26000,30,6/7/2026,48/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-17,,,704424647,,,Daraja (6 Wks),10000,13000,30,6/7/2026,48/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-15,,,719105265,,,Daraja (6 Wks),10000,13000,30,6/7/2026,48/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-16,,,701676104,,,Vuka (6 Wks),12000,15600,30,6/7/2026,48/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-19,,,723495587,,,Vuka (6 Wks),15000,19500,30,6/7/2026,48/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-13,,,118525881,,,Daraja (6 Wks),7000,10000,30,6/7/2026,48/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-12,,,724446422,,,Karibu (4 Wks),5000,6000,20,6/7/2026,34/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-10,,,746405759,,,Daraja (6 Wks),8000,11000,30,6/7/2026,48/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-11,,,710540080,,,wezesha (4 Wks),20000,24000,20,6/7/2026,34/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-26,,,715747806,,,Daraja (6 Wks),7000,10000,30,6/7/2026,48/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-24,,,724836941,,,Daraja (4 Wks),10000,12000,20,6/7/2026,34/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-25,,,743725400,,,Daraja (6 Wks),7000,10000,30,6/7/2026,48/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-7,,,724164082,,,Daraja (4 Wks),8000,10000,20,3/7/2026,31/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-5,,,723113511,,,Daraja (4 Wks),7000,9000,20,3/7/2026,31/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-6,,,713944872,,,Daraja (6 Wks),7000,10000,30,3/7/2026,45/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-9,,,724479261,,,Daraja (4 Wks),8000,10000,20,3/7/2026,31/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-8,,,716331062,,,Karibu (4 Wks),5000,6000,20,3/7/2026,31/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-4,,,710540080,,,Vuka (6 Wks),15000,19500,30,2/7/2026,44/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-3,,,729417206,,,Daraja (6 Wks),10000,13000,30,1/7/2026,43/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-2,,,720630896,,,Daraja (6 Wks),8000,11000,30,1/7/2026,43/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-1,,,769261515,,,Daraja (6 Wks),10000,13000,30,1/7/2026,43/7/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-908,Sarah Nderitu,28779840,0715706681,Samuel Maina,0722948117,wezesha (4 Wks),20000,24000,20,30/6/2026,58/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-909,Purity Kuria,,0769573260,Hanah Muchemi,0702653933,Daraja (4 Wks),10000,12000,20,30/6/2026,58/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-910,Maurine Kagwora,26005826,0723858169,Esther Maina,0703286633,Daraja (4 Wks),7000,9000,20,30/6/2026,58/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-907,Mary Mwaura,3558521,0708199244,norman macharia,0700509057,wezesha (4 Wks),20000,24000,20,30/6/2026,58/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-906,George Ndirangu Waiganjo,28298191,0711382851,Charity Ndirangu,0758274400,Karibu (4 Wks),5000,6000,20,30/6/2026,58/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-908,Sarah Nderitu,28779840,0715706681,Samuel Maina,0722948117,wezesha (4 Wks),20000,24000,20,30/6/2026,58/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-909,Purity Kuria,,0769573260,Hanah Muchemi,0702653933,Daraja (4 Wks),10000,12000,20,30/6/2026,58/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-907,Mary Mwaura,3558521,0708199244,norman macharia,0700509057,wezesha (4 Wks),20000,24000,20,30/6/2026,58/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-910,Maurine Kagwora,26005826,0723858169,Esther Maina,0703286633,Daraja (4 Wks),7000,9000,20,30/6/2026,58/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-906,George Ndirangu Waiganjo,28298191,0711382851,Charity Ndirangu,0758274400,Karibu (4 Wks),5000,6000,20,30/6/2026,58/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-901,,,023849109,Alfred  Etale,0711237285,Daraja (6 Wks),10000,13000,30,29/6/2026,71/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-902,Cecilia Muraya,27994393,0721961454,Esther Kariuki,0714126599,Daraja (6 Wks),7000,10000,30,29/6/2026,71/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-903,Mercy Wanjiku,35405143,0743665781,Esther Muriuki,0721439189,Daraja (6 Wks),7000,10000,30,29/6/2026,71/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-905,Lucy Gathondu Kabiri,21320154,0705851219,milka wangai,0742242993,Daraja (4 Wks),7000,9000,20,29/6/2026,57/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-900,Tabitha Muiga Wangari,24015096,0729828281,Susan Muchiri,0713328411,Daraja (6 Wks),7000,10000,30,29/6/2026,71/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-900,Tabitha Muiga Wangari,24015096,0729828281,Susan Muchiri,0713328411,Daraja (6 Wks),7000,10000,30,29/6/2026,71/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-904,Lucy Munene,,0720813561,Cecilia Mutungili,0725426487,wezesha (6 Wks),17000,22100,30,29/6/2026,71/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-903,Mercy Wanjiku,35405143,0743665781,Esther Muriuki,0721439189,Daraja (6 Wks),7000,10000,30,29/6/2026,71/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-904,Lucy Munene,,0720813561,Cecilia Mutungili,0725426487,wezesha (6 Wks),17000,22100,30,29/6/2026,71/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-902,Cecilia Muraya,27994393,0721961454,Esther Kariuki,0714126599,Daraja (6 Wks),7000,10000,30,29/6/2026,71/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-905,Lucy Gathondu Kabiri,21320154,0705851219,milka wangai,0742242993,Daraja (4 Wks),7000,9000,20,29/6/2026,57/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-901,,,023849109,Alfred  Etale,0711237285,Daraja (6 Wks),10000,13000,30,29/6/2026,71/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-895,Gladys Wairimu Waweru,12949818,0717622386,Milka Kariuki,0 108817449,Vuka (4 Wks),12000,14400,20,26/6/2026,54/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-899,Jane Theuri,35917647,0795544079,John Theuri,0713472309,Daraja (6 Wks),10000,13,30,26/6/2026,68/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-896,Samuel Gichia,,0702028822,Paul Macharia,0713501528,Daraja (6 Wks),10000,13000,30,26/6/2026,68/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-895,Gladys Wairimu Waweru,12949818,0717622386,Milka Kariuki,0 108817449,Vuka (4 Wks),12000,14400,20,26/6/2026,54/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-899,Jane Theuri,35917647,0795544079,John Theuri,0713472309,Daraja (6 Wks),10000,13,30,26/6/2026,68/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-897,Paul Mwangi,9199259,0711410254,John Ndirangu,0715257237,Daraja (6 Wks),7000,10000,30,26/6/2026,68/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-898,,,0702599233,Caroline Wanja,0797584851,Daraja (6 Wks),7000,10000,30,26/6/2026,68/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-897,Paul Mwangi,9199259,0711410254,John Ndirangu,0715257237,Daraja (6 Wks),7000,10000,30,26/6/2026,68/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-896,Samuel Gichia,,0702028822,Paul Macharia,0713501528,Daraja (6 Wks),10000,13000,30,26/6/2026,68/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-898,,,0702599233,Caroline Wanja,0797584851,Daraja (6 Wks),7000,10000,30,26/6/2026,68/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-891,Keziah Ndungu,37870220,0700549110,Lucy Mwangi,079480201,Daraja (6 Wks),10000,13000,30,25/6/2026,67/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-890,Josephine Kurpel Marian,29098940,0142842993,susan nabaru,0718878829,Karibu (4 Wks),5000,6000,20,25/6/2026,53/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-894,Joyce Kesses,,0718659733,Annah Chelagat,0790796424,Daraja (6 Wks),7000,10000,30,25/6/2026,67/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-893,Alice Wanjiru,20492583,0758372505,Margaret Wangari,0,Unknown,10,3,0,25/6/2026,25/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-893,Alice Wanjiru,20492583,0758372505,Margaret Wangari,0,Unknown,10,3,0,25/6/2026,25/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-894,Joyce Kesses,,0718659733,Annah Chelagat,0790796424,Daraja (6 Wks),7000,10000,30,25/6/2026,67/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-892,Jacob Koech,,0724442266,Fridah Kimagal,072214101,Daraja (4 Wks),10000,12000,20,25/6/2026,53/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-892,Jacob Koech,,0724442266,Fridah Kimagal,072214101,Daraja (4 Wks),10000,12000,20,25/6/2026,53/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-890,Josephine Kurpel Marian,29098940,0142842993,susan nabaru,0718878829,Karibu (4 Wks),5000,6000,20,25/6/2026,53/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-891,Keziah Ndungu,37870220,0700549110,Lucy Mwangi,079480201,Daraja (6 Wks),10000,13000,30,25/6/2026,67/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-884,Mary Lokorach,24095273,0701169467,Agnes Barno,0712438585,Daraja (6 Wks),8000,11000,30,24/6/2026,66/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-883,Anthony Munene,,0714076538,Ibrahim Kingori,0798654955,Daraja (4 Wks),10000,12000,20,24/6/2026,52/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-885,Grace Wairimu Gatuguta,35106674,0706099951,Loice Njoroge,0727526497,Daraja (6 Wks),7000,10000,30,24/6/2026,66/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-886,Naomi Mbuthia,108881495,0790058345,Peter Kabata,0111510784,Daraja (4 Wks),8000,10000,20,24/6/2026,52/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-885,Grace Wairimu Gatuguta,35106674,0706099951,Loice Njoroge,0727526497,Daraja (6 Wks),7000,10000,30,24/6/2026,66/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-887,Joseph Ndiritu,33092811,0714716360,Richard Karanja,0758589148,Daraja (6 Wks),10000,13000,30,24/6/2026,66/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-889,Francis Njuguna Kiarii,21539425,0119173109,Mary Wanjiku,0728845042,Daraja (6 Wks),10000,13000,30,24/6/2026,66/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-888,Lydia Kamau,,0701035799,Ann Mwangi,0703322932,Daraja (4 Wks),10000,12000,20,24/6/2026,52/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-884,Mary Lokorach,24095273,0701169467,Agnes Barno,0712438585,Daraja (6 Wks),8000,11000,30,24/6/2026,66/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-887,Joseph Ndiritu,33092811,0714716360,Richard Karanja,0758589148,Daraja (6 Wks),10000,13000,30,24/6/2026,66/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-886,Naomi Mbuthia,108881495,0790058345,Peter Kabata,0111510784,Daraja (4 Wks),8000,10000,20,24/6/2026,52/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-888,Lydia Kamau,,0701035799,Ann Mwangi,0703322932,Daraja (4 Wks),10000,12000,20,24/6/2026,52/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-883,Anthony Munene,,0714076538,Ibrahim Kingori,0798654955,Daraja (4 Wks),10000,12000,20,24/6/2026,52/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-889,Francis Njuguna Kiarii,21539425,0119173109,Mary Wanjiku,0728845042,Daraja (6 Wks),10000,13000,30,24/6/2026,66/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-881,Mary Nyambura Mwangi,22023123,0714885607,Simon Mwangi,0796216948,Vuka (6 Wks),12000,15600,30,23/6/2026,65/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-882,Damaris Kimathi,29150143,0728290725,Elizabeth Ndung'u,0714592685,Vuka (6 Wks),15000,19,30,23/6/2026,65/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-880,James Njuguna,32820266,0718886595,Joseph Mwangi,0726547436,Karibu (4 Wks),5000,6000,20,23/6/2026,51/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-879,Winnie Ndirangu,32416632,0759607572,Jane Wangui,0758091413,Daraja (4 Wks),10000,12000,20,23/6/2026,51/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-878,Naomi Wanjiru Ndiritu,11121017,0726100264,Zipporah Kamau,0720882664,Karibu (4 Wks),5000,6000,20,23/6/2026,51/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-880,James Njuguna,32820266,0718886595,Joseph Mwangi,0726547436,Karibu (4 Wks),5000,6000,20,23/6/2026,51/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-882,Damaris Kimathi,29150143,0728290725,Elizabeth Ndung'u,0714592685,Vuka (6 Wks),15000,19,30,23/6/2026,65/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-881,Mary Nyambura Mwangi,22023123,0714885607,Simon Mwangi,0796216948,Vuka (6 Wks),12000,15600,30,23/6/2026,65/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-877,Winnie Mwangi,36728923,0715616331,Kelvin Ndung'u,0704690718,Vuka (6 Wks),12000,15600,30,23/6/2026,65/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-878,Naomi Wanjiru Ndiritu,11121017,0726100264,Zipporah Kamau,0720882664,Karibu (4 Wks),5000,6000,20,23/6/2026,51/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-879,Winnie Ndirangu,32416632,0759607572,Jane Wangui,0758091413,Daraja (4 Wks),10000,12000,20,23/6/2026,51/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-877,Winnie Mwangi,36728923,0715616331,Kelvin Ndung'u,0704690718,Vuka (6 Wks),12000,15600,30,23/6/2026,65/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-876,Magdalene Wacera,35393189,0707143090,Veronica Muchiri,0738427495,Daraja (6 Wks),7000,10000,30,23/6/2026,65/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-876,Magdalene Wacera,35393189,0707143090,Veronica Muchiri,0738427495,Daraja (6 Wks),7000,10000,30,23/6/2026,65/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-867,Jesika Kangala,8077101,0797775990,Jane Nyambura,0748608288,Vuka (6 Wks),12000,15600,30,22/6/2026,64/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-868,Josephat Ngugi,20149301,0724701702,Jane Wangari,0710576285,Vuka (6 Wks),12000,15600,30,22/6/2026,64/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-874,Milfrida Nyaboke,2620781,0742982500,Peter Onyari,0723791251,Daraja (6 Wks),8000,11000,30,22/6/2026,64/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-875,Jeddy Wacira,10512633,0707593937,Everline   Wachira,0704452061,Daraja (6 Wks),7000,10000,30,22/6/2026,64/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-873,Agnes Muburi,22008964,0704163771,Teresiah Gichohi,0727306592,wezesha (4 Wks),20000,24000,20,22/6/2026,50/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-871,Kelvin Karau,2944535,0796250750,Julius Njau,0742199155,Unknown,15,4,0,22/6/2026,22/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-872,Jecinta Nduta,13668008,0769621536,Grace njuguna,0724544938,Vuka (6 Wks),14000,18,30,22/6/2026,64/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-872,Jecinta Nduta,13668008,0769621536,Grace njuguna,0724544938,Vuka (6 Wks),14000,18,30,22/6/2026,64/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-871,Kelvin Karau,2944535,0796250750,Julius Njau,0742199155,Unknown,15,4,0,22/6/2026,22/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-873,Agnes Muburi,22008964,0704163771,Teresiah Gichohi,0727306592,wezesha (4 Wks),20000,24000,20,22/6/2026,50/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-875,Jeddy Wacira,10512633,0707593937,Everline   Wachira,0704452061,Daraja (6 Wks),7000,10000,30,22/6/2026,64/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-874,Milfrida Nyaboke,2620781,0742982500,Peter Onyari,0723791251,Daraja (6 Wks),8000,11000,30,22/6/2026,64/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-870,Joshua Kibon,9173488,0721937013,Alice Kimeli,0797691850,Daraja (4 Wks),10000,12000,20,22/6/2026,50/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-870,Joshua Kibon,9173488,0721937013,Alice Kimeli,0797691850,Daraja (4 Wks),10000,12000,20,22/6/2026,50/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-869,Edwin Montana,32536807,0742033906,Peter Irungu,0790412266,Vuka (6 Wks),12000,15600,30,22/6/2026,64/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-867,Jesika Kangala,8077101,0797775990,Jane Nyambura,0748608288,Vuka (6 Wks),12000,15600,30,22/6/2026,64/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-869,Edwin Montana,32536807,0742033906,Peter Irungu,0790412266,Vuka (6 Wks),12000,15600,30,22/6/2026,64/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-868,Josephat Ngugi,20149301,0724701702,Jane Wangari,0710576285,Vuka (6 Wks),12000,15600,30,22/6/2026,64/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-859,Mary King'ori,34566066,0792149332,Mary Chuma,0721778601,Daraja (6 Wks),7000,10000,30,19/6/2026,61/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-861,Peter Njoroge Mbugua,14625359,0721356359,Duncan Maina,0721401919,Vuka (6 Wks),15000,19500,30,19/6/2026,61/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-858,Silvia Wachira,257079604,0797396337,Mercy Wangechi,0715228494,Daraja (4 Wks),10000,12000,20,19/6/2026,47/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-866,John Mwangi,23504299,0724712026,Leah Waruguru,0746563025,Daraja (4 Wks),10000,12000,20,19/6/2026,47/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-863,Grace Gachuhi,10810897,0726949202,Tabitha Ndegwa,0728735170,Daraja (6 Wks),7000,10000,30,19/6/2026,61/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-862,Hellen Wainana,25765046,0727059976,Joseph Munene,0714716360,Karibu (4 Wks),5000,6000,20,19/6/2026,47/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-865,Daniel Maina Gitau,7436666,0794416300,Gladt Njeri,0728397868,Karibu (4 Wks),5000,6000,20,19/6/2026,47/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-864,Naomi Gitura,26365817,0794029149,Esther Gachechere,0717512042,Daraja (6 Wks),7000,10000,30,19/6/2026,61/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-860,Catherine Mbuni,10892446,0727865456,Hannah Macharia,0726503829,Paa (6 Wks),25000,34050,30,19/6/2026,61/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-861,Peter Njoroge Mbugua,14625359,0721356359,Duncan Maina,0721401919,Vuka (6 Wks),15000,19500,30,19/6/2026,61/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-859,Mary King'ori,34566066,0792149332,Mary Chuma,0721778601,Daraja (6 Wks),7000,10000,30,19/6/2026,61/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-860,Catherine Mbuni,10892446,0727865456,Hannah Macharia,0726503829,Paa (6 Wks),25000,34050,30,19/6/2026,61/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-858,Silvia Wachira,257079604,0797396337,Mercy Wangechi,0715228494,Daraja (4 Wks),10000,12000,20,19/6/2026,47/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-865,Daniel Maina Gitau,7436666,0794416300,Gladt Njeri,0728397868,Karibu (4 Wks),5000,6000,20,19/6/2026,47/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-866,John Mwangi,23504299,0724712026,Leah Waruguru,0746563025,Daraja (4 Wks),10000,12000,20,19/6/2026,47/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-864,Naomi Gitura,26365817,0794029149,Esther Gachechere,0717512042,Daraja (6 Wks),7000,10000,30,19/6/2026,61/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-862,Hellen Wainana,25765046,0727059976,Joseph Munene,0714716360,Karibu (4 Wks),5000,6000,20,19/6/2026,47/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-863,Grace Gachuhi,10810897,0726949202,Tabitha Ndegwa,0728735170,Daraja (6 Wks),7000,10000,30,19/6/2026,61/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-854,Lucy Wachira,,0707492014,Esther Nyambura,0720311445,Daraja (6 Wks),7000,10000,30,18/6/2026,60/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-855,Justus Ndungu,13538979,0725718918,Beatrice Wambugu,0711856758,Daraja (6 Wks),9000,11000,30,18/6/2026,60/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-857,Josephine Chebet,29333499,0791967871,Hannah Kuke,07757262313,Karibu (4 Wks),5000,6000,20,18/6/2026,46/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-856,Samuel Muya,,0725380367,Hellen Wanjiku,0728534959,Daraja (6 Wks),10000,13000,30,18/6/2026,60/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-853,Harry Thuku,28018123,0705436184,Geofrey Njenga,0791919951,Karibu (4 Wks),5000,6000,20,18/6/2026,46/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-851,,,024592850,Margaret Kimani,0726768129,Daraja (6 Wks),7000,10000,30,18/6/2026,60/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-854,Lucy Wachira,,0707492014,Esther Nyambura,0720311445,Daraja (6 Wks),7000,10000,30,18/6/2026,60/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-853,Harry Thuku,28018123,0705436184,Geofrey Njenga,0791919951,Karibu (4 Wks),5000,6000,20,18/6/2026,46/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-857,Josephine Chebet,29333499,0791967871,Hannah Kuke,07757262313,Karibu (4 Wks),5000,6000,20,18/6/2026,46/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-856,Samuel Muya,,0725380367,Hellen Wanjiku,0728534959,Daraja (6 Wks),10000,13000,30,18/6/2026,60/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-855,Justus Ndungu,13538979,0725718918,Beatrice Wambugu,0711856758,Daraja (6 Wks),9000,11000,30,18/6/2026,60/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-852,Martin Kiarie,13068688,0718846710,Paul Kimani,07708382465,Vuka (6 Wks),12000,15600,30,18/6/2026,60/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-852,Martin Kiarie,13068688,0718846710,Paul Kimani,07708382465,Vuka (6 Wks),12000,15600,30,18/6/2026,60/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-851,,,024592850,Margaret Kimani,0726768129,Daraja (6 Wks),7000,10000,30,18/6/2026,60/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-843,Pauline Kamau,,0708448209,Ann Wangui,0116691166,Vuka (6 Wks),12000,15600,30,17/6/2026,59/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-844,Magdaline Karuri,27206497,0727364504,Jane Njogu,0792519004,Vuka (6 Wks),12000,15600,30,17/6/2026,59/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-846,Josphat Gitonga,,0748310063,Simon  Mwangi,0721425519,Daraja (6 Wks),10000,13000,30,17/6/2026,59/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-842,Hellen Kimei,12789359,0790244173,Elijah Kihonge,0768208209,Daraja (6 Wks),10000,13000,30,17/6/2026,59/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-845,Monica Gatheca,35466125,0741227923,Benson Wacihi,0757960463,Daraja (6 Wks),7000,10000,30,17/6/2026,59/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-848,Anne Akech,3365016,0715577248,Martha Akinyi,0741463602,Daraja (6 Wks),8000,11000,30,17/6/2026,59/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-849,Beatrice Njaramba,,0799173612,Peter Njaramba,0708387501,Daraja (4 Wks),10000,12000,20,17/6/2026,45/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-850,Nancy Gatwiri,36327164,0715924520,Eunice Kendi,0114625557,Daraja (6 Wks),7000,10000,30,17/6/2026,59/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-847,Sarah Ndung'u,22580679,0706439225,Alex Mwiti,0106602609,Daraja (4 Wks),10000,12000,20,17/6/2026,45/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-845,Monica Gatheca,35466125,0741227923,Benson Wacihi,0757960463,Daraja (6 Wks),7000,10000,30,17/6/2026,59/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-844,Magdaline Karuri,27206497,0727364504,Jane Njogu,0792519004,Vuka (6 Wks),12000,15600,30,17/6/2026,59/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-843,Pauline Kamau,,0708448209,Ann Wangui,0116691166,Vuka (6 Wks),12000,15600,30,17/6/2026,59/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-846,Josphat Gitonga,,0748310063,Simon  Mwangi,0721425519,Daraja (6 Wks),10000,13000,30,17/6/2026,59/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-849,Beatrice Njaramba,,0799173612,Peter Njaramba,0708387501,Daraja (4 Wks),10000,12000,20,17/6/2026,45/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-848,Anne Akech,3365016,0715577248,Martha Akinyi,0741463602,Daraja (6 Wks),8000,11000,30,17/6/2026,59/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-850,Nancy Gatwiri,36327164,0715924520,Eunice Kendi,0114625557,Daraja (6 Wks),7000,10000,30,17/6/2026,59/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-847,Sarah Ndung'u,22580679,0706439225,Alex Mwiti,0106602609,Daraja (4 Wks),10000,12000,20,17/6/2026,45/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-842,Hellen Kimei,12789359,0790244173,Elijah Kihonge,0768208209,Daraja (6 Wks),10000,13000,30,17/6/2026,59/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-840,Tabitha Nyokabi Njenga,21543280,0796291816,Douglas Njenga,0759522005,Daraja (6 Wks),7000,10000,30,16/6/2026,58/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-836,Fridah Maluki,,0711312215,Susan Wanjiru,0790646590,Vuka (6 Wks),12000,15600,30,16/6/2026,58/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-841,Hannah Kuria,13395242,0799871943,Sarah Kuria,0742728359,Daraja (6 Wks),10000,13000,30,16/6/2026,58/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-837,Diana Kangea,39337572,0769409406,Tabitha Wandaka,0700469416,Daraja (4 Wks),7000,9000,20,16/6/2026,44/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-838,Peter Waihenya,11707589,0712833328,Elizabeth Wangari,0792402413,Daraja (6 Wks),10000,13000,30,16/6/2026,58/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-839,Mercy Wangechi,30049769,0715228494,Mercy Wanjiru,0727816846,Daraja (4 Wks),10000,12000,20,16/6/2026,44/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-839,Mercy Wangechi,30049769,0715228494,Mercy Wanjiru,0727816846,Daraja (4 Wks),10000,12000,20,16/6/2026,44/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-838,Peter Waihenya,11707589,0712833328,Elizabeth Wangari,0792402413,Daraja (6 Wks),10000,13000,30,16/6/2026,58/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-837,Diana Kangea,39337572,0769409406,Tabitha Wandaka,0700469416,Daraja (4 Wks),7000,9000,20,16/6/2026,44/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-840,Tabitha Nyokabi Njenga,21543280,0796291816,Douglas Njenga,0759522005,Daraja (6 Wks),7000,10000,30,16/6/2026,58/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-836,Fridah Maluki,,0711312215,Susan Wanjiru,0790646590,Vuka (6 Wks),12000,15600,30,16/6/2026,58/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-841,Hannah Kuria,13395242,0799871943,Sarah Kuria,0742728359,Daraja (6 Wks),10000,13000,30,16/6/2026,58/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-831,Esther Nyawira,6828057,0722655548,Mary kimamo,0701481316,Daraja (6 Wks),8000,11000,30,15/6/2026,57/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-830,Susan Mburu,,0791842906,Esther Njoroge,0354710467216,Daraja (6 Wks),10000,13000,30,15/6/2026,57/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-833,Joyce Wandaka,34209491,0793621965,Tabitha Maina,0728627914,wezesha (4 Wks),20000,24000,20,15/6/2026,43/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-832,Teresa Gatheru,22843423,0724836941,Grace Mathenge,0743320897,Daraja (4 Wks),10000,12000,20,15/6/2026,43/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-829,Mary Kariuki,,0707655312,Janet Matanu,0711346285,Daraja (6 Wks),9000,12000,30,15/6/2026,57/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-822,Mary Karuri,1032563,0721994091,Catherine kiruri,0715747740,Daraja (6 Wks),8000,11004,30,15/6/2026,57/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-823,Grace Njuguna,20781055,0724544938,Rabecca Njuguna,0740441273,Daraja (6 Wks),8000,11000,30,15/6/2026,57/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-821,Alice Ngugi,,0729144308,Margaret Wangui,0700570661,Vuka (6 Wks),12000,15600,30,15/6/2026,57/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-828,Catherine Wangechi Maina,9935640,0728586678,Mary Macharia,0725585188,Daraja (4 Wks),7000,9000,20,15/6/2026,43/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-820,Maureen Waweru,27653272,0727877025,Serah Chege,05726297808,Daraja (6 Wks),7000,10000,30,15/6/2026,57/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-827,Purity Kuria,,0769573260,Hanah Muchemi,0702653933,Daraja (4 Wks),10000,12000,20,15/6/2026,43/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-828,Catherine Wangechi Maina,9935640,0728586678,Mary Macharia,0725585188,Daraja (4 Wks),7000,9000,20,15/6/2026,43/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-826,Joyce Wanjiru Macharia,26406760,0700934013,Peter Mwangi,0796819892,Daraja (4 Wks),10000,12000,20,15/6/2026,43/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-824,Jane Naivest,13531125,0724024611,Agnes Lele,0795493127,Daraja (6 Wks),10000,13000,30,15/6/2026,57/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-825,Godfrey Mugo,,0715365131,Philis Maina,0713543764,Daraja (6 Wks),10000,13000,30,15/6/2026,57/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-834,Diana Kajuju,,0742282927,Ann Githaiga,0701965026,Daraja (6 Wks),10000,13000,30,15/6/2026,57/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-830,Susan Mburu,,0791842906,Esther Njoroge,0354710467216,Daraja (6 Wks),10000,13000,30,15/6/2026,57/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-829,Mary Kariuki,,0707655312,Janet Matanu,0711346285,Daraja (6 Wks),9000,12000,30,15/6/2026,57/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-820,Maureen Waweru,27653272,0727877025,Serah Chege,05726297808,Daraja (6 Wks),7000,10000,30,15/6/2026,57/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-831,Esther Nyawira,6828057,0722655548,Mary kimamo,0701481316,Daraja (6 Wks),8000,11000,30,15/6/2026,57/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-834,Diana Kajuju,,0742282927,Ann Githaiga,0701965026,Daraja (6 Wks),10000,13000,30,15/6/2026,57/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-833,Joyce Wandaka,34209491,0793621965,Tabitha Maina,0728627914,wezesha (4 Wks),20000,24000,20,15/6/2026,43/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-832,Teresa Gatheru,22843423,0724836941,Grace Mathenge,0743320897,Daraja (4 Wks),10000,12000,20,15/6/2026,43/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-821,Alice Ngugi,,0729144308,Margaret Wangui,0700570661,Vuka (6 Wks),12000,15600,30,15/6/2026,57/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-826,Joyce Wanjiru Macharia,26406760,0700934013,Peter Mwangi,0796819892,Daraja (4 Wks),10000,12000,20,15/6/2026,43/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-827,Purity Kuria,,0769573260,Hanah Muchemi,0702653933,Daraja (4 Wks),10000,12000,20,15/6/2026,43/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-835,,,07989632927,Peter Waititu,0720323599,Daraja (4 Wks),10000,12000,20,15/6/2026,43/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-825,Godfrey Mugo,,0715365131,Philis Maina,0713543764,Daraja (6 Wks),10000,13000,30,15/6/2026,57/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-822,Mary Karuri,1032563,0721994091,Catherine kiruri,0715747740,Daraja (6 Wks),8000,11004,30,15/6/2026,57/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-823,Grace Njuguna,20781055,0724544938,Rabecca Njuguna,0740441273,Daraja (6 Wks),8000,11000,30,15/6/2026,57/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-824,Jane Naivest,13531125,0724024611,Agnes Lele,0795493127,Daraja (6 Wks),10000,13000,30,15/6/2026,57/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-835,,,07989632927,Peter Waititu,0720323599,Daraja (4 Wks),10000,12000,20,15/6/2026,43/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-52,,,798632927,,,Daraja (4 Wks),10000,12000,20,13/6/2026,41/6/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-809,Tabitha Wachira,,0704825688,Jane Muthoni,0726890467,Daraja (6 Wks),7000,10000,30,12/6/2026,54/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-810,Elizabeth Mathaga,5173672,0706607577,Moses Mithaga,0743458451,Daraja (6 Wks),10000,13000,30,12/6/2026,54/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-811,Hillary Kirwa,31331138,0729518016,Norman Ngige,0711063122,Karibu (4 Wks),5000,6000,20,12/6/2026,40/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-808,Esther Nyambura Wanjohi,25384115,0759831343,Frida Mahiga,0722715234,Daraja (6 Wks),7000,10000,30,12/6/2026,54/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-813,Susan Modo,20347847,0721991675,Lucy Nambayaiye,0716331062,Daraja (6 Wks),7000,10000,30,12/6/2026,54/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-819,Florence Wandaka,13065475,0714359854,James Karika,0751778506,Paa (6 Wks),25000,34050,30,12/6/2026,54/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-807,Susan Njambi,12946357,0727368599,Boniface Njambi,0714398204,Daraja (6 Wks),7000,10000,30,12/6/2026,54/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-816,Rosemary Maina,9856848,0724153150,Molly Mugure,0721815920,Daraja (6 Wks),10000,13000,30,12/6/2026,54/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-817,,,07153905575,Daniel Maina,0759859581,Daraja (6 Wks),10000,13000,30,12/6/2026,54/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-818,Esther Gachingiri,3723880,0795157747,Rose Muchoki,0757630137,Daraja (6 Wks),7000,10000,30,12/6/2026,54/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-815,Ann Wangari,28687504,0705304253,Naomi Bosibori,0706841567,Daraja (6 Wks),9000,12000,30,12/6/2026,54/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-812,Susyline Munene,23411441,0723495587,Joyce Macharia,0729417206,Vuka (6 Wks),15000,19500,30,12/6/2026,54/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-819,Florence Wandaka,13065475,0714359854,James Karika,0751778506,Paa (6 Wks),25000,34050,30,12/6/2026,54/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-814,Maurine Kagwora,26005826,0723858169,Esther Maina,0703286633,Daraja (4 Wks),7000,9000,20,12/6/2026,40/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-810,Elizabeth Mathaga,5173672,0706607577,Moses Mithaga,0743458451,Daraja (6 Wks),10000,13000,30,12/6/2026,54/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-818,Esther Gachingiri,3723880,0795157747,Rose Muchoki,0757630137,Daraja (6 Wks),7000,10000,30,12/6/2026,54/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-809,Tabitha Wachira,,0704825688,Jane Muthoni,0726890467,Daraja (6 Wks),7000,10000,30,12/6/2026,54/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-807,Susan Njambi,12946357,0727368599,Boniface Njambi,0714398204,Daraja (6 Wks),7000,10000,30,12/6/2026,54/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-808,Esther Nyambura Wanjohi,25384115,0759831343,Frida Mahiga,0722715234,Daraja (6 Wks),7000,10000,30,12/6/2026,54/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-817,,,07153905575,Daniel Maina,0759859581,Daraja (6 Wks),10000,13000,30,12/6/2026,54/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-813,Susan Modo,20347847,0721991675,Lucy Nambayaiye,0716331062,Daraja (6 Wks),7000,10000,30,12/6/2026,54/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-812,Susyline Munene,23411441,0723495587,Joyce Macharia,0729417206,Vuka (6 Wks),15000,19500,30,12/6/2026,54/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-814,Maurine Kagwora,26005826,0723858169,Esther Maina,0703286633,Daraja (4 Wks),7000,9000,20,12/6/2026,40/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-816,Rosemary Maina,9856848,0724153150,Molly Mugure,0721815920,Daraja (6 Wks),10000,13000,30,12/6/2026,54/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-815,Ann Wangari,28687504,0705304253,Naomi Bosibori,0706841567,Daraja (6 Wks),9000,12000,30,12/6/2026,54/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-811,Hillary Kirwa,31331138,0729518016,Norman Ngige,0711063122,Karibu (4 Wks),5000,6000,20,12/6/2026,40/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-800,Alice Johnson,37973587,0758991413,Patricia Wacuka,0752560980,Daraja (6 Wks),9000,12000,30,11/6/2026,53/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-801,Jane Wanjiru Njogu,,0746811444,John Nderitu,0704825688,Daraja (6 Wks),7000,10000,30,11/6/2026,53/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-802,Jane Wanjiru Ngata,31385905,0743647697,Charles Karari,0741796731,Karibu (6 Wks),5000,6000,30,11/6/2026,53/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-806,Jennifer Mukiri,4356631,0725709459,Kenneth Kuria,0722416830,Daraja (6 Wks),7000,10000,30,11/6/2026,53/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-799,,,07729823193,Charles Kirugo,0717720111,Ngaa (6 Wks),30000,40500,30,11/6/2026,53/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-803,Jackline Lesemante,193372772,0118525881,,0794400120,Daraja (4 Wks),7000,9000,20,11/6/2026,39/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-803,Jackline Lesemante,193372772,0118525881,,0794400120,Daraja (4 Wks),7000,9000,20,11/6/2026,39/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-804,,,0728225297,kelvin kiptoo,0719545318,Daraja (6 Wks),7000,10000,30,11/6/2026,53/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-806,Jennifer Mukiri,4356631,0725709459,Kenneth Kuria,0722416830,Daraja (6 Wks),7000,10000,30,11/6/2026,53/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-805,Catherine Muchoki Njoki,22845586,0792612031,Mary kinyanjui,0716523140,Daraja (6 Wks),7000,10000,30,11/6/2026,53/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-804,,,0728225297,kelvin kiptoo,0719545318,Daraja (6 Wks),7000,10000,30,11/6/2026,53/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-802,Jane Wanjiru Ngata,31385905,0743647697,Charles Karari,0741796731,Karibu (6 Wks),5000,6000,30,11/6/2026,53/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-805,Catherine Muchoki Njoki,22845586,0792612031,Mary kinyanjui,0716523140,Daraja (6 Wks),7000,10000,30,11/6/2026,53/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-801,Jane Wanjiru Njogu,,0746811444,John Nderitu,0704825688,Daraja (6 Wks),7000,10000,30,11/6/2026,53/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-800,Alice Johnson,37973587,0758991413,Patricia Wacuka,0752560980,Daraja (6 Wks),9000,12000,30,11/6/2026,53/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-799,,,07729823193,Charles Kirugo,0717720111,Ngaa (6 Wks),30000,40500,30,11/6/2026,53/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-796,Agnes Kioni,22259541,0769694106,,0769228244,Daraja (4 Wks),10000,12000,20,10/6/2026,38/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-797,Naomi Mbuthia,108881495,0790058345,Peter Ndindiri,0111510789,Daraja (4 Wks),8000,10000,20,10/6/2026,38/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-48,,,729518016,,,Daraja (6 Wks),7000,10000,30,10/6/2026,52/6/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-794,Benson Wahome,,0748485559,David Kamau,0791470552,Daraja (6 Wks),7000,10000,30,10/6/2026,52/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-795,Bancy Njeri,13844462,0711973607,Peter Njoroge,0742103835,wezesha (4 Wks),20000,24000,20,10/6/2026,38/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-797,Naomi Mbuthia,108881495,0790058345,Peter Ndindiri,0111510789,Daraja (4 Wks),8000,10000,20,10/6/2026,38/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-796,Agnes Kioni,22259541,0769694106,,0769228244,Daraja (4 Wks),10000,12000,20,10/6/2026,38/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-798,Lawrence Wanjala,,0701728665,Rose Wangechi,0714901793,Daraja (6 Wks),7000,10000,30,10/6/2026,52/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-795,Bancy Njeri,13844462,0711973607,Peter Njoroge,0742103835,wezesha (4 Wks),20000,24000,20,10/6/2026,38/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-794,Benson Wahome,,0748485559,David Kamau,0791470552,Daraja (6 Wks),7000,10000,30,10/6/2026,52/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-798,Lawrence Wanjala,,0701728665,Rose Wangechi,0714901793,Daraja (6 Wks),7000,10000,30,10/6/2026,52/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-791,Anthony Munene,,0714076538,Ibrahim Kingori,0798654955,Daraja (4 Wks),10000,12000,20,9/6/2026,37/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-790,Samuel Maina Mwangi,36016810,0741687879,Maryann Wangui,0793965045,Daraja (6 Wks),10000,13000,30,9/6/2026,51/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-789,Elizabeth Romero,,0792049781,Catherine Irungu,0728587387,Daraja (6 Wks),7000,10000,30,9/6/2026,51/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-782,Sarah Ndung'u,22580679,0706439225,Alex Mwiti,0706602209,Daraja (4 Wks),10000,12000,20,9/6/2026,37/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-793,Susan Mwaura,24061793,0724350985,Rachel Kiambati,0796102762,Vuka (6 Wks),12000,15600,30,9/6/2026,51/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-792,Mary Njoki Muiruri,24284156,0727698567,Faris Mwangi,0719306554,wezesha (4 Wks),18000,21600,20,9/6/2026,37/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-784,Elizabeth Gachathi,10245914,0114732234,Rose Gachathi,0723842892,Vuka (6 Wks),14000,18204,30,9/6/2026,51/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-783,Robinson Kariuki,,0790082214,Maryann Wangui,0712258783,Daraja (6 Wks),7000,10000,30,9/6/2026,51/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-782,Sarah Ndung'u,22580679,0706439225,Alex Mwiti,0706602209,Daraja (4 Wks),10000,12000,20,9/6/2026,37/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-788,Gladys Waruguru Hiuko,20822377,0715709400,Agnes Nduta,0713101470,Daraja (6 Wks),7000,10000,30,9/6/2026,51/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-787,Patrick Maina Kimani,10316454,0726706952,Diana Mathathi,0716611899,Daraja (4 Wks),7000,10000,20,9/6/2026,37/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-785,Peris Wangui Wanjugu,27634428,0712005347,Catherine Wangechi=254&712005347,0758025726,Daraja (6 Wks),7000,10000,30,9/6/2026,51/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-791,Anthony Munene,,0714076538,Ibrahim Kingori,0798654955,Daraja (4 Wks),10000,12000,20,9/6/2026,37/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-790,Samuel Maina Mwangi,36016810,0741687879,Maryann Wangui,0793965045,Daraja (6 Wks),10000,13000,30,9/6/2026,51/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-789,Elizabeth Romero,,0792049781,Catherine Irungu,0728587387,Daraja (6 Wks),7000,10000,30,9/6/2026,51/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-786,Mary Maina,,0110724989,John Labor,0712416909,Daraja (6 Wks),7000,10000,30,9/6/2026,51/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-793,Susan Mwaura,24061793,0724350985,Rachel Kiambati,0796102762,Vuka (6 Wks),12000,15600,30,9/6/2026,51/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-792,Mary Njoki Muiruri,24284156,0727698567,Faris Mwangi,0719306554,wezesha (4 Wks),18000,21600,20,9/6/2026,37/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-785,Peris Wangui Wanjugu,27634428,0712005347,Catherine Wangechi=254&712005347,0758025726,Daraja (6 Wks),7000,10000,30,9/6/2026,51/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-784,Elizabeth Gachathi,10245914,0114732234,Rose Gachathi,0723842892,Vuka (6 Wks),14000,18204,30,9/6/2026,51/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-783,Robinson Kariuki,,0790082214,Maryann Wangui,0712258783,Daraja (6 Wks),7000,10000,30,9/6/2026,51/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-786,Mary Maina,,0110724989,John Labor,0712416909,Daraja (6 Wks),7000,10000,30,9/6/2026,51/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-788,Gladys Waruguru Hiuko,20822377,0715709400,Agnes Nduta,0713101470,Daraja (6 Wks),7000,10000,30,9/6/2026,51/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-787,Patrick Maina Kimani,10316454,0726706952,Diana Mathathi,0716611899,Daraja (4 Wks),7000,10000,20,9/6/2026,37/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-777,,,07153665131,Philis Maina,0713543764,Daraja (6 Wks),10000,13000,30,8/6/2026,50/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-778,,,05724210636,Rosemary Njeri,0740471220,Daraja (6 Wks),10000,13000,30,8/6/2026,50/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-777,,,07153665131,Philis Maina,0713543764,Daraja (6 Wks),10000,13000,30,8/6/2026,50/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-779,,,0711680002,David Mwangi,08757069418,Daraja (6 Wks),10000,13000,30,8/6/2026,50/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-781,,,023849109,Alfred  Etale,0711237285,Daraja (6 Wks),10000,13000,30,8/6/2026,50/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-780,James Wanyiri,22285121,0714503794,Joyce Nduta,0745128614,Daraja (6 Wks),7000,10000,30,8/6/2026,50/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-778,,,05724210636,Rosemary Njeri,0740471220,Daraja (6 Wks),10000,13000,30,8/6/2026,50/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-779,,,0711680002,David Mwangi,08757069418,Daraja (6 Wks),10000,13000,30,8/6/2026,50/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-780,James Wanyiri,22285121,0714503794,Joyce Nduta,0745128614,Daraja (6 Wks),7000,10000,30,8/6/2026,50/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-781,,,023849109,Alfred  Etale,0711237285,Daraja (6 Wks),10000,13000,30,8/6/2026,50/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-33,,,700480519,,,Daraja (6 Wks),7000,10000,30,7/6/2026,49/6/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-29,,,724051213,,,Daraja (6 Wks),7000,10000,30,7/6/2026,49/6/2026,Mixed,,YES - In Arrears,Migrated from JULY DISBURSEMENT (5).csv
+LN-773,Julius Gichuru,11487926,0705915891,Hellen Kawira,07700066941,wezesha (6 Wks),20000,26000,30,5/6/2026,47/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-772,Sarah Nderitu,28779840,0715706681,Sa muel Maina,0722948117,wezesha (4 Wks),20000,24000,20,5/6/2026,33/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-771,Jane Kuuti,,0768824476,Diana Okeyo,0768094794,Daraja (6 Wks),7000,10000,30,5/6/2026,47/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-774,Gladys Wairimu Waweru,12949818,0717622386,Mary Kariuki,0708817449,Vuka (4 Wks),12000,12000,20,5/6/2026,33/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-769,,,07050330,Jonathan Chemase=254&705033064,0708005715,Paa (6 Wks),25000,34050,30,5/6/2026,47/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-770,Peninah Mathenge Waithira,27786956,0748261697,Ruth Ndungu,0792748608,Daraja (6 Wks),7000,10000,30,5/6/2026,47/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-776,Monicah Amondi Loriu,36356565,0711124852,Mary Maina,0110723989,Daraja (6 Wks),7000,10000,30,5/6/2026,47/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-773,Julius Gichuru,11487926,0705915891,Hellen Kawira,07700066941,wezesha (6 Wks),20000,26000,30,5/6/2026,47/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-774,Gladys Wairimu Waweru,12949818,0717622386,Mary Kariuki,0708817449,Vuka (4 Wks),12000,12000,20,5/6/2026,33/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-776,Monicah Amondi Loriu,36356565,0711124852,Mary Maina,0110723989,Daraja (6 Wks),7000,10000,30,5/6/2026,47/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-772,Sarah Nderitu,28779840,0715706681,Sa muel Maina,0722948117,wezesha (4 Wks),20000,24000,20,5/6/2026,33/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-770,Peninah Mathenge Waithira,27786956,0748261697,Ruth Ndungu,0792748608,Daraja (6 Wks),7000,10000,30,5/6/2026,47/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-769,,,07050330,Jonathan Chemase=254&705033064,0708005715,Paa (6 Wks),25000,34050,30,5/6/2026,47/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-771,Jane Kuuti,,0768824476,Diana Okeyo,0768094794,Daraja (6 Wks),7000,10000,30,5/6/2026,47/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-762,Mary Mwaura,3558521,0708199244,norman macharia,0700509057,wezesha (4 Wks),20000,24000,20,4/6/2026,32/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-763,Margaret Lomitir,,0740548417,Eunice Akoth,0728108487,Karibu (4 Wks),5000,6000,20,4/6/2026,32/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-761,Rahab Kabui,27071216,0711227118,benson mwaniki,0724382862,Ngaa (6 Wks),30000,40500,30,4/6/2026,46/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-759,Fatuma Duba,27198409,0116140156,stephen sirikwa,0798372422,Vuka (6 Wks),15000,19500,30,4/6/2026,46/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-760,Josephine Kurpel Marian,29098940,0142842993,susan nabaru,0718878829,Karibu (4 Wks),5000,6000,20,4/6/2026,32/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-767,,,07011257897,Tabitha Kibuu,0704781632,Karibu (4 Wks),5000,6000,20,4/6/2026,32/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-768,Fredrick Kihonge,27639453,0794206919,Henry Maina,0745034146,Daraja (6 Wks),9000,12000,30,4/6/2026,46/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-766,Philomena Nguitui,20284400,0718400068,,070051009,Unknown,10,3,0,4/6/2026,4/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-764,,,0720294359,Beth wacera,0716331062,Karibu (4 Wks),5000,6000,20,4/6/2026,32/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-765,Lucy Nyoro,13645220,0717796794,Susan mburu,0108798026,Unknown,10,3,0,4/6/2026,4/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-763,Margaret Lomitir,,0740548417,Eunice Akoth,0728108487,Karibu (4 Wks),5000,6000,20,4/6/2026,32/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-765,Lucy Nyoro,13645220,0717796794,Susan mburu,0108798026,Unknown,10,3,0,4/6/2026,4/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-768,Fredrick Kihonge,27639453,0794206919,Henry Maina,0745034146,Daraja (6 Wks),9000,12000,30,4/6/2026,46/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-766,Philomena Nguitui,20284400,0718400068,,070051009,Unknown,10,3,0,4/6/2026,4/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-767,,,07011257897,Tabitha Kibuu,0704781632,Karibu (4 Wks),5000,6000,20,4/6/2026,32/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-761,Rahab Kabui,27071216,0711227118,benson mwaniki,0724382862,Ngaa (6 Wks),30000,40500,30,4/6/2026,46/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-760,Josephine Kurpel Marian,29098940,0142842993,susan nabaru,0718878829,Karibu (4 Wks),5000,6000,20,4/6/2026,32/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-762,Mary Mwaura,3558521,0708199244,norman macharia,0700509057,wezesha (4 Wks),20000,24000,20,4/6/2026,32/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-759,Fatuma Duba,27198409,0116140156,stephen sirikwa,0798372422,Vuka (6 Wks),15000,19500,30,4/6/2026,46/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-764,,,0720294359,Beth wacera,0716331062,Karibu (4 Wks),5000,6000,20,4/6/2026,32/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-757,Catherine Wanjiru Nduta,23255554,0720340478,joyce kamau,0745658943,Karibu (4 Wks),5000,6000,20,3/6/2026,31/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-755,Esther Kimari,26757694,0726683825,rahab njambi,0753040119,Daraja (6 Wks),10000,13000,30,3/6/2026,45/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-756,Faith Njoki Njogu,35919921,0710918080,lilian mwai,0793774262,Daraja (4 Wks),7000,10000,20,3/6/2026,31/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-757,Catherine Wanjiru Nduta,23255554,0720340478,joyce kamau,0745658943,Karibu (4 Wks),5000,6000,20,3/6/2026,31/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-758,Rahab Njambi,25284182,0746194202,catherine maina,0736819560,Daraja (6 Wks),7000,10000,30,3/6/2026,45/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-752,Margaret Mugo,,0721572161,jane  kariuki,0734256765,Vuka (6 Wks),15000,19500,30,3/6/2026,45/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-753,Joshua Kibon,9173488,0721937013,ealice kimeli,0797691850,Daraja (4 Wks),10000,12000,20,3/6/2026,31/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-754,Esther kimani,13212790,0719700664,peter kimani,0107748401,Daraja (6 Wks),7000,10000,30,3/6/2026,45/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-755,Esther Kimari,26757694,0726683825,rahab njambi,0753040119,Daraja (6 Wks),10000,13000,30,3/6/2026,45/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-753,Joshua Kibon,9173488,0721937013,ealice kimeli,0797691850,Daraja (4 Wks),10000,12000,20,3/6/2026,31/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-752,Margaret Mugo,,0721572161,jane  kariuki,0734256765,Vuka (6 Wks),15000,19500,30,3/6/2026,45/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-758,Rahab Njambi,25284182,0746194202,catherine maina,0736819560,Daraja (6 Wks),7000,10000,30,3/6/2026,45/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-754,Esther kimani,13212790,0719700664,peter kimani,0107748401,Daraja (6 Wks),7000,10000,30,3/6/2026,45/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-756,Faith Njoki Njogu,35919921,0710918080,lilian mwai,0793774262,Daraja (4 Wks),7000,10000,20,3/6/2026,31/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-750,Ann Njoroge,,0715747806,Teressiah Njoroge,0798764337,Daraja (6 Wks),7000,10000,30,2/6/2026,44/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-749,George Ndirangu Waiganjo,28298191,0711382851,Charity Ndirangu,0758274400,Karibu (4 Wks),5000,6000,20,2/6/2026,30/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-745,Bancy Waweru,,0710540080,Joyce Njoroge,07240666021,Vuka (6 Wks),15000,19500,30,2/6/2026,44/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-751,Zipporah Muriithi,,0700480519,Teresia Maina,015873084,Daraja (6 Wks),7000,10000,30,2/6/2026,44/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-747,Sarah Ndung'u,22580679,0706439225,Alex Mwiti,0706602209,Daraja (4 Wks),10000,12000,20,2/6/2026,30/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-748,Purity Mwangi,2485509,0746999243,Jane Roro,0745305142,Daraja (6 Wks),10000,13000,30,2/6/2026,44/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-746,Lucy Munene,,0720813561,Cecilia Mutungili,0725426487,Vuka (6 Wks),15000,19500,30,2/6/2026,44/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-746,Lucy Munene,,0720813561,Cecilia Mutungili,0725426487,Vuka (6 Wks),15000,19500,30,2/6/2026,44/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-745,Bancy Waweru,,0710540080,Joyce Njoroge,07240666021,Vuka (6 Wks),15000,19500,30,2/6/2026,44/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-747,Sarah Ndung'u,22580679,0706439225,Alex Mwiti,0706602209,Daraja (4 Wks),10000,12000,20,2/6/2026,30/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-748,Purity Mwangi,2485509,0746999243,Jane Roro,0745305142,Daraja (6 Wks),10000,13000,30,2/6/2026,44/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-751,Zipporah Muriithi,,0700480519,Teresia Maina,015873084,Daraja (6 Wks),7000,10000,30,2/6/2026,44/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-749,George Ndirangu Waiganjo,28298191,0711382851,Charity Ndirangu,0758274400,Karibu (4 Wks),5000,6000,20,2/6/2026,30/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-750,Ann Njoroge,,0715747806,Teressiah Njoroge,0798764337,Daraja (6 Wks),7000,10000,30,2/6/2026,44/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-742,Joseph Mwangi,28269341,0799835033,Esther Wambui,0726683825,Daraja (6 Wks),10000,13,30,1/6/2026,43/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-743,Lydia Kamau,,0701035799,Ann Mwangi,0703322932,Daraja (4 Wks),10000,12000,20,1/6/2026,29/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-740,Serah Nganga,,0724164082,Rachel njoroge,0727992553,Daraja (4 Wks),7000,9000,20,1/6/2026,29/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-741,Francis  Njinju,20252308,0704424647,Peter Wainana,0711767396,Daraja (6 Wks),10000,13,30,1/6/2026,43/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-744,James Kaboro,,0703915750,Magdaline Maina,0720024027,Daraja (6 Wks),7000,10000,30,1/6/2026,43/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-743,Lydia Kamau,,0701035799,Ann Mwangi,0703322932,Daraja (4 Wks),10000,12000,20,1/6/2026,29/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-744,James Kaboro,,0703915750,Magdaline Maina,0720024027,Daraja (6 Wks),7000,10000,30,1/6/2026,43/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-741,Francis  Njinju,20252308,0704424647,Peter Wainana,0711767396,Daraja (6 Wks),10000,13,30,1/6/2026,43/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-742,Joseph Mwangi,28269341,0799835033,Esther Wambui,0726683825,Daraja (6 Wks),10000,13,30,1/6/2026,43/6/2026,Mixed,,YES - In Arrears,Migrated from JUNE DISBURSEMENT (1).csv
+LN-688,,,254797396337,,,Daraja (4 Wks),10000,3000,20,22/5/2026,50/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-687,,,254705311814,,,Daraja (6 Wks),7000,1667,30,22/5/2026,64/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-686,,,254798632927,,,Daraja (4 Wks),10000,3000,20,22/5/2026,50/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-689,,,254721961454,,,Daraja (6 Wks),7000,1667,30,22/5/2026,64/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-692,,,254796250750,,,Vuka (6 Wks),15000,3250,30,22/5/2026,64/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-691,,,254795544079,,,Daraja (6 Wks),8000,1834,30,22/5/2026,64/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-690,,,254769573260,,,Daraja (6 Wks),10000,2167,30,22/5/2026,64/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-678,,,254769409406,,,Daraja (4 Wks),7000,2250,20,21/5/2026,49/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-680,,,254726145455,,,Daraja (4 Wks),7000,2250,20,21/5/2026,49/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-679,,,254704163771,,,wezesha (4 Wks),20000,6000,20,21/5/2026,49/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-677,,,254793621965,,,wezesha (4 Wks),20000,6000,20,21/5/2026,49/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-681,,,254714716360,,,Daraja (6 Wks),10000,2167,30,21/5/2026,63/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-684,,,254720630896,,,Daraja (6 Wks),8000,1834,30,21/5/2026,63/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-685,,,254745464053,,,Daraja (6 Wks),7000,1667,30,21/5/2026,63/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-682,,,254724701702,,,Vuka (6 Wks),12000,2600,30,21/5/2026,63/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-683,,,254721991675,,,Karibu (4 Wks),5000,1500,20,21/5/2026,49/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-674,,,254790244173,,,Daraja (6 Wks),10000,2167,30,20/5/2026,62/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-675,,,254797775990,,,Vuka (6 Wks),12000,2600,30,20/5/2026,62/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-672,,,254794861894,,,Daraja (6 Wks),10000,2167,30,20/5/2026,62/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-673,,,254790058345,,,Daraja (6 Wks),8000,2500,30,20/5/2026,62/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-670,,,254727387416,,,Vuka (6 Wks),12000,2600,30,20/5/2026,62/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-671,,,254727176910,,,Ngaa (6 Wks),30000,6750,30,20/5/2026,62/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-676,,,254729518016,,,Karibu (4 Wks),5000,1500,20,20/5/2026,48/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-669,,,254796291816,,,Daraja (6 Wks),7000,1667,30,20/5/2026,62/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-667,,,254707670443,,,Daraja (6 Wks),10000,2167,30,19/5/2026,61/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-668,,,254714885607,,,Vuka (6 Wks),12000,2600,30,19/5/2026,61/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-666,,,254723858169,,,Daraja (4 Wks),7000,2250,20,19/5/2026,47/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-665,,,254724836941,,,Daraja (4 Wks),10000,3000,20,19/5/2026,47/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-664,,,254799871943,,,Daraja (6 Wks),10000,2167,30,19/5/2026,61/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-662,,,254711312215,,,Daraja (6 Wks),10000,2167,30,18/5/2026,60/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-661,,,254706439225,,,Daraja (4 Wks),10000,3000,20,18/5/2026,46/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-657,,,254701169467,,,Daraja (6 Wks),8000,1834,30,15/5/2026,57/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-650,,,254700934013,,,Vuka (4 Wks),12000,3600,20,15/5/2026,43/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-651,,,254715390575,,,Daraja (6 Wks),10000,2167,30,15/5/2026,57/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-659,,,254724712026,,,Daraja (4 Wks),10000,3000,20,15/5/2026,43/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-655,,,254702899233,,,Daraja (6 Wks),7000,1667,30,15/5/2026,57/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-653,,,254700083991,,,Daraja (4 Wks),7000,2250,20,15/5/2026,43/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-654,,,254727833081,,,Vuka (6 Wks),15000,3250,30,15/5/2026,57/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-658,,,254769621536,,,Vuka (6 Wks),14000,3034,30,15/5/2026,57/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-652,,,254722655548,,,Daraja (6 Wks),8000,1834,30,15/5/2026,57/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-656,,,254721994091,,,Daraja (6 Wks),8000,1834,30,15/5/2026,57/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-647,,,254769694106,,,Daraja (4 Wks),10000,3000,20,14/5/2026,42/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-642,,,254723495587,,,Vuka (6 Wks),15000,3250,30,14/5/2026,56/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-643,,,254791542906,,,Daraja (6 Wks),10000,2167,30,14/5/2026,56/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-646,,,254724024611,,,Daraja (6 Wks),10000,2167,30,14/5/2026,56/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-645,,,254746811444,,,Daraja (6 Wks),7000,1667,30,14/5/2026,56/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-649,,,254700549110,,,Daraja (6 Wks),10000,2170,30,14/5/2026,56/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-644,,,254116140156,,,Daraja (6 Wks),10000,2167,30,14/5/2026,56/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-648,,,254722340765,,,Vuka (6 Wks),15000,3250,30,14/5/2026,56/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-634,,,254720853132,,,Daraja (6 Wks),10000,3000,30,13/5/2026,55/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-635,,,254706607577,,,Daraja (6 Wks),10000,2617,30,13/5/2026,55/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-633,,,254714359854,,,Paa (6 Wks),25000,5675,30,13/5/2026,55/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-640,,,254711973607,,,wezesha (4 Wks),20000,6000,20,13/5/2026,41/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-639,,,245712833328,,,Daraja (6 Wks),10000,2167,30,13/5/2026,55/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-638,,,254719700664,,,Karibu (6 Wks),5000,1085,30,13/5/2026,55/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-637,,,254711962072,,,Daraja (6 Wks),7000,1667,30,13/5/2026,55/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-632,,,254794955639,,,Vuka (6 Wks),15000,3250,30,13/5/2026,55/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-636,,,254794029149,,,Daraja (6 Wks),7000,1667,30,13/5/2026,55/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-626,,,254724350985,,,Vuka (6 Wks),12000,2600,30,12/5/2026,54/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-625,,,254720813561,,,wezesha (6 Wks),17000,3684,30,12/5/2026,54/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-631,,,254726949202,,,Daraja (6 Wks),7000,1667,30,12/5/2026,54/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-623,,,254742982500,,,Daraja (6 Wks),8000,1834,30,12/5/2026,54/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-624,,,254729144308,,,Vuka (6 Wks),12000,2600,30,12/5/2026,54/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-622,,,254724153150,,,Daraja (6 Wks),10000,2167,30,12/5/2026,54/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-627,,,254708199244,,,wezesha (4 Wks),20000,6000,20,12/5/2026,40/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-630,,,254705436184,,,Daraja (6 Wks),10000,2167,30,12/5/2026,54/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-629,,,254748310063,,,Daraja (6 Wks),10000,2167,30,12/5/2026,54/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-628,,,254715706681,,,wezesha (4 Wks),20000,6000,20,12/5/2026,40/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-616,,,254718886595,,,Karibu (6 Wks),5000,1084,30,11/5/2026,53/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-618,,,254746194202,,,Karibu (4 Wks),5000,1500,20,11/5/2026,39/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-615,,,254717622386,,,Vuka (4 Wks),12000,3600,20,11/5/2026,39/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-617,,,254727877025,,,Daraja (6 Wks),7000,1667,30,11/5/2026,53/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-620,,,254114732234,,,Vuka (6 Wks),14000,3034,30,11/5/2026,53/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-619,,,254714503794,,,Karibu (6 Wks),5000,1085,30,11/5/2026,53/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-621,,,254794113332,,,Daraja (6 Wks),7000,1667,30,11/5/2026,53/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-611,,,254727059976,,,Daraja (6 Wks),7000,1667,30,8/5/2026,50/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-614,,,254758991413,,,Daraja (6 Wks),9000,2000,30,8/5/2026,50/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-612,,,254769573260,,,Daraja (4 Wks),8000,2500,20,8/5/2026,36/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-613,,,254705304253,,,Daraja (6 Wks),9000,2000,30,8/5/2026,50/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-609,,,254729823193,,,Ngaa (6 Wks),30000,6750,30,7/5/2026,49/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-608,,,254758372505,,,Daraja (6 Wks),10000,2167,30,7/5/2026,49/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-607,,,25718846710,,,Vuka (6 Wks),12000,2600,30,7/5/2026,49/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-610,,,254705033064,,,Ngaa (6 Wks),30000,6750,30,7/5/2026,49/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-605,,,254708448209,,,Vuka (6 Wks),12000,2600,30,6/5/2026,48/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-604,,,254741227923,,,Karibu (6 Wks),5000,1085,30,6/5/2026,48/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-603,,,254742282927,,,Daraja (6 Wks),10000,2167,30,6/5/2026,48/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-606,,,254726022867,,,Daraja (6 Wks),7000,1667,30,6/5/2026,48/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-600,,,254710540080,,,Vuka (6 Wks),15000,3250,30,5/5/2026,47/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-599,,,254721142486,,,Ngaa (6 Wks),30000,6750,30,5/5/2026,47/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-601,,,254707451706,,,Daraja (6 Wks),7000,1667,30,5/5/2026,47/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-598,,,254711227118,,,Ngaa (6 Wks),30000,6750,30,5/5/2026,47/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-602,,,254721937013,,,Daraja (4 Wks),10000,3000,20,5/5/2026,33/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-593,,,254726281613,,,wezesha (6 Wks),20000,4334,30,4/5/2026,46/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-594,,,254707655312,,,Daraja (6 Wks),9000,2000,30,4/5/2026,46/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-591,,,254113300495,,,Karibu (6 Wks),5000,1085,30,4/5/2026,46/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-592,,,254711686002,,,Daraja (6 Wks),10000,2170,30,4/5/2026,46/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-597,,,254799871943,,,Daraja (4 Wks),8000,2500,20,4/5/2026,32/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-590,,,254724210636,,,Daraja (6 Wks),10000,2170,30,4/5/2026,46/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-595,,,254715365131,,,Daraja (6 Wks),10000,2170,30,4/5/2026,46/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-596,,,254723849109,,,Daraja (6 Wks),10000,2170,30,4/5/2026,46/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-641,,,254742033906,,,Vuka (6 Wks),12000,2600,30,14/4/2026,56/4/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-457,,,,,,Vuka (6 Wks),15000,CLEARED,30,9/4/2026,51/4/2026,ENGINEER,38439700,NO - Paid,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv
+LN-456,,,,,,Daraja (6 Wks),10000,CLEARED,30,9/4/2026,51/4/2026,ENGINEER,38439700,NO - Paid,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv
+LN-511,,,,,,Daraja (6 Wks),8000,10000,30,10/2/2026,52/2/2026,ENGINEER,,YES - In Arrears,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv
+LN-512,,,,,,Daraja (6 Wks),8000,10000,30,10/2/2026,52/2/2026,ENGINEER,,YES - In Arrears,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv
+LN-510,,,,,,Daraja (6 Wks),7000,9000,30,10/2/2026,52/2/2026,ENGINEER,,YES - In Arrears,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv

@@ -95,3 +95,15 @@ This file tracks all data quality issues, conflicts, and assumptions made during
 - 789 dormant clients lack guarantor data because historical loan files are not available
 - Current files only contain recent disbursement data (4 months)
 - **Root cause**: Historical loan disbursement files containing guarantor information for dormant clients are missing from the dataset
+
+**Loans File Created (mfi-import-loans.csv)**:
+- Total loans: 455
+- Sources: 7 loan disbursement files (July-October 2026 + Head Office + Engineer branch)
+- Products mapped: Based on loan amount ranges from kashleo_loan_products.csv
+- **Issues identified**:
+  - Client ID numbers in loan files are often phone numbers instead of actual IDs
+  - Branch information for July disbursements shows "Mixed" - needs mapping from client data
+  - Maturity date calculation needs improvement (currently shows invalid dates like 43/7/2026)
+  - Loan officer employee numbers are empty - needs mapping from kashleo-employees.csv
+  - Some loans have OLB (Outstanding Loan Balance) that exceeds principal (data quality issue)
+- **Next steps**: Fix client ID mapping, branch assignment, date calculation, and officer mapping

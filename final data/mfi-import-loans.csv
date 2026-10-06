@@ -1,0 +1,1081 @@
+﻿loan_number,client_id_number,client_phone,client_number,product_name,principal,balance,fees_outstanding,interest_rate,term_value,term_unit,status,disbursed_at,maturity_date,branch,collection_agent_employee_number,notes,guarantor_name,guarantor_contact,guarantor_name,guarantor_contact
+LN-1,141001738,769261515,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,1/7/2026,43/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-2,113244500,720630896,,Daraja (6 Wks),8000,11000,700,30,1.39,months,active,1/7/2026,43/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-3,745945541,729417206,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,1/7/2026,43/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-4,724066021,710540080,,Vuka (6 Wks),15000,19500,700,30,1.39,months,active,2/7/2026,44/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-5,703207202,723113511,,Daraja (4 Wks),7000,9000,700,20,0.92,months,active,3/7/2026,31/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-6,796323736,713944872,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,3/7/2026,45/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-7,727992553,724164082,,Daraja (4 Wks),8000,10000,700,20,0.92,months,active,3/7/2026,31/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-8,720294359,716331062,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,3/7/2026,31/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-9,728649729,724479261,,Daraja (4 Wks),8000,10000,700,20,0.92,months,active,3/7/2026,31/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-10,718102970,746405759,,Daraja (6 Wks),8000,11000,700,30,1.39,months,active,6/7/2026,48/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-11,724066021,710540080,,wezesha (4 Wks),20000,24000,700,20,0.92,months,active,6/7/2026,34/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-12,726768133,724446422,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,6/7/2026,34/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-13,794400120,118525881,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,6/7/2026,48/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-14,700539923,794861894,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,6/7/2026,48/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-15,726580019,719105265,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,6/7/2026,48/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-16,729238210,701676104,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,6/7/2026,48/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-17,711767396,704424647,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,6/7/2026,48/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-18,759900772,112149690,,wezesha (6 Wks),20000,26000,700,30,1.39,months,active,6/7/2026,48/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-19,729417206,723495587,,Vuka (6 Wks),15000,19500,700,30,1.39,months,active,6/7/2026,48/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-20,715369788,712876987,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,6/7/2026,48/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-21,720024027,703915750,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,6/7/2026,48/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-22,756240295,720552419,,Daraja (4 Wks),7000,9000,700,20,0.92,months,active,6/7/2026,34/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-23,724382862,711227118,,Ngaa (6 Wks),30000,40500,700,30,1.39,months,active,6/7/2026,48/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-24,743320897,724836941,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,6/7/2026,34/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-25,769386968,743725400,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,6/7/2026,48/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-26,798764337,715747806,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,6/7/2026,48/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-27,728108487,740548417,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,7/7/2026,35/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-28,705850703,721318231,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,7/7/2026,49/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-29,707234349,724051213,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,7/6/2026,49/6/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-30,728627914,793621965,,Paa (6 Wks),25000,34050,700,30,1.39,months,active,7/7/2026,49/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-31,713543764,715365131,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,7/7/2026,49/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-32,723842892,114732234,,Vuka (6 Wks),15000,19500,700,30,1.39,months,active,7/7/2026,49/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-33,715873084,700480519,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,7/6/2026,49/6/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-34,719506554,727698567,,wezesha (4 Wks),18000,21000,700,20,0.92,months,active,8/7/2026,36/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-35,792871335,705557044,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,8/7/2026,36/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-36,714388690,791046162,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,8/7/2026,50/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-37,796102762,724350985,,Vuka (6 Wks),14000,18200,700,30,1.39,months,active,8/7/2026,50/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-38,798372422,116140156,,Vuka (6 Wks),15000,19500,700,30,1.39,months,active,8/7/2026,50/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-39,722416830,725709459,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,8/7/2026,50/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-40,736819560,746194202,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,8/7/2026,50/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-41,700771840,714734249,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,9/7/2026,51/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-42,769228244,769694106,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,9/7/2026,37/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-43,745305142,746999243,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,9/7/2026,51/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-44,741796731,743647697,,Daraja (4 Wks),7000,9000,700,20,0.92,months,active,9/7/2026,37/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-45,115403692,746811444,,Daraja (6 Wks),8000,11000,700,30,1.39,months,active,9/7/2026,51/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-46,768208209,790244173,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,9/7/2026,51/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-47,759261142,700132036,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,10/7/2026,38/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-48,711063122,729518016,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,10/6/2026,52/6/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-49,768094794,768824476,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,10/7/2026,52/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-50,752560980,758991413,,Daraja (6 Wks),9000,11000,700,30,1.39,months,active,13/7/2026,55/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-51,727816849,715228494,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,13/7/2026,41/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-52,720323599,798632927,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,13/6/2026,41/6/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-53,792748608,748261697,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,13/7/2026,55/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-54,710467216,791842906,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,13/7/2026,55/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-55,726297808,727877025,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,13/7/2026,55/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-56,734256765,721572161,,Vuka (6 Wks),15000,19500,700,30,1.39,months,active,13/7/2026,55/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-57,790646590,711312215,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,13/7/2026,55/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-58,746194202,726683825,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,13/7/2026,55/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-59,700515009,718400068,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,13/7/2026,55/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-60,715778506,714359854,,Paa (6 Wks),25000,34050,700,30,1.39,months,active,13/7/2026,55/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-61,700469416,769409406,,Daraja (4 Wks),9000,11000,700,20,0.92,months,active,14/7/2026,42/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-62,757069418,711686002,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,14/7/2026,56/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-63,798654955,714076538,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,14/7/2026,42/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-64,700144012,718871498,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,14/7/2026,42/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-65,795493127,724024611,,Daraja (6 Wks),10000,10000,700,30,1.39,months,active,14/7/2026,56/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-66,703322932,701035799,,Vuka (4 Wks),12000,14400,700,20,0.92,months,active,14/7/2026,42/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-67,708387501,799173612,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,15/7/2026,43/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-68,722706813,722527858,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,15/7/2026,57/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-69,727306592,704163771,,wezesha (4 Wks),20000,24000,700,20,0.92,months,active,15/7/2026,43/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-70,706841567,705304253,,Daraja (6 Wks),9000,11000,700,30,1.39,months,active,15/7/2026,57/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-71,793774262,710918080,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,15/7/2026,57/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-72,710625385,759900772,,Daraja (4 Wks),7000,9000,700,20,0.92,months,active,15/7/2026,43/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-73,742728359,799871943,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,16/7/2026,58/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-74,794326731,720241837,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,16/7/2026,44/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-75,712989540,723519085,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,16/7/2026,58/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-76,115944640,115480067,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,16/7/2026,44/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-77,728397868,794416300,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,16/7/2026,44/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-78,728587387,792049781,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,16/7/2026,58/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-79,702653933,769573260,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,16/7/2026,44/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-80,11510784,790058345,,Daraja (4 Wks),8000,10000,700,20,0.92,months,active,17/7/2026,45/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-81,720311445,707492014,,Daraja (6 Wks),8000,11000,700,30,1.39,months,active,17/7/2026,59/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-82,710644873,748586361,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,17/7/2026,45/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-83,728534959,725380367,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,17/7/2026,59/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-84,745128614,714503794,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,20/7/2026,48/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-85,721794032,721142486,,Ngaa (6 Wks),30000,40500,700,30,1.39,months,active,20/7/2026,62/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-86,746563025,724712026,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,20/7/2026,62/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-87,726683825,799835033,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,20/7/2026,62/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-88,10660229,706439225,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,21/7/2026,49/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-89,748608288,797775990,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,21/7/2026,63/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-90,792402413,712833328,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,21/7/2026,63/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-91,705102133,725559308,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,21/7/2026,49/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-92,701965026,742282927,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,21/7/2026,63/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-93,724544938,769621536,,Vuka (6 Wks),15000,19500,700,30,1.39,months,active,21/7/2026,63/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-94,711237285,723849109,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,21/7/2026,63/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-95,701481316,722655548,,Daraja (6 Wks),8000,11000,700,30,1.39,months,active,21/7/2026,63/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-96,712258783,790082214,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,21/7/2026,63/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-97,700570661,729144308,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,21/7/2026,63/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-98,710954164,727387416,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,21/7/2026,63/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-99,705102133,701728665,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,21/7/2026,63/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-100,715228494,797396337,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,21/7/2026,49/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-101,713101470,715709400,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,22/7/2026,64/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-102,740491220,724210636,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,22/7/2026,64/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-103,108798026,717796794,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,22/7/2026,64/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-104,714592685,728290725,,Vuka (6 Wks),15000,19500,700,30,1.39,months,active,22/7/2026,64/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-105,791470552,748485559,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,22/7/2026,64/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-106,722948117,715706681,,wezesha (4 Wks),20000,24000,700,20,0.92,months,active,22/7/2026,50/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-107,1088117449,717622386,,Vuka (4 Wks),12000,14400,700,20,0.92,months,active,22/7/2026,50/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-108,715747740,721994091,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,22/7/2026,64/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-109,722141101,724442266,,Vuka (6 Wks),15000,19500,700,30,1.39,months,active,23/7/2026,65/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-110,741199155,796250750,,Vuka (4 Wks),12000,14400,700,20,0.92,months,active,23/7/2026,51/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-111,720294359,716331062,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,23/7/2026,51/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-112,717720111,729823193,,Ngaa (6 Wks),30000,40500,700,30,1.39,months,active,23/7/2026,65/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-113,707029040,707029040,,wezesha (6 Wks),20000,2600,700,30,1.39,months,active,23/7/2026,65/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-114,792519004,723364504,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,24/7/2026,66/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-115,721425519,748310063,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,24/7/2026,66/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-116,758091413,759607572,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,24/7/2026,52/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-117,759859581,715390575,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,24/7/2026,66/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-118,727992553,724164082,,Daraja (4 Wks),8000,10000,700,20,0.92,months,active,24/7/2026,52/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-119,713543764,715365131,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,24/7/2026,66/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-120,738427495,707143090,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,24/7/2026,66/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-121,769956186,705757348,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,24/7/2026,66/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-122,716523140,792612031,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,24/7/2026,66/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-123,757630138,795157747,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,24/7/2026,66/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-124,712416909,110724989,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,24/7/2026,52/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-125,70509057,708199244,,wezesha (4 Wks),20000,24000,700,20,0.92,months,active,27/7/2026,55/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-126,790244266,757723589,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,27/7/2026,55/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-127,715426487,720813561,,wezesha (6 Wks),19000,24800,700,30,1.39,months,active,27/7/2026,69/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-128,748300019,758849257,,Daraja (4 Wks),8000,10000,700,20,0.92,months,active,27/7/2026,55/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-129,711346285,707655312,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,27/7/2026,55/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-130,740441273,724544938,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,27/7/2026,69/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-131,728649729,724479261,,Daraja (4 Wks),8000,10000,700,20,0.92,months,active,28/7/2026,56/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-132,721401919,721356359,,Vuka (4 Wks),15000,19500,700,20,0.92,months,active,28/7/2026,56/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-133,704690718,715616331,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,28/7/2026,70/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-134,743320897,724836941,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,28/7/2026,56/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-135,726547536,718886595,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,28/7/2026,56/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-136,712438585,701169467,,Daraja (6 Wks),8000,11000,700,30,1.39,months,active,28/7/2026,70/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-137,703286633,723858169,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,28/7/2026,56/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-138,727258550,721950008,,Daraja (4 Wks),7000,9000,700,20,0.92,months,active,28/7/2026,56/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-139,114234124,703418234,,Daraja (4 Wks),7000,9000,700,20,0.92,months,active,28/7/2026,56/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-140,726503829,727865456,,Ngaa (6 Wks),30000,40500,700,30,1.39,months,active,29/7/2026,71/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-141,710576285,724701702,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,29/7/2026,71/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-142,116691166,708448209,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,29/7/2026,71/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-143,726890467,704825688,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,29/7/2026,71/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-144,758274400,711382851,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,29/7/2026,57/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-145,790796424,718659733,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,29/7/2026,71/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-146,745945541,729417206,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,29/7/2026,71/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-147,708382465,718846710,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,29/7/2026,71/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-148,743458451,706607577,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,29/72026,,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-149,713501528,702028822,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,30/7/2026,72/7/2026,Mixed,,Migrated from JULY DISBURSEMENT (5).csv,,,,
+LN-150,728108487,740548417,,Unknown,2000,0,700,0,2078.52,months,paid,24/8/2026,63024/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-151,724544938,769621536,,Karibu (6 Wks),4500,3250,700,30,4503.46,months,active,24/8/2026,136524/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-152,70509057,708199244,,Karibu (6 Wks),4000,17000,700,30,5542.73,months,active,24/8/2026,168024/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-153,713543764,715365131,,Karibu (6 Wks),3000,0,700,30,3002.31,months,paid,24/8/2026,91024/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-154,769325233,728981668,,Karibu (6 Wks),3000,0,700,30,2309.47,months,paid,24/8/2026,70024/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-155,748300019,758849257,,Unknown,2000,0,700,0,2309.47,months,paid,24/8/2026,70024/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-156,790412246,742033906,,Karibu (6 Wks),3000,1665,700,30,2309.47,months,active,24/8/2026,70024/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-157,717892112,723204844,,Karibu (6 Wks),3000,0,700,30,2309.47,months,paid,24/8/2026,70024/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-158,702282198,794817796,,Karibu (6 Wks),3000,0,700,30,2309.47,months,paid,24/8/2026,70024/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-159,741796731,743647697,,Unknown,2000,0,700,0,2078.52,months,paid,24/8/2026,63024/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-160,728649729,724479261,,Unknown,2000,0,700,0,2771.36,months,paid,24/8/2026,84024/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-161,727258550,721950008,,Unknown,2000,0,700,0,2078.52,months,paid,25/8/2026,63025/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-162,748608288,797775990,,Karibu (6 Wks),3600,0,700,30,3602.77,months,paid,25/8/2026,109225/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-163,719699112,701483016,,Karibu (6 Wks),3000,1830,700,30,2540.42,months,active,25/8/2026,77025/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-164,76227036,757601818,,Karibu (6 Wks),3000,10000,700,30,2309.47,months,active,25/8/2026,70025/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-165,724348241,700677627,,Karibu (6 Wks),3000,0,700,30,2309.47,months,paid,25/8/2026,70025/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-166,746332140,706535129,,Karibu (6 Wks),3000,1665,700,30,2309.47,months,active,25/8/2026,70025/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-167,722337146,115563126,,Karibu (6 Wks),3000,1665,700,30,2309.47,months,active,25/8/2026,70025/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-168,744652580,114744475,,Karibu (6 Wks),3000,10000,700,30,2309.47,months,active,25/8/2026,70025/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-169,795493127,724024611,,Karibu (6 Wks),3000,2165,700,30,3002.31,months,active,26/8/2026,91026/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-170,745128614,714503794,,Karibu (6 Wks),3000,0,700,30,2309.47,months,paid,26/8/2026,70026/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-171,714592685,728290725,,Karibu (6 Wks),3600,0,700,30,3602.77,months,paid,26/8/2026,109226/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-172,798654955,714076538,,Unknown,2000,0,700,0,2771.36,months,paid,26/8/2026,84026/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-173,712258783,790082214,,Karibu (6 Wks),3000,6100,700,30,2771.36,months,active,26/8/2026,84026/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-174,721778601,700041662,,Karibu (6 Wks),3000,1665,700,30,2309.47,months,active,26/82026,,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-175,742103835,711973607,,Karibu (6 Wks),4000,0,700,30,5542.73,months,paid,26/8/2026,168026/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-176,711962072,726784976,,Karibu (6 Wks),3000,10000,700,30,2309.47,months,active,27/8/2026,70027/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-177,795884457,745242789,,Karibu (6 Wks),3000,2272,700,30,3002.31,months,active,27/8/2026,91027/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-178,715021279,758091413,,Unknown,2000,0,700,0,2771.36,months,paid,27/8/2026,84027/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-179,752560980,758991413,,Karibu (6 Wks),3000,4999,700,30,2309.47,months,active,27/8/2026,70027/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-180,720311445,707492014,,Karibu (6 Wks),3000,3663,700,30,2540.42,months,active,27/8/2026,77027/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-181,712989540,723519085,,Karibu (6 Wks),3000,2165,700,30,3002.31,months,active,27/8/2026,91027/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-182,713101470,704746868,,Karibu (6 Wks),3000,0,700,30,2309.47,months,paid,27/8/2026,70027/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-183,757956212,710711406,,Karibu (6 Wks),3000,4168,700,30,2309.47,months,active,28/8/2026,70028/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-184,746563025,724712026,,Karibu (6 Wks),4200,3030,700,30,4203.23,months,active,28/8/2026,127428/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-185,743320897,724836941,,Unknown,2000,0,700,0,2771.36,months,paid,28/8/2026,84028/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-186,1133391643,740364099,,Karibu (6 Wks),3000,1665,700,30,2309.47,months,active,28/8/2026,70028/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-187,721425519,748310063,,Karibu (6 Wks),3000,0,700,30,3002.31,months,paid,31/8/2026,91031/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-188,710576285,724701702,,Karibu (6 Wks),3600,5200,700,30,3602.77,months,active,31/8/2026,109231/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-189,7200886677,794400120,,Karibu (6 Wks),3000,4999,700,30,2309.47,months,active,31/8/2026,70031/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-190,748306569,793568159,,Unknown,2000,2850,700,0,2078.52,months,active,31/8/2026,63031/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-191,728845042,119173109,,Karibu (6 Wks),3000,3332,700,30,2309.47,months,active,31/8/2026,70031/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-192,794326731,720241837,,Unknown,2000,0,700,0,2771.36,months,paid,31/8/2026,84031/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-193,720323599,798632927,,Unknown,2000,0,700,0,2771.36,months,paid,31/8/2026,84031/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-194,721794032,721142486,,Unknown,10500,13500,700,0,9353.35,months,active,31/8/2026,283531/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-195,740441273,724544938,,Karibu (6 Wks),3000,4332,700,30,3002.31,months,active,31/8/2026,91031/8/2026,Nyahururu,,Migrated from AUGUST DISBURSEMENT NYAHURURU (2).csv,,,,
+LN-196,,791933445,,Daraja (4 Wks),7000,9000,700,20,0.92,months,active,2/10/2026,30/10/2026,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-197,,715068622,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,2/10/2026,44/10/2026,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-198,,725818764,,Daraja (4 Wks),8000,10000,700,20,0.92,months,active,2/10/2026,30/10/2026,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-199,,721356359,,Daraja (4 Wks),7000,9000,700,20,0.92,months,active,2/10/2026,30/10/2026,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-200,,718886595,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,2/10/2026,44/10/2026,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-201,,720813561,,wezesha (6 Wks),19000,24800,700,30,1.39,months,active,2/10/2026,44/10/2026,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-202,,710733293,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,2/10/2026,44/10/2026,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-203,,748310063,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,2/10/2026,44/10/2026,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-204,27744743,700430558,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,2/10/2026,44/10/2026,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-205,,719700664,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,2/10/2026,44/10/2026,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-206,,740854760,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,2/10/2026,44/10/2026,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-207,,769409406,,Vuka (4 Wks),12000,14400,700,20,0.92,months,active,2/10/2026,30/10/2026,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-208,,795884457,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,2/10/2026,44/10/2026,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-209,34385557,795314749,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,3/10/2026,45/10/2026,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-210,,725559308,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,3/10/2026,45/10/2026,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-211,,790058345,,Daraja (4 Wks),8000,10000,700,20,0.92,months,active,3/10/2026,31/10/2026,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-212,,791046162,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,3/10/2026,45/10/2026,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-213,,728981668,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,,,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-214,,769621536,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,,,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-215,24532013,727833081,,Vuka (6 Wks),15000,19500,700,30,1.39,months,active,19-05-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-216,11257845,729148650,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,11-08-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-217,25424867,724988443,,Vuka (6 Wks),15000,13050,700,30,1.39,months,active,04-06-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-218,11818728,727583414,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,14-08-2026,,Head Office,38575235,Migrated from head_office__current_loans_124454.csv,,,,
+LN-219,12477096,713290488,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,14-08-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-220,26402244,717523158,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,11-08-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-221,24667218,726518607,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,17-08-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-222,21968498,703637510,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,12-08-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-223,11773533,113720913,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,10-08-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-224,31867824,143178817,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,08-07-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-225,25586166,712872335,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,10-07-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-226,27221760,724590343,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,05-08-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-227,2353086,723512549,,Daraja (6 Wks),10000,12500,700,30,1.39,months,active,03-08-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-228,23797035,721841322,,Daraja (6 Wks),10000,12000,700,30,1.39,months,active,07-10-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-229,23797035,721841322,,Daraja (6 Wks),10000,12000,700,30,1.39,months,active,10-07-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-230,24827208,720637112,,Daraja (6 Wks),9000,11700,700,30,1.39,months,active,29-07-2026,,Head Office,38575235,Migrated from head_office__current_loans_124454.csv,,,,
+LN-231,24244638,715368475,,Daraja (6 Wks),9000,11700,700,30,1.39,months,active,12-08-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-232,24993751,790554705,,Daraja (6 Wks),10000,10833,700,30,1.39,months,active,21-05-2026,,Head Office,34174582,Migrated from head_office__current_loans_124454.csv,,,,
+LN-233,21701047,714680432,,Daraja (6 Wks),10000,10830,700,30,1.39,months,active,05-08-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-234,12472746,729500609,,Daraja (6 Wks),10000,10830,700,30,1.39,months,active,04-08-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-235,13392320,722675172,,Daraja (6 Wks),10000,10830,700,30,1.39,months,active,10-08-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-236,9581815,702661812,,Daraja (6 Wks),10000,10830,700,30,1.39,months,active,06-08-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-237,39367266,740132792,,Daraja (6 Wks),10000,10830,700,30,1.39,months,active,05-08-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-238,23728337,768845384,,Daraja (6 Wks),10000,10830,700,30,1.39,months,active,03-08-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-239,31179068,799205142,,Daraja (6 Wks),8000,10400,700,30,1.39,months,active,17-08-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-240,13453034,792850882,,Daraja (6 Wks),8000,10400,700,30,1.39,months,active,17-08-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-241,38579424,798433762,,Daraja (6 Wks),8000,10400,700,30,1.39,months,active,18-08-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-242,5558524,711452040,,Daraja (6 Wks),8000,10400,700,30,1.39,months,active,14-08-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-243,24056745,727176910,,Ngaa (6 Wks),30000,10370,700,30,1.39,months,active,12-05-2026,,Head Office,33768572,Migrated from head_office__current_loans_124454.csv,,,,
+LN-244,34668382,791526649,,Daraja (6 Wks),8000,10000,700,30,1.39,months,active,14-08-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-245,237570,720653621,,Daraja (6 Wks),10000,10000,700,30,1.39,months,active,18-08-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-246,28763662,716207585,,Vuka (6 Wks),15000,9750,700,30,1.39,months,active,21-07-2026,,Head Office,38575235,Migrated from head_office__current_loans_124454.csv,,,,
+LN-247,22326151,718668200,,Daraja (6 Wks),10000,9350,700,30,1.39,months,active,17-07-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-248,25362649,711154802,,Daraja (6 Wks),7000,9100,700,30,1.39,months,active,14-08-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-249,24924431,745736789,,Daraja (6 Wks),7000,9100,700,30,1.39,months,active,11-08-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-250,24960498,115746322,,Daraja (6 Wks),7000,9100,700,30,1.39,months,active,12-08-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-251,7721375,720887990,,Daraja (6 Wks),7000,9100,700,30,1.39,months,active,11-08-2026,,Head Office,38575235,Migrated from head_office__current_loans_124454.csv,,,,
+LN-252,26381267,708356421,,Daraja (6 Wks),7000,9100,700,30,1.39,months,active,17-08-2026,,Head Office,38575235,Migrated from head_office__current_loans_124454.csv,,,,
+LN-253,21985939,724974652,,Daraja (6 Wks),7000,9100,700,30,1.39,months,active,18-08-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-254,30353004,117422497,,Daraja (6 Wks),7000,9100,700,30,1.39,months,active,18-08-2026,,Head Office,38575235,Migrated from head_office__current_loans_124454.csv,,,,
+LN-255,20368523,714226124,,Daraja (6 Wks),7000,9100,700,30,1.39,months,active,18-08-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-256,42056759,793551785,,Daraja (6 Wks),7000,9100,700,30,1.39,months,active,18-08-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-257,9075851,724633563,,Daraja (6 Wks),7000,9100,700,30,1.39,months,active,11-08-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-258,22162392,726541516,,Daraja (6 Wks),7000,9100,700,30,1.39,months,active,10-08-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-259,25089546,724260510,,Daraja (6 Wks),7000,9055,700,30,1.39,months,active,10-07-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-260,20935810,726281613,,wezesha (6 Wks),20000,8668,700,30,1.39,months,active,04-05-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-261,27972897,723834640,,Daraja (6 Wks),10000,8660,700,30,1.39,months,active,27-07-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-262,24309632,795543318,,Daraja (6 Wks),8000,8660,700,30,1.39,months,active,28-07-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-263,27443997,721919217,,Daraja (6 Wks),10000,8660,700,30,1.39,months,active,28-07-2026,,Head Office,38575235,Migrated from head_office__current_loans_124454.csv,,,,
+LN-264,28566026,748495658,,Daraja (6 Wks),10000,8660,700,30,1.39,months,active,29-07-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-265,13453617,712650572,,Daraja (6 Wks),10000,8660,700,30,1.39,months,active,19-06-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-266,21594721,742279176,,Daraja (6 Wks),8000,8568,700,30,1.39,months,active,04-08-2026,,Head Office,38575235,Migrated from head_office__current_loans_124454.csv,,,,
+LN-267,23888450,758796378,,Daraja (6 Wks),10000,8450,700,30,1.39,months,active,17-06-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-268,42647083,791381569,,Daraja (6 Wks),7000,8330,700,30,1.39,months,active,29-07-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-269,25226013,728562926,,Daraja (6 Wks),7000,8330,700,30,1.39,months,active,04-08-2026,,Head Office,38575235,Migrated from head_office__current_loans_124454.csv,,,,
+LN-270,25308011,710602129,,Daraja (6 Wks),7000,8330,700,30,1.39,months,active,05-08-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-271,31855559,743534921,,Daraja (6 Wks),7000,8330,700,30,1.39,months,active,04-08-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-272,22307659,724202982,,Daraja (6 Wks),10000,8230,700,30,1.39,months,active,05-08-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-273,39779366,746365638,,Daraja (6 Wks),7000,8100,700,30,1.39,months,active,18-06-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-274,29963123,792517330,,Daraja (6 Wks),9000,8000,700,30,1.39,months,active,28-07-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-275,21459847,745517475,,Daraja (6 Wks),7000,7830,700,30,1.39,months,active,04-08-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-276,28522352,719412237,,Vuka (6 Wks),12000,7800,700,30,1.39,months,active,17-07-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-277,485452,720853132,,Daraja (6 Wks),10000,7500,700,30,1.39,months,active,06-05-2026,,Head Office,33768572,Migrated from head_office__current_loans_124454.csv,,,,
+LN-278,23742451,720233892,,Daraja (6 Wks),7000,7433,700,30,1.39,months,active,09-06-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-279,26365335,712780643,,Daraja (6 Wks),8000,7340,700,30,1.39,months,active,22-07-2026,,Head Office,38575235,Migrated from head_office__current_loans_124454.csv,,,,
+LN-280,11032880,721386523,,Daraja (6 Wks),8000,7340,700,30,1.39,months,active,04-08-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-281,22588986,702941499,,Daraja (6 Wks),8000,7330,700,30,1.39,months,active,29-07-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-282,35815888,797396128,,Daraja (6 Wks),8000,7330,700,30,1.39,months,active,28-07-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-283,27665673,703438648,,Daraja (6 Wks),8000,7330,700,30,1.39,months,active,29-07-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-284,22695670,790791661,,Daraja (6 Wks),7000,7330,700,30,1.39,months,active,29-07-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-285,22831199,725853279,,Daraja (6 Wks),9000,7000,700,30,1.39,months,active,29-07-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-286,30920237,708742365,,Daraja (6 Wks),9000,7000,700,30,1.39,months,active,30-07-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-287,26699359,706826637,,Daraja (6 Wks),7000,6680,700,30,1.39,months,active,27-07-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-288,29308215,724137855,,Daraja (6 Wks),7000,6680,700,30,1.39,months,active,03-08-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-289,29235850,706241487,,Daraja (6 Wks),7000,6680,700,30,1.39,months,active,03-08-2026,,Head Office,38575235,Migrated from head_office__current_loans_124454.csv,,,,
+LN-290,22028297,758335400,,Daraja (6 Wks),7000,6660,700,30,1.39,months,active,27-07-2026,,Head Office,38575235,Migrated from head_office__current_loans_124454.csv,,,,
+LN-291,31114208,712184728,,Daraja (6 Wks),7000,6660,700,30,1.39,months,active,28-07-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-292,23768278,702258262,,Daraja (6 Wks),7000,6630,700,30,1.39,months,active,29-07-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-293,24309052,725250520,,Daraja (6 Wks),9000,6600,700,30,1.39,months,active,12-05-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-294,27743539,719335155,,Daraja (6 Wks),10000,6520,700,30,1.39,months,active,09-07-2026,,Head Office,38575235,Migrated from head_office__current_loans_124454.csv,,,,
+LN-295,31017569,708341205,,Daraja (6 Wks),10000,6510,700,30,1.39,months,active,17-07-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-296,33844184,794955639,,Vuka (6 Wks),15000,6500,700,30,1.39,months,active,28-04-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-297,22919746,725986031,,Daraja (6 Wks),10000,6496,700,30,1.39,months,active,09-06-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-298,28576880,793873983,,Daraja (6 Wks),10000,6490,700,30,1.39,months,active,24-07-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-299,26914983,707451706,,Daraja (6 Wks),10000,6409,700,30,1.39,months,active,05-05-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-300,35988036,795381249,,Daraja (6 Wks),10000,6399,700,30,1.39,months,active,19-05-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-301,14519083,720709061,,Daraja (6 Wks),8000,6320,700,30,1.39,months,active,21-07-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-302,11179541,729659614,,Daraja (6 Wks),10000,6310,700,30,1.39,months,active,17-07-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-303,267551,716034398,,Daraja (6 Wks),9000,6300,700,30,1.39,months,active,03-08-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-304,498459500,759433215,,Daraja (6 Wks),9000,6000,700,30,1.39,months,active,27-07-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-305,24188580,715902352,,Daraja (6 Wks),7000,5963,700,30,1.39,months,active,02-06-2026,,Head Office,39120130,Migrated from head_office__current_loans_124454.csv,,,,
+LN-306,36996924,117665073,,Daraja (6 Wks),7000,5733,700,30,1.39,months,active,18-06-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-307,21549876,729298620,,Daraja (6 Wks),10000,5730,700,30,1.39,months,active,15-04-2026,,Head Office,33768572,Migrated from head_office__current_loans_124454.csv,,,,
+LN-308,22091500,715690487,,Daraja (6 Wks),7000,5633,700,30,1.39,months,active,16-06-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-309,27452274,705311814,,Daraja (6 Wks),7000,5563,700,30,1.39,months,active,19-05-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-310,31246744,758659128,,Daraja (6 Wks),8000,5506,700,30,1.39,months,active,21-07-2026,,Head Office,38575235,Migrated from head_office__current_loans_124454.csv,,,,
+LN-311,32724484,112720895,,Daraja (6 Wks),8000,5505,700,30,1.39,months,active,27-07-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-312,40145313,722340765,,Vuka (6 Wks),15000,5500,700,30,1.39,months,active,29-04-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-313,28514706,700083991,,Daraja (6 Wks),7000,5450,700,30,1.39,months,active,19-05-2026,,Head Office,34174582,Migrated from head_office__current_loans_124454.csv,,,,
+LN-314,531038092,117734053,,Daraja (6 Wks),8000,5440,700,30,1.39,months,active,27-07-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-315,26395273,726022867,,Daraja (6 Wks),7000,5433,700,30,1.39,months,active,11-05-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-316,11129479,710339502,,Daraja (6 Wks),10000,5340,700,30,1.39,months,active,13-07-2026,,Head Office,38575235,Migrated from head_office__current_loans_124454.csv,,,,
+LN-317,2178940,711962072,,Daraja (6 Wks),7000,5260,700,30,1.39,months,active,05-05-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-318,20905006,743662912,,Daraja (6 Wks),7000,5090,700,30,1.39,months,active,16-06-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-319,29225000,793010635,,Daraja (6 Wks),7000,5010,700,30,1.39,months,active,24-07-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-320,27841566,704709046,,Daraja (6 Wks),7000,5010,700,30,1.39,months,active,24-07-2026,,Head Office,38575235,Migrated from head_office__current_loans_124454.csv,,,,
+LN-321,31204394,745707906,,Daraja (6 Wks),10000,4620,700,30,1.39,months,active,10-07-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-322,708710644,708710644,,Daraja (6 Wks),10000,4616,700,30,1.39,months,active,04-06-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-323,26084088,790512348,,Daraja (6 Wks),8000,4540,700,30,1.39,months,active,13-07-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-324,29119763,742459392,,Daraja (6 Wks),7000,4458,700,30,1.39,months,active,30-04-2026,,Head Office,33768572,Migrated from head_office__current_loans_124454.csv,,,,
+LN-325,28263106,713978869,,Daraja (6 Wks),10000,4340,700,30,1.39,months,active,13-07-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-326,9322781,721086504,,Daraja (6 Wks),10000,4340,700,30,1.39,months,active,13-07-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-327,25132565,746399541,,Daraja (6 Wks),10000,4340,700,30,1.39,months,active,16-07-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-328,36501682,745967398,,Daraja (6 Wks),10000,4340,700,30,1.39,months,active,17-07-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-329,34167443,100000000,,Daraja (6 Wks),10000,4340,700,30,1.39,months,active,16-07-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-330,21543280,796291816,,Daraja (6 Wks),7000,4256,700,30,1.39,months,active,21-05-2026,,Head Office,34174582,Migrated from head_office__current_loans_124454.csv,,,,
+LN-331,7113828,729294832,,Daraja (6 Wks),7000,4210,700,30,1.39,months,active,17-07-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-332,41434940,703913312,,Daraja (6 Wks),7000,4096,700,30,1.39,months,active,16-06-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-333,23383011,111221071,,Daraja (6 Wks),8000,4085,700,30,1.39,months,active,22-06-2026,,Head Office,38575235,Migrated from head_office__current_loans_124454.csv,,,,
+LN-334,23725649,715363435,,Daraja (6 Wks),6999,4062,700,30,1.39,months,active,18-05-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-335,5552874,725727216,,Daraja (6 Wks),9000,4000,700,30,1.39,months,active,01-07-2026,,Head Office,38575235,Migrated from head_office__current_loans_124454.csv,,,,
+LN-336,22112936,702029942,,Daraja (6 Wks),10000,3840,700,30,1.39,months,active,17-07-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-337,23469396,726151673,,Daraja (6 Wks),7000,3830,700,30,1.39,months,active,17-07-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-338,8678387,729417206,,Daraja (6 Wks),10000,3794,700,30,1.39,months,active,21-05-2026,,Head Office,33768572,Migrated from head_office__current_loans_124454.csv,,,,
+LN-339,34743497,748865530,,Daraja (6 Wks),7000,3743,700,30,1.39,months,active,29-05-2026,,Head Office,33768572,Migrated from head_office__current_loans_124454.csv,,,,
+LN-340,25395294,729374373,,Daraja (6 Wks),8000,3670,700,30,1.39,months,active,18-06-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-341,24960584,713146035,,Daraja (6 Wks),8000,3670,700,30,1.39,months,active,14-07-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-342,26304922,742578283,,Daraja (6 Wks),8000,3670,700,30,1.39,months,active,15-07-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-343,23497949,743333421,,Daraja (6 Wks),10000,3640,700,30,1.39,months,active,13-07-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-344,11630922,700705976,,Daraja (6 Wks),10000,3490,700,30,1.39,months,active,17-07-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-345,34963158,790544260,,Daraja (6 Wks),7000,3434,700,30,1.39,months,active,09-06-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-346,37132889,707670443,,Daraja (6 Wks),10000,3313,700,30,1.39,months,active,19-05-2026,,Head Office,33768572,Migrated from head_office__current_loans_124454.csv,,,,
+LN-347,27072016,716171095,,Daraja (6 Wks),10000,3240,700,30,1.39,months,active,17-07-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-348,108171433,705738790,,Daraja (6 Wks),7000,3216,700,30,1.39,months,active,18-06-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-349,21322670,725555578,,Daraja (6 Wks),7000,2893,700,30,1.39,months,active,10-06-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-350,24346337,758011823,,Daraja (6 Wks),8000,2832,700,30,1.39,months,active,28-04-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-351,3614276,712046450,,Daraja (6 Wks),9000,2800,700,30,1.39,months,active,16-06-2026,,Head Office,39120130,Migrated from head_office__current_loans_124454.csv,,,,
+LN-352,24661407,727516887,,Daraja (6 Wks),7000,2620,700,30,1.39,months,active,23-06-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-353,27960445,715010933,,Daraja (6 Wks),7000,2610,700,30,1.39,months,active,17-07-2026,,Head Office,38575235,Migrated from head_office__current_loans_124454.csv,,,,
+LN-354,23071138,741213695,,Daraja (6 Wks),7000,2510,700,30,1.39,months,active,21-05-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-355,34602461,721730653,,Daraja (6 Wks),7000,2412,700,30,1.39,months,active,10-06-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-356,21626553,726145455,,Daraja (6 Wks),7000,2350,700,30,1.39,months,active,19-05-2026,,Head Office,34174582,Migrated from head_office__current_loans_124454.csv,,,,
+LN-357,35079381,723117536,,Daraja (6 Wks),7000,2260,700,30,1.39,months,active,08-06-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-358,28498632,110688130,,Daraja (6 Wks),9000,2200,700,30,1.39,months,active,03-06-2026,,Head Office,39120130,Migrated from head_office__current_loans_124454.csv,,,,
+LN-359,29844329,799113717,,Daraja (6 Wks),7000,2183,700,30,1.39,months,active,18-06-2026,,Head Office,39120130,Migrated from head_office__current_loans_124454.csv,,,,
+LN-360,12780142,710199397,,Daraja (6 Wks),10000,2170,700,30,1.39,months,active,21-07-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-361,27168046,711755150,,Daraja (6 Wks),10000,2170,700,30,1.39,months,active,17-07-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-362,24713898,715368458,,Daraja (6 Wks),10000,2170,700,30,1.39,months,active,24-06-2026,,Head Office,38575235,Migrated from head_office__current_loans_124454.csv,,,,
+LN-363,24285285,704064377,,Daraja (6 Wks),10000,2170,700,30,1.39,months,active,29-06-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-364,11413712,724057954,,Daraja (6 Wks),10000,2170,700,30,1.39,months,active,07-07-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-365,12780142,710199397,,Daraja (6 Wks),8000,2170,700,30,1.39,months,active,21-07-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-366,24290358,723279066,,Daraja (6 Wks),8000,2170,700,30,1.39,months,active,21-07-2026,,Head Office,38575235,Migrated from head_office__current_loans_124454.csv,,,,
+LN-367,28182575,114231644,,Daraja (6 Wks),10000,2170,700,30,1.39,months,active,01-07-2026,,Head Office,38575235,Migrated from head_office__current_loans_124454.csv,,,,
+LN-368,24272958,701187397,,Daraja (6 Wks),10000,2170,700,30,1.39,months,active,06-07-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-369,24189307,708320978,,Daraja (6 Wks),10000,2170,700,30,1.39,months,active,08-07-2026,,Head Office,38575235,Migrated from head_office__current_loans_124454.csv,,,,
+LN-370,10952883,716645885,,Daraja (6 Wks),10000,2170,700,30,1.39,months,active,10-07-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-371,330468290,113487083,,Daraja (6 Wks),10000,2170,700,30,1.39,months,active,10-07-2026,,Head Office,38575235,Migrated from head_office__current_loans_124454.csv,,,,
+LN-372,36239339,727149758,,Daraja (6 Wks),10000,2170,700,30,1.39,months,active,10-07-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-373,24337107,713874511,,Daraja (6 Wks),8000,2070,700,30,1.39,months,active,09-07-2026,,Head Office,38575235,Migrated from head_office__current_loans_124454.csv,,,,
+LN-374,24635706,719624262,,Daraja (6 Wks),8000,2000,700,30,1.39,months,active,09-07-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-375,34005439,745464053,,Daraja (6 Wks),7000,1932,700,30,1.39,months,active,19-05-2026,,Head Office,33768572,Migrated from head_office__current_loans_124454.csv,,,,
+LN-376,24907842,705763601,,Daraja (6 Wks),7000,1920,700,30,1.39,months,active,23-06-2026,,Head Office,38575235,Migrated from head_office__current_loans_124454.csv,,,,
+LN-377,27380882,720871643,,Daraja (6 Wks),8000,1835,700,30,1.39,months,active,08-07-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-378,9553092,748947116,,Daraja (6 Wks),7000,1810,700,30,1.39,months,active,17-06-2026,,Head Office,38590404,Migrated from head_office__current_loans_124454.csv,,,,
+LN-379,20606674,113300495,,Karibu (6 Wks),5000,1660,700,30,1.39,months,active,04-05-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-380,24549006,724836345,,Daraja (6 Wks),10000,1510,700,30,1.39,months,active,13-07-2026,,Head Office,38575235,Migrated from head_office__current_loans_124454.csv,,,,
+LN-381,36786253,712556511,,Daraja (6 Wks),7000,1500,700,30,1.39,months,active,16-06-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-382,24079916,759780337,,Daraja (6 Wks),7000,1412,700,30,1.39,months,active,01-06-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-383,40305051,796787883,,Daraja (6 Wks),9000,1350,700,30,1.39,months,active,02-06-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-384,759386,706515204,,Daraja (6 Wks),7000,1256,700,30,1.39,months,active,17-06-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-385,23666488,796890432,,Daraja (6 Wks),9000,1200,700,30,1.39,months,active,03-06-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-386,21114950,704159480,,Daraja (6 Wks),7000,1052,700,30,1.39,months,active,16-06-2026,,Head Office,39120130,Migrated from head_office__current_loans_124454.csv,,,,
+LN-387,36868661,797584851,,Karibu (6 Wks),5000,1000,700,30,1.39,months,active,19-05-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-388,27091490,724342004,,Daraja (6 Wks),7000,1000,700,30,1.39,months,active,27-05-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-389,28426847,790351484,,Daraja (6 Wks),8000,835,700,30,1.39,months,active,23-06-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-390,20347847,721991675,,Karibu (6 Wks),5000,833,700,30,1.39,months,active,19-05-2026,,Head Office,33768572,Migrated from head_office__current_loans_124454.csv,,,,
+LN-391,13454318,723553746,,Daraja (6 Wks),9000,800,700,30,1.39,months,active,09-06-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-392,32309143,794113332,,Daraja (6 Wks),7000,765,700,30,1.39,months,active,01-05-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-393,23133717,746421447,,Daraja (6 Wks),9000,500,700,30,1.39,months,active,04-06-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-394,28500793,717735348,,Daraja (6 Wks),10000,500,700,30,1.39,months,active,03-07-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-395,10134255,710601342,,Daraja (6 Wks),7000,265,700,30,1.39,months,active,28-05-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-396,31156525,721996908,,Daraja (6 Wks),6999,245,700,30,1.39,months,active,19-05-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-397,12956509,702744779,,Daraja (6 Wks),10000,240,700,30,1.39,months,active,23-06-2026,,Head Office,38575235,Migrated from head_office__current_loans_124454.csv,,,,
+LN-398,25765046,727059976,,Daraja (6 Wks),10000,143,700,30,1.39,months,active,06-05-2026,,Head Office,,Migrated from head_office__current_loans_124454.csv,,,,
+LN-399,25467679,0715885492,,Daraja (6 Wks),6 Weeks,CLEARED,700,30,2309.47,months,active,04/09/26,70004/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-400,21791345,0716872853,,Daraja (6 Wks),4 Weeks,CLEARED,700,30,3464.2,months,active,04/09/26,105004/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-401,21496227,0713404733,,Daraja (6 Wks),4 weeks,CLEARED,700,30,2309.47,months,active,07/09/26,70007/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-402,32739955,0711670920,,Daraja (6 Wks),4 Weeks,CLEARED,700,30,4618.94,months,active,09/09/26,140009/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-403,32798367,0746130036,,Daraja (6 Wks),4 Weeks,CLEARED,700,30,4618.94,months,active,09/09/26,140009/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-404,20196938,0725714984,,Daraja (6 Wks),4 weeks,CLEARED,700,30,1847.58,months,active,09/09/26,56009/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-405,20473278,0725940977,,Daraja (6 Wks),4 Weeks,4500,700,30,1616.63,months,active,10/09/26,49010/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-406,13882897,0741724262,,Daraja (6 Wks),4 Weeks,CLEARED,700,30,4618.94,months,active,10/09/26,140010/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-407,33439693,0721179725,,Daraja (6 Wks),6 Weeks,CLEARED,700,30,2309.47,months,active,10/09/26,70010/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-408,9504030,0706414682,,Daraja (6 Wks),6 Weeks,17332,700,30,4618.94,months,active,11/09/26,140011/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-409,315103,0706200790,,Daraja (6 Wks),6 Weeks,8666,700,30,2309.47,months,active,11/09/26,70011/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-410,42233463,0119675041,,Daraja (6 Wks),4 Weeks,9000,700,30,2309.47,months,active,11/09/26,70011/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-411,11729390,0715072434,,Daraja (6 Wks),6 Weeks,13000,700,30,3464.2,months,active,15/09/26,105015/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-412,2950435,0729296712,,Daraja (6 Wks),6 Weeks,8666,700,30,2309.47,months,active,15/09/26,70015/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-413,27052355,0741304619,,Daraja (6 Wks),6 Weeks,13866,700,30,3695.15,months,active,15/09/26,112015/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-414,41394930,0713068523,,Daraja (6 Wks),6 Weeks,CLEARED,700,30,2309.47,months,active,15/09/26,70015/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-415,28726796,0707420132,,Daraja (6 Wks),6 Weeks,10400,700,30,2771.36,months,active,15/09/26,84015/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-416,27774973,0795042054,,Daraja (6 Wks),6 Weeks,13000,700,30,3464.2,months,active,15/09/26,105015/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-417,21143242,0728843845,,Daraja (6 Wks),4 Weeks,10000,700,30,2309.47,months,active,15/09/26,70015/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-418,11082073,0721422565,,Daraja (6 Wks),6 Weeks,8666,700,30,2309.47,months,active,15/09/26,70015/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-419,25221358,0710807679,,Daraja (6 Wks),6 Weeks,17332,700,30,4618.94,months,active,15/09/26,140015/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-420,26214022,0715155936,,Daraja (6 Wks),6 Weeks,13000,700,30,3464.2,months,active,15/09/26,105015/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-421,21791345,0716872853,,Daraja (6 Wks),4 Weeks,9000,700,30,3464.2,months,active,15/09/26,105015/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-422,39262726,0794080835,,Daraja (6 Wks),6 weeks,10833,700,30,2309.47,months,active,17/09/26,70017/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-423,5751111,0704919175,,Daraja (6 Wks),6 Weeks,16250,700,30,3464.2,months,active,17/09/26,105017/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-424,24034006,0113017122,,Daraja (6 Wks),6 Weeks,7617,700,30,1847.58,months,active,17/09/26,56017/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-425,28599488,0727633627,,Daraja (6 Wks),6 weeks,CLEARED,700,30,2309.47,months,active,17/09/26,70017/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-426,13212667,0743201965,,Daraja (6 Wks),6 Weeks,10833,700,30,2309.47,months,active,17/09/26,70017/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-427,12417467,0722610107,,Daraja (6 Wks),6 Weeks,8333,700,30,1847.58,months,active,17/09/26,56017/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-428,26903488,0717160355,,Daraja (6 Wks),6 Weeks,10833,700,30,2309.47,months,active,18/09/26,70018/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-429,22372303,0720141895,,Daraja (6 Wks),4 Weeks,27000,700,30,6928.41,months,active,18/09/26,210018/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-430,24938672,0716838439,,Daraja (6 Wks),6 Weeks,16250,700,30,3464.2,months,active,18/09/26,105018/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-431,27492006,0705110957,,Daraja (6 Wks),6 Weeks,16250,700,30,3464.2,months,active,18/09/26,105018/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-432,26869225,0720323442,,Daraja (6 Wks),6 weeks,16250,700,30,3464.2,months,active,22/09/26,105022/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-433,27860175,0716589853,,Daraja (6 Wks),6 weeks,10833,700,30,2309.47,months,active,22/09/26,70022/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-434,26744903,0723294698,,Daraja (6 Wks),6 Weeks,23833,700,30,4618.94,months,active,22/09/26,140022/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-435,28382916,0710359610,,Daraja (6 Wks),6 weeks,10833,700,30,2309.47,months,active,22/09/26,70022/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-436,28102915,0701890277,,Daraja (6 Wks),6 weeks,10833,700,30,2309.47,months,active,22/09/26,70022/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-437,33003036,0758457833,,Daraja (6 Wks),6 Weeks,11066,700,30,2309.47,months,active,22/09/26,70022/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-438,25476433,0724706953,,Daraja (6 Wks),6 Weeks,21666,700,30,4618.94,months,active,22/09/26,140022/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-439,7028707,0722572202,,Daraja (6 Wks),6 Weeks,16250,700,30,3464.2,months,active,23/09/26,105023/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-440,25486582,0721307339,,Daraja (6 Wks),6 weeks,12000,700,30,2309.47,months,active,23/09/26,70023/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-441,31012591,0791508489,,Daraja (6 Wks),6 weeks,13000,700,30,2309.47,months,active,25/09/26,70025/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-442,32517912,0116606404,,Daraja (6 Wks),6 weeks,13000,700,30,2309.47,months,active,25/09/26,70025/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-443,22118116,0791724230,,Daraja (6 Wks),4 weeks,18000,700,30,4618.94,months,active,25/09/26,140025/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-444,26275607,0715484117,,Daraja (6 Wks),6 Weeks,13000,700,30,2309.47,months,active,28/09/26,70028/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-445,25532121,0706815518,,Daraja (6 Wks),6 Weeks,13000,700,30,2309.47,months,active,28/09/26,70028/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-446,32739955,0711670920,,Daraja (6 Wks),4 Weeks,24000,700,30,4618.94,months,active,28/09/26,140028/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-447,36160319,0798733681,,Daraja (6 Wks),4 Weeks,12000,700,30,2309.47,months,active,28/09/26,70028/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-448,42233463,0119675041,,Daraja (6 Wks),4 Weeks,12000,700,30,2309.47,months,active,11/09/26,70011/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-449,25467679,0715885492,,Daraja (6 Wks),6 Weeks,13000,700,30,2309.47,months,active,28/09/26,70028/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-450,32798367,0746130036,,Daraja (6 Wks),4 Weeks,24000,700,30,4618.94,months,active,29/09/26,140029/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-451,9815102,0142165052,,Daraja (6 Wks),6 Weeks,19600,700,30,2771.36,months,active,29/09/26,84029/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-452,21905797,0703560538,,Daraja (6 Wks),4 weeks,13000,700,30,2309.47,months,active,29/09/26,70029/09/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-453,8060028,0798258604,,Daraja (6 Wks),6 Weeks,9000,700,30,1616.63,months,active,02/10/26,49002/10/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-454,24633265,0740897616,,Daraja (6 Wks),6 Weeks,10000,700,30,1847.58,months,active,02/10/26,56002/10/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-455,27307693,0726601789,,Daraja (6 Wks),6 Weeks,10000,700,30,1847.58,months,active,02/10/26,56002/10/26,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3) (1).csv,,,,
+LN-456,25467679,,,Daraja (6 Wks),10000,CLEARED,700,30,1.39,months,active,9/4/2026,51/4/2026,ENGINEER,38439700,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-457,21791345,,,Vuka (6 Wks),15000,CLEARED,700,30,1.39,months,active,9/4/2026,51/4/2026,ENGINEER,38439700,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-458,21496227,,,Daraja (6 Wks),10000,CLEARED,700,30,1.39,months,active,9/7/2026,51/7/2026,ENGINEER,38439700,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-459,32739955,,,wezesha (6 Wks),20000,CLEARED,700,30,1.39,months,active,9/9/2026,51/9/2026,ENGINEER,38439700,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-460,32798367,,,wezesha (6 Wks),20000,CLEARED,700,30,1.39,months,active,9/9/2026,51/9/2026,ENGINEER,38439700,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-461,20196938,,,Daraja (6 Wks),8000,CLEARED,700,30,1.39,months,active,9/9/2026,51/9/2026,ENGINEER,38590917,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-462,20473278,,,Daraja (6 Wks),7000,4500,700,30,1.39,months,active,9/10/2026,51/10/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-463,13882897,,,wezesha (6 Wks),20000,CLEARED,700,30,1.39,months,active,9/10/2026,51/10/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-464,33439693,,,Daraja (6 Wks),10000,CLEARED,700,30,1.39,months,active,9/10/2026,51/10/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-465,9504030,,,wezesha (6 Wks),20000,17332,700,30,1.39,months,active,9/11/2026,51/11/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-466,31510377,,,Daraja (6 Wks),10000,8666,700,30,1.39,months,active,9/11/2026,51/11/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-467,42233463,,,Daraja (6 Wks),10000,9000,700,30,1.39,months,active,9/11/2026,51/11/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-468,11729390,,,Vuka (6 Wks),15000,13000,700,30,1.39,months,active,9/15/2026,51/15/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-469,2950435,,,Daraja (6 Wks),10000,8666,700,30,1.39,months,active,9/15/2026,51/15/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-470,27052355,,,wezesha (6 Wks),16000,13866,700,30,1.39,months,active,9/15/2026,51/15/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-471,41394930,,,Daraja (6 Wks),10000,CLEARED,700,30,1.39,months,active,9/15/2026,51/15/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-472,28726796,,,Vuka (6 Wks),12000,10400,700,30,1.39,months,active,9/15/2026,51/15/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-473,27774973,,,Vuka (6 Wks),15000,13000,700,30,1.39,months,active,9/15/2026,51/15/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-474,21143242,,,Daraja (6 Wks),10000,10000,700,30,1.39,months,active,9/15/2026,51/15/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-475,11082073,,,Daraja (6 Wks),10000,8666,700,30,1.39,months,active,9/15/2026,51/15/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-476,25221358,,,wezesha (6 Wks),20000,17332,700,30,1.39,months,active,9/15/2026,51/15/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-477,26214022,,,Vuka (6 Wks),15000,13000,700,30,1.39,months,active,9/15/2026,51/15/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-478,21791345,,,Vuka (6 Wks),15000,9000,700,30,1.39,months,active,9/15/2026,51/15/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-479,39262726,,,Daraja (6 Wks),10000,10833,700,30,1.39,months,active,9/17/2026,51/17/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-480,5751111,,,Vuka (6 Wks),15000,16250,700,30,1.39,months,active,9/17/2026,51/17/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-481,24034006,,,Daraja (6 Wks),8000,7617,700,30,1.39,months,active,9/17/2026,51/17/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-482,28599488,,,Daraja (6 Wks),10000,CLEARED,700,30,1.39,months,active,9/17/2026,51/17/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-483,13212667,,,Daraja (6 Wks),10000,10833,700,30,1.39,months,active,9/17/2026,51/17/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-484,12417467,,,Daraja (6 Wks),8000,8333,700,30,1.39,months,active,9/17/2026,51/17/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-485,26903488,,,Daraja (6 Wks),10000,10833,700,30,1.39,months,active,9/18/2026,51/18/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-486,22372303,,,Ngaa (6 Wks),30000,27000,700,30,1.39,months,active,9/18/2026,51/18/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-487,24938672,,,Vuka (6 Wks),15000,16250,700,30,1.39,months,active,9/18/2026,51/18/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-488,27492006,,,Vuka (6 Wks),15000,16250,700,30,1.39,months,active,9/18/2026,51/18/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-489,26869225,,,Vuka (6 Wks),15000,16250,700,30,1.39,months,active,9/22/2026,51/22/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-490,27860175,,,Daraja (6 Wks),10000,10833,700,30,1.39,months,active,9/22/2026,51/22/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-491,26744903,,,wezesha (6 Wks),20000,23833,700,30,1.39,months,active,9/22/2026,51/22/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-492,28382916,,,Daraja (6 Wks),10000,10833,700,30,1.39,months,active,9/22/2026,51/22/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-493,28102915,,,Daraja (6 Wks),10000,10833,700,30,1.39,months,active,9/22/2026,51/22/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-494,33003036,,,Daraja (6 Wks),10000,11066,700,30,1.39,months,active,9/22/2026,51/22/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-495,25476433,,,wezesha (6 Wks),20000,21666,700,30,1.39,months,active,9/22/2026,51/22/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-496,7028707,,,Vuka (6 Wks),15000,16250,700,30,1.39,months,active,9/23/2026,51/23/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-497,25486582,,,Daraja (6 Wks),10000,12000,700,30,1.39,months,active,9/23/2026,51/23/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-498,31012591,,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,9/25/2026,51/25/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-499,32517912,,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,9/25/2026,51/25/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-500,22118116,,,wezesha (6 Wks),20000,18000,700,30,1.39,months,active,9/25/2026,51/25/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-501,26275607,,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,9/28/2026,51/28/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-502,25532121,,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,9/28/2026,51/28/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-503,32739955,,,wezesha (6 Wks),20000,24000,700,30,1.39,months,active,9/28/2026,51/28/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-504,36160319,,,Daraja (6 Wks),10000,12000,700,30,1.39,months,active,9/28/2026,51/28/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-505,42233463,,,Daraja (6 Wks),10000,12000,700,30,1.39,months,active,9/11/2026,51/11/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-506,25467679,,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,9/28/2026,51/28/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-507,32798367,,,wezesha (6 Wks),20000,24000,700,30,1.39,months,active,9/29/2026,51/29/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-508,9815102,,,Vuka (6 Wks),12000,19600,700,30,1.39,months,active,9/29/2026,51/29/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-509,21905797,,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,9/29/2026,51/29/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-510,8060028,,,Daraja (6 Wks),7000,9000,700,30,1.39,months,active,10/2/2026,52/2/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-511,24633265,,,Daraja (6 Wks),8000,10000,700,30,1.39,months,active,10/2/2026,52/2/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-512,27307693,,,Daraja (6 Wks),8000,10000,700,30,1.39,months,active,10/2/2026,52/2/2026,ENGINEER,,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv,,,,
+LN-513,,741590773,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,2/9/2026,44/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-514,,721994091,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,2/9/2026,44/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-515,,795157747,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,4/9/2026,46/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-516,,720552419,,Daraja (6 Wks),9000,12000,700,30,1.39,months,active,4/9/2026,46/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-517,,706607577,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,4/9/2026,46/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-518,,112149690,,wezesha (6 Wks),20000,26000,700,30,1.39,months,active,7/9/2026,49/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-519,,707593937,,Daraja (6 Wks),10000,10000,700,30,1.39,months,active,7/9/2026,49/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-520,,724164082,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,7/9/2026,35/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-521,,715228494,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,7/9/2026,49/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-522,,718846710,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,8/9/2026,50/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-523,,797775990,,Vuka (6 Wks),14000,18200,700,30,1.39,months,active,8/9/2026,50/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-524,,718871498,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,8/9/2026,50/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-525,,727877025,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,8/9/2026,50/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-526,,759900772,,Daraja (4 Wks),9000,11000,700,20,0.92,months,active,8/9/2026,36/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-527,,794416300,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,9/9/2026,51/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-528,,729417206,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,9/9/2026,51/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-529,,792612031,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,9/9/2029,51/9/2029,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-530,,799835033,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,10/9/2026,52/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-531,,711686002,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,14/9/2026,56/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-532,,714716360,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,14/9/2026,56/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-533,,710540080,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,14/9/2026+A55:A62,56/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-534,,705304253,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,14/9/2026,56/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-535,,113300495,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,14/9/2026,56/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-536,,725709459,,Daraja (6 Wks),8000,11000,700,30,1.39,months,active,14/9/2026,56/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-537,,714885607,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,14/9/2026,56/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-538,,742982500,,Daraja (6 Wks),9000,12000,700,30,1.39,months,active,16/9/2026,58/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-539,,7922579608,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,16/9/2026,58/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-540,,724446422,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,16/9/2026,58/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-541,,746405759,,Daraja (6 Wks),8000,11000,700,30,1.39,months,active,16/9/2026,58/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-542,,799871943,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,16/9/2026,58/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-543,,706439225,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,16/9/2026,44/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-544,,797064363,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,16/9/2026,58/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-545,,715706681,,Paa (6 Wks),25000,34050,700,30,1.39,months,active,17/9/2026,59/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-546,,704424647,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,17/9/2026,59/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-547,,700480519,,Daraja (6 Wks),8000,11000,700,30,1.39,months,active,17/9/2026,59/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-548,,712833328,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,17/9/2026,59/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-549,,715365131,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,18/9/2026,60/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-550,,702028822,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,18/9/2026,60/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-551,,708448209,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,18/9/2026,60/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-552,,703915750,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,18/9/2026,60/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-553,,757091865,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,18/9/2026,60/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-554,,725380367,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,21/9/2026,63/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-555,,704244146,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,21/9/2026,63/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-556,,714076538,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,21/9/2026,49/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-557,,721318231,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,21/9/2026,63/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-558,,705191158,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,21/9/2026,63/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-559,,724479261,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,22/9/2026,50/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-560,,729828281,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,22/9/2026,64/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-561,,711227118,,Ngaa (6 Wks),30000,40500,700,30,1.39,months,active,22/9/2026,64/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-562,,729518016,,Daraja (6 Wks),8000,11000,700,30,1.39,months,active,22/9/2026,64/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-563,,729144308,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,22/9/2026,64/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-564,,768824476,,Daraja (6 Wks),8000,11000,700,30,1.39,months,active,22/9/2026,64/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-565,,724836941,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,22/9/2026,50/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-566,,714359854,,Ngaa (6 Wks),30000,40500,700,30,1.39,months,active,23/9/2026,65/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-567,,711973607,,wezesha (4 Wks),20000,20000,700,20,0.92,months,active,23/9/2026,51/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-568,,723849109,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,23/9/2026,65/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-569,,726683825,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,24/9/2026,66/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-570,36004000,758091413,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,24/9/2026,52/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-571,,794817796,,Daraja (4 Wks),7000,9000,700,20,0.92,months,active,25/9/2026,53/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-572,,707655312,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,25/9/2026,67/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-573,,721950008,,Daraja (4 Wks),7000,9000,700,20,0.92,months,active,25/9/2026,53/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-574,,791542906,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,25/9/2026,67/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-575,,758849257,,Daraja (4 Wks),8000,10000,700,20,0.92,months,active,25/9/2026,53/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-576,,716339627,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,25/9/2026,53/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-577,,728290725,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,25/9/2026,67/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-578,,743647697,,Daraja (4 Wks),7000,9000,700,20,0.92,months,active,25/9/2026,53/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-579,,700677627,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,25/9/2026,67/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-580,,748485559,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,28/9/2026,70/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-581,,798632927,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,28/9/2026,56/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-582,,722527858,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,28/9/2026,70/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-583,,720241837,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,28/9/2026,56/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-584,,720630896,,Daraja (6 Wks),8000,11000,700,30,1.39,months,active,28/9/2026,70/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-585,,722655548,,Daraja (6 Wks),8000,11000,700,30,1.39,months,active,28/9/2026,70/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-586,,704163771,,wezesha (4 Wks),20000,24000,700,20,0.92,months,active,28/9/2026,56/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-587,,717622386,,Vuka (4 Wks),12000,14400,700,20,0.92,months,active,29/9/2026,57/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-588,,742033906,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,29/9/2026,71/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-589,,701035799,,Vuka (6 Wks),15000,19500,700,30,1.39,months,active,29/9/2026,71/9/2026,Unknown,,Migrated from FIIILTER.csv,,,,
+LN-590,,254724210636,,Daraja (6 Wks),10000,2170,700,30,1.39,months,active,4/5/2026,46/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-591,,254113300495,,Karibu (6 Wks),5000,1085,700,30,1.39,months,active,4/5/2026,46/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-592,,254711686002,,Daraja (6 Wks),10000,2170,700,30,1.39,months,active,4/5/2026,46/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-593,,254726281613,,wezesha (6 Wks),20000,4334,700,30,1.39,months,active,4/5/2026,46/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-594,,254707655312,,Daraja (6 Wks),9000,2000,700,30,1.39,months,active,4/5/2026,46/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-595,,254715365131,,Daraja (6 Wks),10000,2170,700,30,1.39,months,active,4/5/2026,46/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-596,,254723849109,,Daraja (6 Wks),10000,2170,700,30,1.39,months,active,4/5/2026,46/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-597,,254799871943,,Daraja (4 Wks),8000,2500,700,20,0.92,months,active,4/5/2026,32/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-598,,254711227118,,Ngaa (6 Wks),30000,6750,700,30,1.39,months,active,5/5/2026,47/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-599,,254721142486,,Ngaa (6 Wks),30000,6750,700,30,1.39,months,active,5/5/2026,47/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-600,,254710540080,,Vuka (6 Wks),15000,3250,700,30,1.39,months,active,5/5/2026,47/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-601,,254707451706,,Daraja (6 Wks),7000,1667,700,30,1.39,months,active,5/5/2026,47/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-602,,254721937013,,Daraja (4 Wks),10000,3000,700,20,0.92,months,active,5/5/2026,33/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-603,,254742282927,,Daraja (6 Wks),10000,2167,700,30,1.39,months,active,6/5/2026,48/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-604,,254741227923,,Karibu (6 Wks),5000,1085,700,30,1.39,months,active,6/5/2026,48/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-605,,254708448209,,Vuka (6 Wks),12000,2600,700,30,1.39,months,active,6/5/2026,48/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-606,,254726022867,,Daraja (6 Wks),7000,1667,700,30,1.39,months,active,6/5/2026,48/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-607,,25718846710,,Vuka (6 Wks),12000,2600,700,30,1.39,months,active,7/5/2026,49/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-608,,254758372505,,Daraja (6 Wks),10000,2167,700,30,1.39,months,active,7/5/2026,49/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-609,,254729823193,,Ngaa (6 Wks),30000,6750,700,30,1.39,months,active,7/5/2026,49/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-610,,254705033064,,Ngaa (6 Wks),30000,6750,700,30,1.39,months,active,7/5/2026,49/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-611,,254727059976,,Daraja (6 Wks),7000,1667,700,30,1.39,months,active,8/5/2026,50/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-612,,254769573260,,Daraja (4 Wks),8000,2500,700,20,0.92,months,active,8/5/2026,36/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-613,,254705304253,,Daraja (6 Wks),9000,2000,700,30,1.39,months,active,8/5/2026,50/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-614,,254758991413,,Daraja (6 Wks),9000,2000,700,30,1.39,months,active,8/5/2026,50/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-615,,254717622386,,Vuka (4 Wks),12000,3600,700,20,0.92,months,active,11/5/2026,39/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-616,,254718886595,,Karibu (6 Wks),5000,1084,700,30,1.39,months,active,11/5/2026,53/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-617,,254727877025,,Daraja (6 Wks),7000,1667,700,30,1.39,months,active,11/5/2026,53/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-618,,254746194202,,Karibu (4 Wks),5000,1500,700,20,0.92,months,active,11/5/2026,39/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-619,,254714503794,,Karibu (6 Wks),5000,1085,700,30,1.39,months,active,11/5/2026,53/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-620,,254114732234,,Vuka (6 Wks),14000,3034,700,30,1.39,months,active,11/5/2026,53/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-621,,254794113332,,Daraja (6 Wks),7000,1667,700,30,1.39,months,active,11/5/2026,53/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-622,,254724153150,,Daraja (6 Wks),10000,2167,700,30,1.39,months,active,12/5/2026,54/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-623,,254742982500,,Daraja (6 Wks),8000,1834,700,30,1.39,months,active,12/5/2026,54/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-624,,254729144308,,Vuka (6 Wks),12000,2600,700,30,1.39,months,active,12/5/2026,54/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-625,,254720813561,,wezesha (6 Wks),17000,3684,700,30,1.39,months,active,12/5/2026,54/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-626,,254724350985,,Vuka (6 Wks),12000,2600,700,30,1.39,months,active,12/5/2026,54/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-627,,254708199244,,wezesha (4 Wks),20000,6000,700,20,0.92,months,active,12/5/2026,40/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-628,,254715706681,,wezesha (4 Wks),20000,6000,700,20,0.92,months,active,12/5/2026,40/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-629,,254748310063,,Daraja (6 Wks),10000,2167,700,30,1.39,months,active,12/5/2026,54/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-630,,254705436184,,Daraja (6 Wks),10000,2167,700,30,1.39,months,active,12/5/2026,54/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-631,,254726949202,,Daraja (6 Wks),7000,1667,700,30,1.39,months,active,12/5/2026,54/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-632,,254794955639,,Vuka (6 Wks),15000,3250,700,30,1.39,months,active,13/5/2026,55/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-633,,254714359854,,Paa (6 Wks),25000,5675,700,30,1.39,months,active,13/5/2026,55/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-634,,254720853132,,Daraja (6 Wks),10000,3000,700,30,1.39,months,active,13/5/2026,55/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-635,,254706607577,,Daraja (6 Wks),10000,2617,700,30,1.39,months,active,13/5/2026,55/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-636,,254794029149,,Daraja (6 Wks),7000,1667,700,30,1.39,months,active,13/5/2026,55/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-637,,254711962072,,Daraja (6 Wks),7000,1667,700,30,1.39,months,active,13/5/2026,55/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-638,,254719700664,,Karibu (6 Wks),5000,1085,700,30,1.39,months,active,13/5/2026,55/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-639,,245712833328,,Daraja (6 Wks),10000,2167,700,30,1.39,months,active,13/5/2026,55/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-640,,254711973607,,wezesha (4 Wks),20000,6000,700,20,0.92,months,active,13/5/2026,41/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-641,,254742033906,,Vuka (6 Wks),12000,2600,700,30,1.39,months,active,14/4/2026,56/4/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-642,,254723495587,,Vuka (6 Wks),15000,3250,700,30,1.39,months,active,14/5/2026,56/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-643,,254791542906,,Daraja (6 Wks),10000,2167,700,30,1.39,months,active,14/5/2026,56/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-644,,254116140156,,Daraja (6 Wks),10000,2167,700,30,1.39,months,active,14/5/2026,56/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-645,,254746811444,,Daraja (6 Wks),7000,1667,700,30,1.39,months,active,14/5/2026,56/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-646,,254724024611,,Daraja (6 Wks),10000,2167,700,30,1.39,months,active,14/5/2026,56/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-647,,254769694106,,Daraja (4 Wks),10000,3000,700,20,0.92,months,active,14/5/2026,42/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-648,,254722340765,,Vuka (6 Wks),15000,3250,700,30,1.39,months,active,14/5/2026,56/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-649,,254700549110,,Daraja (6 Wks),10000,2170,700,30,1.39,months,active,14/5/2026,56/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-650,,254700934013,,Vuka (4 Wks),12000,3600,700,20,0.92,months,active,15/5/2026,43/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-651,,254715390575,,Daraja (6 Wks),10000,2167,700,30,1.39,months,active,15/5/2026,57/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-652,,254722655548,,Daraja (6 Wks),8000,1834,700,30,1.39,months,active,15/5/2026,57/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-653,,254700083991,,Daraja (4 Wks),7000,2250,700,20,0.92,months,active,15/5/2026,43/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-654,,254727833081,,Vuka (6 Wks),15000,3250,700,30,1.39,months,active,15/5/2026,57/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-655,,254702899233,,Daraja (6 Wks),7000,1667,700,30,1.39,months,active,15/5/2026,57/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-656,,254721994091,,Daraja (6 Wks),8000,1834,700,30,1.39,months,active,15/5/2026,57/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-657,,254701169467,,Daraja (6 Wks),8000,1834,700,30,1.39,months,active,15/5/2026,57/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-658,,254769621536,,Vuka (6 Wks),14000,3034,700,30,1.39,months,active,15/5/2026,57/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-659,,254724712026,,Daraja (4 Wks),10000,3000,700,20,0.92,months,active,15/5/2026,43/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-660,,254727698567,,wezesha (4 Wks),18000,5400,700,20,0.92,months,active,18/9/2026,46/9/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-661,,254706439225,,Daraja (4 Wks),10000,3000,700,20,0.92,months,active,18/5/2026,46/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-662,,254711312215,,Daraja (6 Wks),10000,2167,700,30,1.39,months,active,18/5/2026,60/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-663,,254797584851,,Karibu (4 Wks),5000,1500,700,20,0.92,months,active,19/9/2026,47/9/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-664,,254799871943,,Daraja (6 Wks),10000,2167,700,30,1.39,months,active,19/5/2026,61/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-665,,254724836941,,Daraja (4 Wks),10000,3000,700,20,0.92,months,active,19/5/2026,47/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-666,,254723858169,,Daraja (4 Wks),7000,2250,700,20,0.92,months,active,19/5/2026,47/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-667,,254707670443,,Daraja (6 Wks),10000,2167,700,30,1.39,months,active,19/5/2026,61/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-668,,254714885607,,Vuka (6 Wks),12000,2600,700,30,1.39,months,active,19/5/2026,61/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-669,,254796291816,,Daraja (6 Wks),7000,1667,700,30,1.39,months,active,20/5/2026,62/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-670,,254727387416,,Vuka (6 Wks),12000,2600,700,30,1.39,months,active,20/5/2026,62/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-671,,254727176910,,Ngaa (6 Wks),30000,6750,700,30,1.39,months,active,20/5/2026,62/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-672,,254794861894,,Daraja (6 Wks),10000,2167,700,30,1.39,months,active,20/5/2026,62/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-673,,254790058345,,Daraja (6 Wks),8000,2500,700,30,1.39,months,active,20/5/2026,62/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-674,,254790244173,,Daraja (6 Wks),10000,2167,700,30,1.39,months,active,20/5/2026,62/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-675,,254797775990,,Vuka (6 Wks),12000,2600,700,30,1.39,months,active,20/5/2026,62/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-676,,254729518016,,Karibu (4 Wks),5000,1500,700,20,0.92,months,active,20/5/2026,48/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-677,,254793621965,,wezesha (4 Wks),20000,6000,700,20,0.92,months,active,21/5/2026,49/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-678,,254769409406,,Daraja (4 Wks),7000,2250,700,20,0.92,months,active,21/5/2026,49/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-679,,254704163771,,wezesha (4 Wks),20000,6000,700,20,0.92,months,active,21/5/2026,49/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-680,,254726145455,,Daraja (4 Wks),7000,2250,700,20,0.92,months,active,21/5/2026,49/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-681,,254714716360,,Daraja (6 Wks),10000,2167,700,30,1.39,months,active,21/5/2026,63/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-682,,254724701702,,Vuka (6 Wks),12000,2600,700,30,1.39,months,active,21/5/2026,63/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-683,,254721991675,,Karibu (4 Wks),5000,1500,700,20,0.92,months,active,21/5/2026,49/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-684,,254720630896,,Daraja (6 Wks),8000,1834,700,30,1.39,months,active,21/5/2026,63/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-685,,254745464053,,Daraja (6 Wks),7000,1667,700,30,1.39,months,active,21/5/2026,63/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-686,,254798632927,,Daraja (4 Wks),10000,3000,700,20,0.92,months,active,22/5/2026,50/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-687,,254705311814,,Daraja (6 Wks),7000,1667,700,30,1.39,months,active,22/5/2026,64/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-688,,254797396337,,Daraja (4 Wks),10000,3000,700,20,0.92,months,active,22/5/2026,50/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-689,,254721961454,,Daraja (6 Wks),7000,1667,700,30,1.39,months,active,22/5/2026,64/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-690,,254769573260,,Daraja (6 Wks),10000,2167,700,30,1.39,months,active,22/5/2026,64/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-691,,254795544079,,Daraja (6 Wks),8000,1834,700,30,1.39,months,active,22/5/2026,64/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-692,,254796250750,,Vuka (6 Wks),15000,3250,700,30,1.39,months,active,22/5/2026,64/5/2026,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-693,,254758372505,,Daraja (6 Wks),10000,2167,700,30,1.39,months,active,25-May-26,,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-694,,254728290725,,Vuka (6 Wks),15000,3250,700,30,1.39,months,active,25-May-26,,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-695,,254743665781,,Daraja (6 Wks),7000,1667,700,30,1.39,months,active,25-May-26,,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-696,,254722591581,,Daraja (4 Wks),7000,1667,700,20,0.92,months,active,25-May-26,,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-697,,254112149690,,wezesha (6 Wks),20000,4334,700,30,1.39,months,active,25-May-26,,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-698,,254719105265,,Daraja (6 Wks),10000,2167,700,30,1.39,months,active,25-May-26,,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-699,,254701483016,,Daraja (6 Wks),8000,1834,700,30,1.39,months,active,25-May-26,,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-700,,254707492014,,Daraja (6 Wks),7000,1670,700,30,1.39,months,active,25-May-26,,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-701,,254711410254,,Daraja (6 Wks),7000,1667,700,30,1.39,months,active,26-May-26,,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-702,,254759607572,,Daraja (6 Wks),10000,2167,700,30,1.39,months,active,26-May-26,,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-703,,254715616331,,Vuka (6 Wks),12000,2600,700,30,1.39,months,active,26-May-26,,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-704,,254790554705,,Daraja (6 Wks),10000,2167,700,30,1.39,months,active,26-May-26,,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-705,,254741213695,,Daraja (6 Wks),7000,1667,700,30,1.39,months,active,26-May-26,,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-706,,254743725400,,Daraja (6 Wks),7000,1667,700,30,1.39,months,active,26-May-26,,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-707,,254727865456,,wezesha (6 Wks),20000,4334,700,30,1.39,months,active,27-May-26,,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-708,,254727364504,,Daraja (6 Wks),10000,2167,700,30,1.39,months,active,27-May-26,,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-709,,254722527858,,Daraja (6 Wks),7000,1667,700,30,1.39,months,active,27-May-26,,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-710,,254748485559,,Karibu (4 Wks),5000,1500,700,20,0.92,months,active,27-May-26,,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-711,,254726100264,,Karibu (4 Wks),5000,1500,700,20,0.92,months,active,27-May-26,,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-712,,254729417206,,Daraja (6 Wks),10000,000",700,30,1.39,months,active,27-May-26,,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-713,,254723519085,,Daraja (6 Wks),10000,2167,700,30,1.39,months,active,28-May-26,,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-714,,254724442266,,Daraja (4 Wks),10000,3000,700,20,0.92,months,active,28-May-26,,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-715,,254713944872,,Daraja (6 Wks),7000,3000,700,30,1.39,months,active,28-May-26,,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-716,,254748086530,,Daraja (6 Wks),7000,3000,700,30,1.39,months,active,28-May-26,,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-717,,254746405759,,Daraja (6 Wks),8000,3000,700,30,1.39,months,active,29-May-26,,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-718,,254700016404,,Daraja (6 Wks),7000,3000,700,30,1.39,months,active,29-May-26,,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-719,,254701676104,,Daraja (6 Wks),10000,3000,700,30,1.39,months,active,29-May-26,,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-720,,254702028822,,Daraja (6 Wks),10000,3000,700,30,1.39,months,active,29-May-26,,Unknown,,Migrated from May Disbursement.csv,,,,
+LN-721,,791933445,,Daraja (4 Wks),7000,9000,700,20,0.92,months,active,2/10/2026,30/10/2026,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-722,,715068622,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,2/10/2026,44/10/2026,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-723,,725818764,,Daraja (4 Wks),8000,10000,700,20,0.92,months,active,2/10/2026,30/10/2026,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-724,,721356359,,Daraja (4 Wks),7000,9000,700,20,0.92,months,active,2/10/2026,30/10/2026,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-725,,718886595,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,2/10/2026,44/10/2026,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-726,,720813561,,wezesha (6 Wks),19000,24800,700,30,1.39,months,active,2/10/2026,44/10/2026,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-727,,710733293,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,2/10/2026,44/10/2026,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-728,,748310063,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,2/10/2026,44/10/2026,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-729,27744743,700430558,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,2/10/2026,44/10/2026,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-730,,719700664,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,2/10/2026,44/10/2026,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-731,,740854760,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,2/10/2026,44/10/2026,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-732,,769409406,,Vuka (4 Wks),12000,14400,700,20,0.92,months,active,2/10/2026,30/10/2026,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-733,,795884457,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,2/10/2026,44/10/2026,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-734,34385557,795314749,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,3/10/2026,45/10/2026,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-735,,725559308,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,3/10/2026,45/10/2026,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-736,,790058345,,Daraja (4 Wks),8000,10000,700,20,0.92,months,active,3/10/2026,31/10/2026,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-737,,791046162,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,3/10/2026,45/10/2026,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-738,,728981668,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,,,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-739,,769621536,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,,,Nyahururu,,Migrated from OCTOBER DISBURSEMENT NYAHURURU.csv,,,,
+LN-740,,0724164082,,Daraja (4 Wks),7000,9000,700,20,0.92,months,active,1/6/2026,29/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Rachel njoroge,0727992553
+LN-741,,0704424647,,Daraja (6 Wks),10000,13,700,30,1.39,months,active,1/6/2026,43/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Peter Wainana,0711767396
+LN-742,,0799835033,,Daraja (6 Wks),10000,13,700,30,1.39,months,active,1/6/2026,43/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Esther Wambui,0726683825
+LN-743,,0701035799,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,1/6/2026,29/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Ann Mwangi,0703322932
+LN-744,,0703915750,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,1/6/2026,43/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Magdaline Maina,0720024027
+LN-745,,0710540080,,Vuka (6 Wks),15000,19500,700,30,1.39,months,active,2/6/2026,44/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Joyce Njoroge,07240666021
+LN-746,,0720813561,,Vuka (6 Wks),15000,19500,700,30,1.39,months,active,2/6/2026,44/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Cecilia Mutungili,0725426487
+LN-747,,0706439225,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,2/6/2026,30/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Alex Mwiti,0706602209
+LN-748,,0746999243,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,2/6/2026,44/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Jane Roro,0745305142
+LN-749,,0711382851,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,2/6/2026,30/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Charity Ndirangu,0758274400
+LN-750,,0715747806,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,2/6/2026,44/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Teressiah Njoroge,0798764337
+LN-751,,0700480519,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,2/6/2026,44/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Teresia Maina,015873084
+LN-752,,0721572161,,Vuka (6 Wks),15000,19500,700,30,1.39,months,active,3/6/2026,45/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,jane  kariuki,0734256765
+LN-753,,0721937013,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,3/6/2026,31/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,ealice kimeli,0797691850
+LN-754,,0719700664,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,3/6/2026,45/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,peter kimani,0107748401
+LN-755,,0726683825,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,3/6/2026,45/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,rahab njambi,0753040119
+LN-756,,0710918080,,Daraja (4 Wks),7000,10000,700,20,0.92,months,active,3/6/2026,31/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,lilian mwai,0793774262
+LN-757,,0720340478,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,3/6/2026,31/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,joyce kamau,0745658943
+LN-758,,0746194202,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,3/6/2026,45/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,catherine maina,0736819560
+LN-759,,0116140156,,Vuka (6 Wks),15000,19500,700,30,1.39,months,active,4/6/2026,46/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,stephen sirikwa,0798372422
+LN-760,,0142842993,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,4/6/2026,32/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,susan nabaru,0718878829
+LN-761,,0711227118,,Ngaa (6 Wks),30000,40500,700,30,1.39,months,active,4/6/2026,46/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,benson mwaniki,0724382862
+LN-762,,0708199244,,wezesha (4 Wks),20000,24000,700,20,0.92,months,active,4/6/2026,32/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,norman macharia,0700509057
+LN-763,,0740548417,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,4/6/2026,32/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Eunice Akoth,0728108487
+LN-764,,0720294359,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,4/6/2026,32/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Beth wacera,0716331062
+LN-765,,0717796794,,Unknown,10,3,700,0,0,months,active,4/6/2026,4/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Susan mburu,0108798026
+LN-766,,0718400068,,Unknown,10,3,700,0,0,months,active,4/6/2026,4/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,,070051009
+LN-767,,07011257897,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,4/6/2026,32/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Tabitha Kibuu,0704781632
+LN-768,,0794206919,,Daraja (6 Wks),9000,12000,700,30,1.39,months,active,4/6/2026,46/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Henry Maina,0745034146
+LN-769,,07050330,,Paa (6 Wks),25000,34050,700,30,1.39,months,active,5/6/2026,47/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Jonathan Chemase=254&705033064,0708005715
+LN-770,,0748261697,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,5/6/2026,47/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Ruth Ndungu,0792748608
+LN-771,,0768824476,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,5/6/2026,47/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Diana Okeyo,0768094794
+LN-772,,0715706681,,wezesha (4 Wks),20000,24000,700,20,0.92,months,active,5/6/2026,33/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Sa muel Maina,0722948117
+LN-773,,0705915891,,wezesha (6 Wks),20000,26000,700,30,1.39,months,active,5/6/2026,47/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Hellen Kawira,07700066941
+LN-774,,0717622386,,Vuka (4 Wks),12000,12000,700,20,0.92,months,active,5/6/2026,33/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Mary Kariuki,0708817449
+LN-775,,0740326857,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,6-May,,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Jeniffer Anana,0718825740
+LN-776,,0711124852,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,5/6/2026,47/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Mary Maina,0110723989
+LN-777,,07153665131,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,8/6/2026,50/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Philis Maina,0713543764
+LN-778,,05724210636,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,8/6/2026,50/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Rosemary Njeri,0740471220
+LN-779,,0711680002,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,8/6/2026,50/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,David Mwangi,08757069418
+LN-780,,0714503794,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,8/6/2026,50/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Joyce Nduta,0745128614
+LN-781,,023849109,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,8/6/2026,50/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Alfred  Etale,0711237285
+LN-782,,0706439225,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,9/6/2026,37/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Alex Mwiti,0706602209
+LN-783,,0790082214,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,9/6/2026,51/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Maryann Wangui,0712258783
+LN-784,,0114732234,,Vuka (6 Wks),14000,18204,700,30,1.39,months,active,9/6/2026,51/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Rose Gachathi,0723842892
+LN-785,,0712005347,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,9/6/2026,51/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Catherine Wangechi=254&712005347,0758025726
+LN-786,,0110724989,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,9/6/2026,51/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,John Labor,0712416909
+LN-787,,0726706952,,Daraja (4 Wks),7000,10000,700,20,0.92,months,active,9/6/2026,37/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Diana Mathathi,0716611899
+LN-788,,0715709400,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,9/6/2026,51/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Agnes Nduta,0713101470
+LN-789,,0792049781,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,9/6/2026,51/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Catherine Irungu,0728587387
+LN-790,,0741687879,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,9/6/2026,51/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Maryann Wangui,0793965045
+LN-791,,0714076538,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,9/6/2026,37/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Ibrahim Kingori,0798654955
+LN-792,,0727698567,,wezesha (4 Wks),18000,21600,700,20,0.92,months,active,9/6/2026,37/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Faris Mwangi,0719306554
+LN-793,,0724350985,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,9/6/2026,51/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Rachel Kiambati,0796102762
+LN-794,,0748485559,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,10/6/2026,52/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,David Kamau,0791470552
+LN-795,,0711973607,,wezesha (4 Wks),20000,24000,700,20,0.92,months,active,10/6/2026,38/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Peter Njoroge,0742103835
+LN-796,,0769694106,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,10/6/2026,38/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,,0769228244
+LN-797,,0790058345,,Daraja (4 Wks),8000,10000,700,20,0.92,months,active,10/6/2026,38/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Peter Ndindiri,0111510789
+LN-798,,0701728665,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,10/6/2026,52/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Rose Wangechi,0714901793
+LN-799,,07729823193,,Ngaa (6 Wks),30000,40500,700,30,1.39,months,active,11/6/2026,53/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Charles Kirugo,0717720111
+LN-800,,0758991413,,Daraja (6 Wks),9000,12000,700,30,1.39,months,active,11/6/2026,53/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Patricia Wacuka,0752560980
+LN-801,,0746811444,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,11/6/2026,53/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,John Nderitu,0704825688
+LN-802,,0743647697,,Karibu (6 Wks),5000,6000,700,30,1.39,months,active,11/6/2026,53/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Charles Karari,0741796731
+LN-803,,0118525881,,Daraja (4 Wks),7000,9000,700,20,0.92,months,active,11/6/2026,39/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,,0794400120
+LN-804,,0728225297,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,11/6/2026,53/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,kelvin kiptoo,0719545318
+LN-805,,0792612031,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,11/6/2026,53/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Mary kinyanjui,0716523140
+LN-806,,0725709459,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,11/6/2026,53/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Kenneth Kuria,0722416830
+LN-807,,0727368599,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,12/6/2026,54/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Boniface Njambi,0714398204
+LN-808,,0759831343,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,12/6/2026,54/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Frida Mahiga,0722715234
+LN-809,,0704825688,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,12/6/2026,54/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Jane Muthoni,0726890467
+LN-810,,0706607577,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,12/6/2026,54/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Moses Mithaga,0743458451
+LN-811,,0729518016,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,12/6/2026,40/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Norman Ngige,0711063122
+LN-812,,0723495587,,Vuka (6 Wks),15000,19500,700,30,1.39,months,active,12/6/2026,54/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Joyce Macharia,0729417206
+LN-813,,0721991675,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,12/6/2026,54/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Lucy Nambayaiye,0716331062
+LN-814,,0723858169,,Daraja (4 Wks),7000,9000,700,20,0.92,months,active,12/6/2026,40/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Esther Maina,0703286633
+LN-815,,0705304253,,Daraja (6 Wks),9000,12000,700,30,1.39,months,active,12/6/2026,54/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Naomi Bosibori,0706841567
+LN-816,,0724153150,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,12/6/2026,54/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Molly Mugure,0721815920
+LN-817,,07153905575,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,12/6/2026,54/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Daniel Maina,0759859581
+LN-818,,0795157747,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,12/6/2026,54/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Rose Muchoki,0757630137
+LN-819,,0714359854,,Paa (6 Wks),25000,34050,700,30,1.39,months,active,12/6/2026,54/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,James Karika,0751778506
+LN-820,,0727877025,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,15/6/2026,57/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Serah Chege,05726297808
+LN-821,,0729144308,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,15/6/2026,57/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Margaret Wangui,0700570661
+LN-822,,0721994091,,Daraja (6 Wks),8000,11004,700,30,1.39,months,active,15/6/2026,57/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Catherine kiruri,0715747740
+LN-823,,0724544938,,Daraja (6 Wks),8000,11000,700,30,1.39,months,active,15/6/2026,57/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Rabecca Njuguna,0740441273
+LN-824,,0724024611,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,15/6/2026,57/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Agnes Lele,0795493127
+LN-825,,0715365131,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,15/6/2026,57/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Philis Maina,0713543764
+LN-826,,0700934013,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,15/6/2026,43/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Peter Mwangi,0796819892
+LN-827,,0769573260,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,15/6/2026,43/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Hanah Muchemi,0702653933
+LN-828,,0728586678,,Daraja (4 Wks),7000,9000,700,20,0.92,months,active,15/6/2026,43/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Mary Macharia,0725585188
+LN-829,,0707655312,,Daraja (6 Wks),9000,12000,700,30,1.39,months,active,15/6/2026,57/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Janet Matanu,0711346285
+LN-830,,0791842906,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,15/6/2026,57/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Esther Njoroge,0354710467216
+LN-831,,0722655548,,Daraja (6 Wks),8000,11000,700,30,1.39,months,active,15/6/2026,57/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Mary kimamo,0701481316
+LN-832,,0724836941,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,15/6/2026,43/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Grace Mathenge,0743320897
+LN-833,,0793621965,,wezesha (4 Wks),20000,24000,700,20,0.92,months,active,15/6/2026,43/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Tabitha Maina,0728627914
+LN-834,,0742282927,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,15/6/2026,57/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Ann Githaiga,0701965026
+LN-835,,07989632927,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,15/6/2026,43/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Peter Waititu,0720323599
+LN-836,,0711312215,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,16/6/2026,58/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Susan Wanjiru,0790646590
+LN-837,,0769409406,,Daraja (4 Wks),7000,9000,700,20,0.92,months,active,16/6/2026,44/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Tabitha Wandaka,0700469416
+LN-838,,0712833328,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,16/6/2026,58/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Elizabeth Wangari,0792402413
+LN-839,,0715228494,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,16/6/2026,44/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Mercy Wanjiru,0727816846
+LN-840,,0796291816,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,16/6/2026,58/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Douglas Njenga,0759522005
+LN-841,,0799871943,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,16/6/2026,58/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Sarah Kuria,0742728359
+LN-842,,0790244173,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,17/6/2026,59/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Elijah Kihonge,0768208209
+LN-843,,0708448209,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,17/6/2026,59/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Ann Wangui,0116691166
+LN-844,,0727364504,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,17/6/2026,59/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Jane Njogu,0792519004
+LN-845,,0741227923,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,17/6/2026,59/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Benson Wacihi,0757960463
+LN-846,,0748310063,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,17/6/2026,59/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Simon  Mwangi,0721425519
+LN-847,,0706439225,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,17/6/2026,45/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Alex Mwiti,0106602609
+LN-848,,0715577248,,Daraja (6 Wks),8000,11000,700,30,1.39,months,active,17/6/2026,59/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Martha Akinyi,0741463602
+LN-849,,0799173612,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,17/6/2026,45/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Peter Njaramba,0708387501
+LN-850,,0715924520,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,17/6/2026,59/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Eunice Kendi,0114625557
+LN-851,,024592850,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,18/6/2026,60/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Margaret Kimani,0726768129
+LN-852,,0718846710,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,18/6/2026,60/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Paul Kimani,07708382465
+LN-853,,0705436184,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,18/6/2026,46/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Geofrey Njenga,0791919951
+LN-854,,0707492014,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,18/6/2026,60/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Esther Nyambura,0720311445
+LN-855,,0725718918,,Daraja (6 Wks),9000,11000,700,30,1.39,months,active,18/6/2026,60/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Beatrice Wambugu,0711856758
+LN-856,,0725380367,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,18/6/2026,60/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Hellen Wanjiku,0728534959
+LN-857,,0791967871,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,18/6/2026,46/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Hannah Kuke,07757262313
+LN-858,,0797396337,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,19/6/2026,47/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Mercy Wangechi,0715228494
+LN-859,,0792149332,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,19/6/2026,61/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Mary Chuma,0721778601
+LN-860,,0727865456,,Paa (6 Wks),25000,34050,700,30,1.39,months,active,19/6/2026,61/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Hannah Macharia,0726503829
+LN-861,,0721356359,,Vuka (6 Wks),15000,19500,700,30,1.39,months,active,19/6/2026,61/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Duncan Maina,0721401919
+LN-862,,0727059976,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,19/6/2026,47/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Joseph Munene,0714716360
+LN-863,,0726949202,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,19/6/2026,61/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Tabitha Ndegwa,0728735170
+LN-864,,0794029149,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,19/6/2026,61/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Esther Gachechere,0717512042
+LN-865,,0794416300,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,19/6/2026,47/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Gladt Njeri,0728397868
+LN-866,,0724712026,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,19/6/2026,47/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Leah Waruguru,0746563025
+LN-867,,0797775990,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,22/6/2026,64/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Jane Nyambura,0748608288
+LN-868,,0724701702,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,22/6/2026,64/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Jane Wangari,0710576285
+LN-869,,0742033906,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,22/6/2026,64/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Peter Irungu,0790412266
+LN-870,,0721937013,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,22/6/2026,50/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Alice Kimeli,0797691850
+LN-871,,0796250750,,Unknown,15,4,700,0,0,months,active,22/6/2026,22/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Julius Njau,0742199155
+LN-872,,0769621536,,Vuka (6 Wks),14000,18,700,30,1.39,months,active,22/6/2026,64/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Grace njuguna,0724544938
+LN-873,,0704163771,,wezesha (4 Wks),20000,24000,700,20,0.92,months,active,22/6/2026,50/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Teresiah Gichohi,0727306592
+LN-874,,0742982500,,Daraja (6 Wks),8000,11000,700,30,1.39,months,active,22/6/2026,64/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Peter Onyari,0723791251
+LN-875,,0707593937,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,22/6/2026,64/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Everline   Wachira,0704452061
+LN-876,,0707143090,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,23/6/2026,65/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Veronica Muchiri,0738427495
+LN-877,,0715616331,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,23/6/2026,65/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Kelvin Ndung'u,0704690718
+LN-878,,0726100264,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,23/6/2026,51/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Zipporah Kamau,0720882664
+LN-879,,0759607572,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,23/6/2026,51/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Jane Wangui,0758091413
+LN-880,,0718886595,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,23/6/2026,51/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Joseph Mwangi,0726547436
+LN-881,,0714885607,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,23/6/2026,65/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Simon Mwangi,0796216948
+LN-882,,0728290725,,Vuka (6 Wks),15000,19,700,30,1.39,months,active,23/6/2026,65/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Elizabeth Ndung'u,0714592685
+LN-883,,0714076538,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,24/6/2026,52/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Ibrahim Kingori,0798654955
+LN-884,,0701169467,,Daraja (6 Wks),8000,11000,700,30,1.39,months,active,24/6/2026,66/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Agnes Barno,0712438585
+LN-885,,0706099951,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,24/6/2026,66/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Loice Njoroge,0727526497
+LN-886,,0790058345,,Daraja (4 Wks),8000,10000,700,20,0.92,months,active,24/6/2026,52/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Peter Kabata,0111510784
+LN-887,,0714716360,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,24/6/2026,66/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Richard Karanja,0758589148
+LN-888,,0701035799,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,24/6/2026,52/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Ann Mwangi,0703322932
+LN-889,,0119173109,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,24/6/2026,66/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Mary Wanjiku,0728845042
+LN-890,,0142842993,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,25/6/2026,53/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,susan nabaru,0718878829
+LN-891,,0700549110,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,25/6/2026,67/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Lucy Mwangi,079480201
+LN-892,,0724442266,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,25/6/2026,53/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Fridah Kimagal,072214101
+LN-893,,0758372505,,Unknown,10,3,700,0,0,months,active,25/6/2026,25/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Margaret Wangari,0
+LN-894,,0718659733,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,25/6/2026,67/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Annah Chelagat,0790796424
+LN-895,,0717622386,,Vuka (4 Wks),12000,14400,700,20,0.92,months,active,26/6/2026,54/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Milka Kariuki,0 108817449
+LN-896,,0702028822,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,26/6/2026,68/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Paul Macharia,0713501528
+LN-897,,0711410254,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,26/6/2026,68/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,John Ndirangu,0715257237
+LN-898,,0702599233,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,26/6/2026,68/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Caroline Wanja,0797584851
+LN-899,,0795544079,,Daraja (6 Wks),10000,13,700,30,1.39,months,active,26/6/2026,68/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,John Theuri,0713472309
+LN-900,,0729828281,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,29/6/2026,71/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Susan Muchiri,0713328411
+LN-901,,023849109,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,29/6/2026,71/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Alfred  Etale,0711237285
+LN-902,,0721961454,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,29/6/2026,71/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Esther Kariuki,0714126599
+LN-903,,0743665781,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,29/6/2026,71/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Esther Muriuki,0721439189
+LN-904,,0720813561,,wezesha (6 Wks),17000,22100,700,30,1.39,months,active,29/6/2026,71/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Cecilia Mutungili,0725426487
+LN-905,,0705851219,,Daraja (4 Wks),7000,9000,700,20,0.92,months,active,29/6/2026,57/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,milka wangai,0742242993
+LN-906,,0711382851,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,30/6/2026,58/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Charity Ndirangu,0758274400
+LN-907,,0708199244,,wezesha (4 Wks),20000,24000,700,20,0.92,months,active,30/6/2026,58/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,norman macharia,0700509057
+LN-908,,0715706681,,wezesha (4 Wks),20000,24000,700,20,0.92,months,active,30/6/2026,58/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Samuel Maina,0722948117
+LN-909,,0769573260,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,30/6/2026,58/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Hanah Muchemi,0702653933
+LN-910,,0723858169,,Daraja (4 Wks),7000,9000,700,20,0.92,months,active,30/6/2026,58/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Esther Maina,0703286633
+LN-741,,0704424647,,Daraja (6 Wks),10000,13,700,30,1.39,months,active,1/6/2026,43/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Peter Wainana,0711767396
+LN-742,,0799835033,,Daraja (6 Wks),10000,13,700,30,1.39,months,active,1/6/2026,43/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Esther Wambui,0726683825
+LN-743,,0701035799,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,1/6/2026,29/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Ann Mwangi,0703322932
+LN-744,,0703915750,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,1/6/2026,43/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Magdaline Maina,0720024027
+LN-745,,0710540080,,Vuka (6 Wks),15000,19500,700,30,1.39,months,active,2/6/2026,44/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Joyce Njoroge,07240666021
+LN-746,,0720813561,,Vuka (6 Wks),15000,19500,700,30,1.39,months,active,2/6/2026,44/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Cecilia Mutungili,0725426487
+LN-747,,0706439225,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,2/6/2026,30/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Alex Mwiti,0706602209
+LN-748,,0746999243,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,2/6/2026,44/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Jane Roro,0745305142
+LN-749,,0711382851,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,2/6/2026,30/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Charity Ndirangu,0758274400
+LN-750,,0715747806,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,2/6/2026,44/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Teressiah Njoroge,0798764337
+LN-751,,0700480519,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,2/6/2026,44/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Teresia Maina,015873084
+LN-752,,0721572161,,Vuka (6 Wks),15000,19500,700,30,1.39,months,active,3/6/2026,45/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,jane  kariuki,0734256765
+LN-753,,0721937013,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,3/6/2026,31/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,ealice kimeli,0797691850
+LN-754,,0719700664,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,3/6/2026,45/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,peter kimani,0107748401
+LN-755,,0726683825,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,3/6/2026,45/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,rahab njambi,0753040119
+LN-756,,0710918080,,Daraja (4 Wks),7000,10000,700,20,0.92,months,active,3/6/2026,31/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,lilian mwai,0793774262
+LN-757,,0720340478,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,3/6/2026,31/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,joyce kamau,0745658943
+LN-758,,0746194202,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,3/6/2026,45/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,catherine maina,0736819560
+LN-759,,0116140156,,Vuka (6 Wks),15000,19500,700,30,1.39,months,active,4/6/2026,46/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,stephen sirikwa,0798372422
+LN-760,,0142842993,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,4/6/2026,32/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,susan nabaru,0718878829
+LN-761,,0711227118,,Ngaa (6 Wks),30000,40500,700,30,1.39,months,active,4/6/2026,46/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,benson mwaniki,0724382862
+LN-762,,0708199244,,wezesha (4 Wks),20000,24000,700,20,0.92,months,active,4/6/2026,32/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,norman macharia,0700509057
+LN-763,,0740548417,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,4/6/2026,32/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Eunice Akoth,0728108487
+LN-764,,0720294359,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,4/6/2026,32/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Beth wacera,0716331062
+LN-765,,0717796794,,Unknown,10,3,700,0,0,months,active,4/6/2026,4/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Susan mburu,0108798026
+LN-766,,0718400068,,Unknown,10,3,700,0,0,months,active,4/6/2026,4/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,,070051009
+LN-767,,07011257897,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,4/6/2026,32/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Tabitha Kibuu,0704781632
+LN-768,,0794206919,,Daraja (6 Wks),9000,12000,700,30,1.39,months,active,4/6/2026,46/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Henry Maina,0745034146
+LN-769,,07050330,,Paa (6 Wks),25000,34050,700,30,1.39,months,active,5/6/2026,47/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Jonathan Chemase=254&705033064,0708005715
+LN-770,,0748261697,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,5/6/2026,47/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Ruth Ndungu,0792748608
+LN-771,,0768824476,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,5/6/2026,47/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Diana Okeyo,0768094794
+LN-772,,0715706681,,wezesha (4 Wks),20000,24000,700,20,0.92,months,active,5/6/2026,33/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Sa muel Maina,0722948117
+LN-773,,0705915891,,wezesha (6 Wks),20000,26000,700,30,1.39,months,active,5/6/2026,47/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Hellen Kawira,07700066941
+LN-774,,0717622386,,Vuka (4 Wks),12000,12000,700,20,0.92,months,active,5/6/2026,33/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Mary Kariuki,0708817449
+LN-775,,0740326857,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,6-May,,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Jeniffer Anana,0718825740
+LN-776,,0711124852,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,5/6/2026,47/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Mary Maina,0110723989
+LN-777,,07153665131,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,8/6/2026,50/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Philis Maina,0713543764
+LN-778,,05724210636,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,8/6/2026,50/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Rosemary Njeri,0740471220
+LN-779,,0711680002,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,8/6/2026,50/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,David Mwangi,08757069418
+LN-780,,0714503794,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,8/6/2026,50/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Joyce Nduta,0745128614
+LN-781,,023849109,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,8/6/2026,50/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Alfred  Etale,0711237285
+LN-782,,0706439225,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,9/6/2026,37/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Alex Mwiti,0706602209
+LN-783,,0790082214,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,9/6/2026,51/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Maryann Wangui,0712258783
+LN-784,,0114732234,,Vuka (6 Wks),14000,18204,700,30,1.39,months,active,9/6/2026,51/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Rose Gachathi,0723842892
+LN-785,,0712005347,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,9/6/2026,51/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Catherine Wangechi=254&712005347,0758025726
+LN-786,,0110724989,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,9/6/2026,51/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,John Labor,0712416909
+LN-787,,0726706952,,Daraja (4 Wks),7000,10000,700,20,0.92,months,active,9/6/2026,37/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Diana Mathathi,0716611899
+LN-788,,0715709400,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,9/6/2026,51/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Agnes Nduta,0713101470
+LN-789,,0792049781,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,9/6/2026,51/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Catherine Irungu,0728587387
+LN-790,,0741687879,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,9/6/2026,51/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Maryann Wangui,0793965045
+LN-791,,0714076538,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,9/6/2026,37/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Ibrahim Kingori,0798654955
+LN-792,,0727698567,,wezesha (4 Wks),18000,21600,700,20,0.92,months,active,9/6/2026,37/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Faris Mwangi,0719306554
+LN-793,,0724350985,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,9/6/2026,51/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Rachel Kiambati,0796102762
+LN-794,,0748485559,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,10/6/2026,52/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,David Kamau,0791470552
+LN-795,,0711973607,,wezesha (4 Wks),20000,24000,700,20,0.92,months,active,10/6/2026,38/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Peter Njoroge,0742103835
+LN-796,,0769694106,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,10/6/2026,38/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,,0769228244
+LN-797,,0790058345,,Daraja (4 Wks),8000,10000,700,20,0.92,months,active,10/6/2026,38/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Peter Ndindiri,0111510789
+LN-798,,0701728665,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,10/6/2026,52/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Rose Wangechi,0714901793
+LN-799,,07729823193,,Ngaa (6 Wks),30000,40500,700,30,1.39,months,active,11/6/2026,53/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Charles Kirugo,0717720111
+LN-800,,0758991413,,Daraja (6 Wks),9000,12000,700,30,1.39,months,active,11/6/2026,53/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Patricia Wacuka,0752560980
+LN-801,,0746811444,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,11/6/2026,53/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,John Nderitu,0704825688
+LN-802,,0743647697,,Karibu (6 Wks),5000,6000,700,30,1.39,months,active,11/6/2026,53/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Charles Karari,0741796731
+LN-803,,0118525881,,Daraja (4 Wks),7000,9000,700,20,0.92,months,active,11/6/2026,39/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,,0794400120
+LN-804,,0728225297,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,11/6/2026,53/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,kelvin kiptoo,0719545318
+LN-805,,0792612031,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,11/6/2026,53/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Mary kinyanjui,0716523140
+LN-806,,0725709459,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,11/6/2026,53/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Kenneth Kuria,0722416830
+LN-807,,0727368599,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,12/6/2026,54/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Boniface Njambi,0714398204
+LN-808,,0759831343,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,12/6/2026,54/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Frida Mahiga,0722715234
+LN-809,,0704825688,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,12/6/2026,54/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Jane Muthoni,0726890467
+LN-810,,0706607577,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,12/6/2026,54/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Moses Mithaga,0743458451
+LN-811,,0729518016,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,12/6/2026,40/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Norman Ngige,0711063122
+LN-812,,0723495587,,Vuka (6 Wks),15000,19500,700,30,1.39,months,active,12/6/2026,54/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Joyce Macharia,0729417206
+LN-813,,0721991675,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,12/6/2026,54/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Lucy Nambayaiye,0716331062
+LN-814,,0723858169,,Daraja (4 Wks),7000,9000,700,20,0.92,months,active,12/6/2026,40/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Esther Maina,0703286633
+LN-815,,0705304253,,Daraja (6 Wks),9000,12000,700,30,1.39,months,active,12/6/2026,54/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Naomi Bosibori,0706841567
+LN-816,,0724153150,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,12/6/2026,54/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Molly Mugure,0721815920
+LN-817,,07153905575,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,12/6/2026,54/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Daniel Maina,0759859581
+LN-818,,0795157747,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,12/6/2026,54/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Rose Muchoki,0757630137
+LN-819,,0714359854,,Paa (6 Wks),25000,34050,700,30,1.39,months,active,12/6/2026,54/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,James Karika,0751778506
+LN-820,,0727877025,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,15/6/2026,57/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Serah Chege,05726297808
+LN-821,,0729144308,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,15/6/2026,57/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Margaret Wangui,0700570661
+LN-822,,0721994091,,Daraja (6 Wks),8000,11004,700,30,1.39,months,active,15/6/2026,57/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Catherine kiruri,0715747740
+LN-823,,0724544938,,Daraja (6 Wks),8000,11000,700,30,1.39,months,active,15/6/2026,57/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Rabecca Njuguna,0740441273
+LN-824,,0724024611,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,15/6/2026,57/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Agnes Lele,0795493127
+LN-825,,0715365131,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,15/6/2026,57/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Philis Maina,0713543764
+LN-826,,0700934013,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,15/6/2026,43/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Peter Mwangi,0796819892
+LN-827,,0769573260,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,15/6/2026,43/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Hanah Muchemi,0702653933
+LN-828,,0728586678,,Daraja (4 Wks),7000,9000,700,20,0.92,months,active,15/6/2026,43/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Mary Macharia,0725585188
+LN-829,,0707655312,,Daraja (6 Wks),9000,12000,700,30,1.39,months,active,15/6/2026,57/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Janet Matanu,0711346285
+LN-830,,0791842906,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,15/6/2026,57/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Esther Njoroge,0354710467216
+LN-831,,0722655548,,Daraja (6 Wks),8000,11000,700,30,1.39,months,active,15/6/2026,57/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Mary kimamo,0701481316
+LN-832,,0724836941,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,15/6/2026,43/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Grace Mathenge,0743320897
+LN-833,,0793621965,,wezesha (4 Wks),20000,24000,700,20,0.92,months,active,15/6/2026,43/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Tabitha Maina,0728627914
+LN-834,,0742282927,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,15/6/2026,57/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Ann Githaiga,0701965026
+LN-835,,07989632927,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,15/6/2026,43/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Peter Waititu,0720323599
+LN-836,,0711312215,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,16/6/2026,58/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Susan Wanjiru,0790646590
+LN-837,,0769409406,,Daraja (4 Wks),7000,9000,700,20,0.92,months,active,16/6/2026,44/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Tabitha Wandaka,0700469416
+LN-838,,0712833328,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,16/6/2026,58/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Elizabeth Wangari,0792402413
+LN-839,,0715228494,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,16/6/2026,44/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Mercy Wanjiru,0727816846
+LN-840,,0796291816,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,16/6/2026,58/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Douglas Njenga,0759522005
+LN-841,,0799871943,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,16/6/2026,58/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Sarah Kuria,0742728359
+LN-842,,0790244173,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,17/6/2026,59/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Elijah Kihonge,0768208209
+LN-843,,0708448209,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,17/6/2026,59/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Ann Wangui,0116691166
+LN-844,,0727364504,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,17/6/2026,59/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Jane Njogu,0792519004
+LN-845,,0741227923,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,17/6/2026,59/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Benson Wacihi,0757960463
+LN-846,,0748310063,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,17/6/2026,59/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Simon  Mwangi,0721425519
+LN-847,,0706439225,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,17/6/2026,45/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Alex Mwiti,0106602609
+LN-848,,0715577248,,Daraja (6 Wks),8000,11000,700,30,1.39,months,active,17/6/2026,59/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Martha Akinyi,0741463602
+LN-849,,0799173612,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,17/6/2026,45/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Peter Njaramba,0708387501
+LN-850,,0715924520,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,17/6/2026,59/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Eunice Kendi,0114625557
+LN-851,,024592850,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,18/6/2026,60/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Margaret Kimani,0726768129
+LN-852,,0718846710,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,18/6/2026,60/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Paul Kimani,07708382465
+LN-853,,0705436184,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,18/6/2026,46/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Geofrey Njenga,0791919951
+LN-854,,0707492014,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,18/6/2026,60/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Esther Nyambura,0720311445
+LN-855,,0725718918,,Daraja (6 Wks),9000,11000,700,30,1.39,months,active,18/6/2026,60/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Beatrice Wambugu,0711856758
+LN-856,,0725380367,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,18/6/2026,60/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Hellen Wanjiku,0728534959
+LN-857,,0791967871,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,18/6/2026,46/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Hannah Kuke,07757262313
+LN-858,,0797396337,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,19/6/2026,47/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Mercy Wangechi,0715228494
+LN-859,,0792149332,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,19/6/2026,61/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Mary Chuma,0721778601
+LN-860,,0727865456,,Paa (6 Wks),25000,34050,700,30,1.39,months,active,19/6/2026,61/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Hannah Macharia,0726503829
+LN-861,,0721356359,,Vuka (6 Wks),15000,19500,700,30,1.39,months,active,19/6/2026,61/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Duncan Maina,0721401919
+LN-862,,0727059976,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,19/6/2026,47/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Joseph Munene,0714716360
+LN-863,,0726949202,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,19/6/2026,61/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Tabitha Ndegwa,0728735170
+LN-864,,0794029149,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,19/6/2026,61/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Esther Gachechere,0717512042
+LN-865,,0794416300,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,19/6/2026,47/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Gladt Njeri,0728397868
+LN-866,,0724712026,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,19/6/2026,47/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Leah Waruguru,0746563025
+LN-867,,0797775990,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,22/6/2026,64/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Jane Nyambura,0748608288
+LN-868,,0724701702,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,22/6/2026,64/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Jane Wangari,0710576285
+LN-869,,0742033906,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,22/6/2026,64/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Peter Irungu,0790412266
+LN-870,,0721937013,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,22/6/2026,50/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Alice Kimeli,0797691850
+LN-871,,0796250750,,Unknown,15,4,700,0,0,months,active,22/6/2026,22/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Julius Njau,0742199155
+LN-872,,0769621536,,Vuka (6 Wks),14000,18,700,30,1.39,months,active,22/6/2026,64/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Grace njuguna,0724544938
+LN-873,,0704163771,,wezesha (4 Wks),20000,24000,700,20,0.92,months,active,22/6/2026,50/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Teresiah Gichohi,0727306592
+LN-874,,0742982500,,Daraja (6 Wks),8000,11000,700,30,1.39,months,active,22/6/2026,64/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Peter Onyari,0723791251
+LN-875,,0707593937,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,22/6/2026,64/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Everline   Wachira,0704452061
+LN-876,,0707143090,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,23/6/2026,65/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Veronica Muchiri,0738427495
+LN-877,,0715616331,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,23/6/2026,65/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Kelvin Ndung'u,0704690718
+LN-878,,0726100264,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,23/6/2026,51/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Zipporah Kamau,0720882664
+LN-879,,0759607572,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,23/6/2026,51/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Jane Wangui,0758091413
+LN-880,,0718886595,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,23/6/2026,51/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Joseph Mwangi,0726547436
+LN-881,,0714885607,,Vuka (6 Wks),12000,15600,700,30,1.39,months,active,23/6/2026,65/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Simon Mwangi,0796216948
+LN-882,,0728290725,,Vuka (6 Wks),15000,19,700,30,1.39,months,active,23/6/2026,65/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Elizabeth Ndung'u,0714592685
+LN-883,,0714076538,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,24/6/2026,52/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Ibrahim Kingori,0798654955
+LN-884,,0701169467,,Daraja (6 Wks),8000,11000,700,30,1.39,months,active,24/6/2026,66/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Agnes Barno,0712438585
+LN-885,,0706099951,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,24/6/2026,66/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Loice Njoroge,0727526497
+LN-886,,0790058345,,Daraja (4 Wks),8000,10000,700,20,0.92,months,active,24/6/2026,52/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Peter Kabata,0111510784
+LN-887,,0714716360,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,24/6/2026,66/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Richard Karanja,0758589148
+LN-888,,0701035799,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,24/6/2026,52/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Ann Mwangi,0703322932
+LN-889,,0119173109,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,24/6/2026,66/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Mary Wanjiku,0728845042
+LN-890,,0142842993,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,25/6/2026,53/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,susan nabaru,0718878829
+LN-891,,0700549110,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,25/6/2026,67/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Lucy Mwangi,079480201
+LN-892,,0724442266,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,25/6/2026,53/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Fridah Kimagal,072214101
+LN-893,,0758372505,,Unknown,10,3,700,0,0,months,active,25/6/2026,25/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Margaret Wangari,0
+LN-894,,0718659733,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,25/6/2026,67/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Annah Chelagat,0790796424
+LN-895,,0717622386,,Vuka (4 Wks),12000,14400,700,20,0.92,months,active,26/6/2026,54/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Milka Kariuki,0 108817449
+LN-896,,0702028822,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,26/6/2026,68/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Paul Macharia,0713501528
+LN-897,,0711410254,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,26/6/2026,68/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,John Ndirangu,0715257237
+LN-898,,0702599233,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,26/6/2026,68/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Caroline Wanja,0797584851
+LN-899,,0795544079,,Daraja (6 Wks),10000,13,700,30,1.39,months,active,26/6/2026,68/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,John Theuri,0713472309
+LN-900,,0729828281,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,29/6/2026,71/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Susan Muchiri,0713328411
+LN-901,,023849109,,Daraja (6 Wks),10000,13000,700,30,1.39,months,active,29/6/2026,71/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Alfred  Etale,0711237285
+LN-902,,0721961454,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,29/6/2026,71/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Esther Kariuki,0714126599
+LN-903,,0743665781,,Daraja (6 Wks),7000,10000,700,30,1.39,months,active,29/6/2026,71/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Esther Muriuki,0721439189
+LN-904,,0720813561,,wezesha (6 Wks),17000,22100,700,30,1.39,months,active,29/6/2026,71/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Cecilia Mutungili,0725426487
+LN-905,,0705851219,,Daraja (4 Wks),7000,9000,700,20,0.92,months,active,29/6/2026,57/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,milka wangai,0742242993
+LN-906,,0711382851,,Karibu (4 Wks),5000,6000,700,20,0.92,months,active,30/6/2026,58/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Charity Ndirangu,0758274400
+LN-907,,0708199244,,wezesha (4 Wks),20000,24000,700,20,0.92,months,active,30/6/2026,58/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,norman macharia,0700509057
+LN-908,,0715706681,,wezesha (4 Wks),20000,24000,700,20,0.92,months,active,30/6/2026,58/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Samuel Maina,0722948117
+LN-909,,0769573260,,Daraja (4 Wks),10000,12000,700,20,0.92,months,active,30/6/2026,58/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Hanah Muchemi,0702653933
+LN-910,,0723858169,,Daraja (4 Wks),7000,9000,700,20,0.92,months,active,30/6/2026,58/6/2026,Mixed,,Migrated from JUNE DISBURSEMENT (1).csv,Esther Maina,0703286633
