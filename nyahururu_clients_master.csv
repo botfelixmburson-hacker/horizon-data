@@ -1,0 +1,612 @@
+Client Name,Client ID,Client Phone,Guarantor Name,Guarantor ID,Guarantor Phone,Loan Officer,Branch,Disbursement Date,Product Name,Principal,Balance,Interest Rate,Status,Source File
+Mary Mwaura,,0708199244,Norman Macharia,,070509057,17000,Nyahururu,24/8/2026,wezesha (4 Wks),20000,7000,20,IN ARREARS,aug-balances-nyahuhuru-branch.csv
+Edwin Montana,,0742033906,Peter Irungu,,0790412246,1665,Nyahururu,24/8/2026,Daraja (6 Wks),7000,8335,30,IN ARREARS,aug-balances-nyahuhuru-branch.csv
+Mary Kimamo,,0701483016,James Apere,,0719699112,1830,Nyahururu,25/8/2026,Daraja (6 Wks),8000,9170,30,IN ARREARS,aug-balances-nyahuhuru-branch.csv
+Harriet Kibuchi,,0757601818,Francis Muchai,,076227036,10000,Nyahururu,25/8/2026,Daraja (6 Wks),7000,0,30,COMPLETED,aug-balances-nyahuhuru-branch.csv
+Auther Kiarie,,0706535129,Hesbon Mwaniki,1033936,0746332140,1665,Nyahururu,25/8/2026,Daraja (6 Wks),7000,8335,30,IN ARREARS,aug-balances-nyahuhuru-branch.csv
+Samuel Macharia,,0115563126,Joseph Waithaka,4668162,0722337146,1665,Nyahururu,25/8/2026,Daraja (6 Wks),7000,8335,30,IN ARREARS,aug-balances-nyahuhuru-branch.csv
+Brian Wanyama,,0114744475,Lucy Nderitu,,0744652580,10000,Nyahururu,25/8/2026,Daraja (6 Wks),7000,0,30,COMPLETED,aug-balances-nyahuhuru-branch.csv
+Jane Naivest,,0724024611,Agnes Lele,27294159,0795493127,2165,Nyahururu,26/8/2026,Daraja (6 Wks),10000,10835,30,IN ARREARS,aug-balances-nyahuhuru-branch.csv
+Robinson Kariuki,,0790082214,Maryann Maina,,0712258783,6100,Nyahururu,26/8/2026,Daraja (6 Wks),9000,5900,30,IN ARREARS,aug-balances-nyahuhuru-branch.csv
+Metrine Lukuyi,,0700041662,Mary Wangui,,0721778601,1665,Nyahururu,26/82026,Daraja (6 Wks),7000,8335,30,IN ARREARS,aug-balances-nyahuhuru-branch.csv
+Daniel Doya,,0726784976,Hannah Njuguna,,0711962072,10000,Nyahururu,27/8/2026,Daraja (6 Wks),7000,0,30,COMPLETED,aug-balances-nyahuhuru-branch.csv
+Ruth Kihara,,0745242789,Janet Koech,,0795884457,2272,Nyahururu,27/8/2026,Daraja (6 Wks),10000,10728,30,IN ARREARS,aug-balances-nyahuhuru-branch.csv
+Alice Naserian,,0758991413,Patricia wacuka,,0752560980,4999,Nyahururu,27/8/2026,Daraja (6 Wks),7000,5001,30,IN ARREARS,aug-balances-nyahuhuru-branch.csv
+Lucy Wachira,,0707492014,Esther Njuguna,,0720311445,3663,Nyahururu,27/8/2026,Daraja (6 Wks),8000,7337,30,IN ARREARS,aug-balances-nyahuhuru-branch.csv
+Simon Mutunga,,0723519085,Grace Mathaga,,0712989540,2165,Nyahururu,27/8/2026,Daraja (6 Wks),10000,10835,30,IN ARREARS,aug-balances-nyahuhuru-branch.csv
+Rahab Kagema,,0710711406,Beth Gichohi,30702119,0757956212,4168,Nyahururu,28/8/2026,Daraja (6 Wks),7000,5832,30,IN ARREARS,aug-balances-nyahuhuru-branch.csv
+John Maingi,,0724712026,Leah Karimi,,0746563025,3030,Nyahururu,28/8/2026,Vuka (6 Wks),14000,15170,30,IN ARREARS,aug-balances-nyahuhuru-branch.csv
+Joseph Wairimu,,0740364099,Silvia Wambui,42913894,01133391643,1665,Nyahururu,28/8/2026,Daraja (6 Wks),7000,8335,30,IN ARREARS,aug-balances-nyahuhuru-branch.csv
+Josphat Kamanu,,0724701702,Jane Wanjiku,,0710576285,5200,Nyahururu,31/8/2026,Vuka (6 Wks),12000,10400,30,IN ARREARS,aug-balances-nyahuhuru-branch.csv
+Rabecca Echom,,0794400120,Faith Nyambura,28512556,07200886677,4999,Nyahururu,31/8/2026,Daraja (6 Wks),7000,5001,30,IN ARREARS,aug-balances-nyahuhuru-branch.csv
+Samuel Chege,,0793568159,Veronica Nyokabi,,0748306569,2850,Nyahururu,31/8/2026,Daraja (4 Wks),7000,6150,20,IN ARREARS,aug-balances-nyahuhuru-branch.csv
+Francis Njuguna,,0119173109,Mary Wanjiku,,0728845042,3332,Nyahururu,31/8/2026,Daraja (6 Wks),7000,6668,30,IN ARREARS,aug-balances-nyahuhuru-branch.csv
+Margaret Wamai,,0721142486,Joseph Maina,,0721794032,13500,Nyahururu,31/8/2026,Ngaa (6 Wks),30000,27000,30,IN ARREARS,aug-balances-nyahuhuru-branch.csv
+Grace Njuguna,,0724544938,Rabecca Njuguna,32594819,0740441273,4332,Nyahururu,31/8/2026,Daraja (6 Wks),10000,8668,30,IN ARREARS,aug-balances-nyahuhuru-branch.csv
+Mercy Muthoni,141001738,0769261515,Simon Kimathi,,0,0,Nyahururu,1/7/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Beth Muiruri,113244500,0720630896,Martha Wairimu,,0,0,Nyahururu,1/7/2026,Daraja (6 Wks),8000,1834,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Joyce Macharia,745945541,0729417206,Joseph Gachoki,,0,0,Nyahururu,1/7/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Esther Ngugi,724066021,0710540080,Joyce Njoroge,,0,0,Nyahururu,2/7/2026,Vuka (6 Wks),15000,3250,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+David Ngugi,703207202,0723113511,Naomi Wanjiru,,0,0,Nyahururu,3/7/2026,Daraja (4 Wks),7000,2250,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Mary Muchiri,796323736,0713944872,Jecinta Wambui,,0,5468,Nyahururu,3/7/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Serah Nganga,727992553,0724164082,Rachel Njoroge,,0,0,Nyahururu,3/7/2026,Daraja (4 Wks),8000,2500,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Lucy Nanbaiyaiye,720294359,0716331062,Beth Wachera,,0,0,Nyahururu,3/7/2026,Karibu (4 Wks),5000,1500,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Anthony Muthoni,728649729,0724479261,Joyce Ndunge,,0,0,Nyahururu,3/7/2026,Daraja (4 Wks),8000,2500,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Hannah Muraguri,718102970,0746405759,Sara Migwi,,0,0,Nyahururu,6/7/2026,Daraja (6 Wks),8000,1834,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Bancy Waweru,724066021,0710540080,Joyce Njoroge,,0,0,Nyahururu,6/7/2026,wezesha (4 Wks),20000,6000,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Agnes Machua,726768133,0724446422,Mercy Busianei,,0,0,Nyahururu,6/7/2026,Karibu (4 Wks),5000,1500,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Jackline Lesemante,794400120,0118525881,Rabecca Echom,,0,0,Nyahururu,6/7/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Peter Kibiru,700539923,0794861894,Joliah Njoki,,0,0,Nyahururu,6/7/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Salome Kibunja,726580019,0719105265,David Gitau,,0,0,Nyahururu,6/7/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Irene Muinde,729238210,0701676104,Hannah Kabuku,,0,0,Nyahururu,6/7/2026,Vuka (6 Wks),12000,2600,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Francis Njinju,711767396,0704424647,Peter Mwaura,,0,0,Nyahururu,6/7/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Esther Jairus,759900772,0112149690,Lukas Ngugi,,0,0,Nyahururu,6/7/2026,wezesha (6 Wks),20000,4334,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Susyline Mukomune,729417206,0723495587,Joyce Macharia,,0,0,Nyahururu,6/7/2026,Vuka (6 Wks),15000,3250,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Hellen Maina,715369788,0712876987,Jerioth Maina,,0,0,Nyahururu,6/7/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+James Kaboro,720024027,0703915750,Magdaline Maina,,0,0,Nyahururu,6/7/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Jane Njoroge,756240295,0720552419,Samwel Njoroge,,0,0,Nyahururu,6/7/2026,Daraja (4 Wks),7000,2250,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Rahab Kabui,724382862,0711227118,Benson Mwaniki,,0,0,Nyahururu,6/7/2026,Ngaa (6 Wks),30000,6750,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Teresa Gatheru,743320897,0724836941,Grace Njeri,,0,0,Nyahururu,6/7/2026,Daraja (4 Wks),10000,3000,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Caroline Ngugi,769386968,0743725400,Nancy Mukami,,0,1000,Nyahururu,6/7/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Ann Njoroge,798764337,0715747806,Teresia Njoroge,,0,0,Nyahururu,6/7/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Margaret Lomitir,728108487,0740548417,Eunice Akoth,,0,0,Nyahururu,7/7/2026,Karibu (4 Wks),5000,1500,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Faith Muturi,705850703,0721318231,Eunice Nyambura,,0,0,Nyahururu,7/7/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Damaris Nderitu,707234349,0724051213,Veronica Muchiri,,0,0,Nyahururu,7/6/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Joyce Wandaka,728627914,0793621965,Tabitha Maina,,0,0,Nyahururu,7/7/2026,Paa (6 Wks),25000,5675,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Godfrey Mugo,713543764,0715365131,Philis Maina,,0,0,Nyahururu,7/7/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Elizabeth Gachathi,723842892,0114732234,Rose Gachathi,,0,5410,Nyahururu,7/7/2026,Vuka (6 Wks),15000,3250,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Zipporah Muriithi,715873084,0700480519,Teresia  Maina,,0,0,Nyahururu,7/6/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Mary Njoki,719506554,0727698567,Faris Mwangi,,0,0,Nyahururu,8/7/2026,wezesha (4 Wks),18000,5400,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Daisy Rotich,792871335,0705557044,Sharon Amolo,,0,1000,Nyahururu,8/7/2026,Karibu (4 Wks),5000,1500,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Marion Karunge,714388690,0791046162,Ann Waruiru,,0,0,Nyahururu,8/7/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Susan Mwaura,796102762,0724350985,Racheal Kiambati,,0,0,Nyahururu,8/7/2026,Vuka (6 Wks),14000,3034,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Fatuma Duba,798372422,0116140156,Stephen kipkurui,,0,0,Nyahururu,8/7/2026,Vuka (6 Wks),15000,3250,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Jennifer Samuel,722416830,0725709459,Kenneth kuria,,0,0,Nyahururu,8/7/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Rahab Njambi,736819560,0746194202,Catherine Maina,,0,5001,Nyahururu,8/7/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Ann Karua,700771840,0714734249,Nancy Mwangi,,0,0,Nyahururu,9/7/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Agnes Kioni,769228244,0769694106,Nana Maina,,0,0,Nyahururu,9/7/2026,Daraja (4 Wks),10000,3000,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Purity Mwangi,745305142,0746999243,Jane Nyambura,,0,4334,Nyahururu,9/7/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Jane Ngata,741796731,0743647697,Charles Munene,,0,0,Nyahururu,9/7/2026,Daraja (4 Wks),7000,2250,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Jane Wanjiru Njogu,115403692,0746811444,John Nderitu,,0,0,Nyahururu,9/7/2026,Daraja (6 Wks),8000,1834,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Hellen Kimei,768208209,0790244173,Elijah Kihonge,,0,0,Nyahururu,9/7/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Paulina Kipkurui,759261142,0700132036,Annet Cherotich,,0,0,Nyahururu,10/7/2026,Karibu (4 Wks),5000,1500,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Hillary Kirwa,711063122,0729518016,Norman Ngige,,0,0,Nyahururu,10/6/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Jane Kuuti,768094794,0768824476,Diana Okeyo,,0,0,Nyahururu,10/7/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Alice Naserian,752560980,0758991413,Patricia wacuka,,0,0,Nyahururu,13/7/2026,Daraja (6 Wks),9000,2000,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Mercy Macharia,727816849,0715228494,Mercy Njoiki,,0,0,Nyahururu,13/7/2026,Daraja (4 Wks),10000,2000,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Simon Mtigiugu,720323599,0798632927,Peter  waititu,,0,0,Nyahururu,13/6/2026,Daraja (4 Wks),10000,3000,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Penina Mathenge,792748608,0748261697,Ruth Ndungu,,0,295,Nyahururu,13/7/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Susan Mburu,710467216,0791842906,Esther Njoroge,,0,0,Nyahururu,13/7/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Maureen Waweru,726297808,0727877025,Serah Chege,,0,0,Nyahururu,13/7/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Margaret Mugo,734256765,0721572161,Isaac Muhia,,0,0,Nyahururu,13/7/2026,Vuka (6 Wks),15000,3250,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Fridah Maluki,790646590,0711312215,Susan wanjiku,,0,0,Nyahururu,13/7/2026,Vuka (6 Wks),12000,2600,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Esther Kimari,746194202,0726683825,Rahab Njambi,,0,0,Nyahururu,13/7/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Philomena Nguitui,700515009,0718400068,Francis Nguitui,,0,0,Nyahururu,13/7/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Florence Wandaka,715778506,0714359854,James  Karika,,0,0,Nyahururu,13/7/2026,Paa (6 Wks),25000,5675,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Diana Kageha,700469416,0769409406,Tabitha Wandaka,,0,0,Nyahururu,14/7/2026,Daraja (4 Wks),9000,2750,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Joyce Mwangi,757069418,0711686002,David Mwangi,,0,0,Nyahururu,14/7/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Anthony Munene,798654955,0714076538,Ibrahim Kingori,,0,0,Nyahururu,14/7/2026,Daraja (4 Wks),10000,3000,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Virginia wairimu,700144012,0718871498,Rahab Nyambura,,0,0,Nyahururu,14/7/2026,Karibu (4 Wks),5000,1500,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Jane Naivest,795493127,0724024611,Agnes Lele,,0,0,Nyahururu,14/7/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Lydia Kamau,703322932,0701035799,Ann Mwangi,,0,0,Nyahururu,14/7/2026,Vuka (4 Wks),12000,3600,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Beatrice Njaramba,708387501,0799173612,Peter Njaramba,,0,0,Nyahururu,15/7/2026,Daraja (4 Wks),10000,3000,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Judy Gitau,722706813,0722527858,Penina maina,,0,0,Nyahururu,15/7/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Agnes Muburi,727306592,0704163771,Teresia Gichohi,,0,0,Nyahururu,15/7/2026,wezesha (4 Wks),20000,6000,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Ann Wangari,706841567,0705304253,Naomi Bosibori,,0,0,Nyahururu,15/7/2026,Daraja (6 Wks),9000,2000,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Faith Njogu,793774262,0710918080,Lilian Gathigia,,0,5668,Nyahururu,15/7/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Lukas kabui,710625385,0759900772,Micheal Gatimu,,0,0,Nyahururu,15/7/2026,Daraja (4 Wks),7000,2250,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Hannah Kuria,742728359,0799871943,Sarah Kuria,,0,0,Nyahururu,16/7/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+John Mwangi,794326731,0720241837,Monica Wanyoike,,0,0,Nyahururu,16/7/2026,Daraja (4 Wks),10000,3000,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Simon Mutunga,712989540,0723519085,Grace Mathaga,,0,0,Nyahururu,16/7/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Margaret Wathiegeni,115944640,0115480067,Cecilia Wamuyu,,0,0,Nyahururu,16/7/2026,Karibu (4 Wks),5000,1500,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Daniel Gitau,728397868,0794416300,Glady Njeri,,0,0,Nyahururu,16/7/2026,Karibu (4 Wks),5000,1500,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Elizabeth Romero,728587387,0792049781,Catherine Irungu,,0,0,Nyahururu,16/7/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Purity Kuria,702653933,0769573260,Hannah Muchemi,,0,0,Nyahururu,16/7/2026,Daraja (4 Wks),10000,3000,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Naomi Mbuthia,11510784,0790058345,Peter Kabata,,0,0,Nyahururu,17/7/2026,Daraja (4 Wks),8000,2500,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Lucy Wachira,720311445,0707492014,Esther Njuguna,,0,0,Nyahururu,17/7/2026,Daraja (6 Wks),8000,1834,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Lydiah Gathura,710644873,0748586361,Julia Wanjiku,,0,0,Nyahururu,17/7/2026,Karibu (4 Wks),5000,1500,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Samuel Muya,728534959,0725380367,Hellen Muiruri,,0,0,Nyahururu,17/7/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+James Wanyiri,745128614,0714503794,Joyce kiboi,,0,0,Nyahururu,20/7/2026,Karibu (4 Wks),5000,1500,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Margaret Wamai,721794032,0721142486,Joseph Maina,,0,0,Nyahururu,20/7/2026,Ngaa (6 Wks),30000,6750,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+John Maingi,746563025,0724712026,Leah Karimi,,0,0,Nyahururu,20/7/2026,Vuka (6 Wks),12000,2600,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Joseph Mwangi,726683825,0799835033,Esther Wambui,,0,0,Nyahururu,20/7/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Sarah Ndungu,10660229,0706439225,Alex Mwiti,,0,0,Nyahururu,21/7/2026,Daraja (4 Wks),10000,3000,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Jesika Kangala,748608288,0797775990,Jane Nyambura,,0,0,Nyahururu,21/7/2026,Vuka (6 Wks),12000,2600,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Peter Waihenya,792402413,0712833328,Elizabeth Wangari,,0,0,Nyahururu,21/7/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Rodah Ngarari,705102133,0725559308,Susan Nderitu,,0,0,Nyahururu,21/7/2026,Karibu (4 Wks),5000,1500,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Diana Kajuju,701965026,0742282927,Ann Wangu,,0,0,Nyahururu,21/7/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Jecinta Nduta,724544938,0769621536,Grace Njuguna,,0,0,Nyahururu,21/7/2026,Vuka (6 Wks),15000,3250,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Leonard Mwai,711237285,0723849109,Alfred Etale,,0,0,Nyahururu,21/7/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Esther Kahihia,701481316,0722655548,Mary Wanjiru,,0,0,Nyahururu,21/7/2026,Daraja (6 Wks),8000,1834,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Robinson Kariuki,712258783,0790082214,Maryann Maina,,0,0,Nyahururu,21/7/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Alice Ngugi,700570661,0729144308,Margaret Macharia,,0,0,Nyahururu,21/7/2026,Vuka (6 Wks),12000,2600,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Gladwel Thindi,710954164,0727387416,Susan wanjiku,,0,0,Nyahururu,21/7/2026,Vuka (6 Wks),12000,2600,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Lawrence Wanjala,705102133,0701728665,Rose Wangechi,,0,0,Nyahururu,21/7/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Silvia Wachira,715228494,0797396337,Mercy Macharia,,0,0,Nyahururu,21/7/2026,Daraja (4 Wks),10000,3000,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Gladys Hiuko,713101470,0715709400,Agnes Nduta,,0,0,Nyahururu,22/7/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Charity Mwangi,740491220,0724210636,Rosemary Njeri,,0,0,Nyahururu,22/7/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Lucy Nyoro,108798026,0717796794,Susan Mburu,,0,667,Nyahururu,22/7/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Damaris Kimathi,714592685,0728290725,Elizabeth Wangui,,0,0,Nyahururu,22/7/2026,Vuka (6 Wks),15000,3250,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Benson Wahome,791470552,0748485559,David Kamau,,0,0,Nyahururu,22/7/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Sarah Nderitu,722948117,0715706681,Samuel Maina,,0,0,Nyahururu,22/7/2026,wezesha (4 Wks),20000,6000,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Glagys Waweru,1088117449,0717622386,Milka Wanjiku,,0,0,Nyahururu,22/7/2026,Vuka (4 Wks),12000,3600,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Mary Karuri,715747740,0721994091,Catherine Karuri,,0,0,Nyahururu,22/7/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Jacob Koech,722141101,0724442266,Fridah Kimagal,,0,0,Nyahururu,23/7/2026,Vuka (6 Wks),15000,3250,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Kelvin Karau,741199155,0796250750,Julius Njau,,0,0,Nyahururu,23/7/2026,Vuka (4 Wks),12000,3600,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Lucy Nanbaiyaiye,720294359,0716331062,Beth Wachera,,0,1400,Nyahururu,23/7/2026,Karibu (4 Wks),5000,1500,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Micheal Ndege,717720111,0729823193,Charles Kirugo,,0,0,Nyahururu,23/7/2026,Ngaa (6 Wks),30000,6750,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Harun Ngunjita,707029040,0707029040,Magdaline Maina,,0,0,Nyahururu,23/7/2026,wezesha (6 Wks),20000,4334,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Magdaline Karuri,792519004,0723364504,Jane Njogu,,0,0,Nyahururu,24/7/2026,Vuka (6 Wks),12000,2600,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Josphat Gitonga,721425519,0748310063,Simon Mwangi,,0,0,Nyahururu,24/7/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Winnie Ndirangu,758091413,0759607572,Jane Ndirangu,,0,0,Nyahururu,24/7/2026,Karibu (4 Wks),5000,1500,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Lucia Macharia,759859581,0715390575,Daniel Maina,,0,0,Nyahururu,24/7/2026,Vuka (6 Wks),12000,2600,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Serah Nganga,727992553,0724164082,Rachel Njoroge,,0,0,Nyahururu,24/7/2026,Daraja (4 Wks),8000,2500,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Godfrey Mugo,713543764,0715365131,Philis Maina,,0,0,Nyahururu,24/7/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Magdaline Wacera,738427495,0707143090,Veronica Muchiri,,0,8333,Nyahururu,24/7/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Beth Kiarie,769956186,0705757348,Margaret Maina,,0,2334,Nyahururu,24/7/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Catherine Muchoki,716523140,0792612031,Mary Wanjiku,,0,0,Nyahururu,24/7/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Esther Gachigiri,757630138,0795157747,Rose Muchoki,,0,0,Nyahururu,24/7/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Mary Maina,712416909,0110724989,John lebor,,0,0,Nyahururu,24/7/2026,Karibu (4 Wks),5000,1500,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Mary Mwaura,70509057,0708199244,Norman Macharia,,0,0,Nyahururu,27/7/2026,wezesha (4 Wks),20000,6000,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Harriet Kibuchi,790244266,0757723589,Francis Muchai,,0,4500,Nyahururu,27/7/2026,Karibu (4 Wks),5000,1500,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Lucy Munene,715426487,0720813561,Cecilia Mumbua,,0,0,Nyahururu,27/7/2026,wezesha (6 Wks),19000,4134,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Caroline kimuhu,748300019,0758849257,Stephen Kinyanjui,,0,0,Nyahururu,27/7/2026,Daraja (4 Wks),8000,2500,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Mary Kariuki,711346285,0707655312,Janet Matanu,,0,0,Nyahururu,27/7/2026,Daraja (4 Wks),10000,3000,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Grace Njuguna,740441273,0724544938,Rabecca Njuguna,,0,0,Nyahururu,27/7/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Anthony Muthoni,728649729,0724479261,Joyce Ndunge,,0,0,Nyahururu,28/7/2026,Daraja (4 Wks),8000,2500,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Peter Mbugua,721401919,0721356359,Duncan Njeri,,0,0,Nyahururu,28/7/2026,Vuka (4 Wks),15000,3250,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Winnie Mwangi,704690718,0715616331,Kelvin Mwangi,,0,0,Nyahururu,28/7/2026,Vuka (6 Wks),12000,2600,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Teresa Gatheru,743320897,0724836941,Grace Njeri,,0,0,Nyahururu,28/7/2026,Daraja (4 Wks),10000,3000,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+James Njuguna,726547536,0718886595,Joseph Njoroge,,0,0,Nyahururu,28/7/2026,Karibu (4 Wks),5000,1500,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Mary Lokorach,712438585,0701169467,Agnes Barno,,0,0,Nyahururu,28/7/2026,Daraja (6 Wks),8000,1834,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Maureen Kagwora,703286633,0723858169,Esther Maina,,0,0,Nyahururu,28/7/2026,Karibu (4 Wks),5000,1500,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Leah Kanyango,727258550,0721950008,Alice Wachira,,0,0,Nyahururu,28/7/2026,Daraja (4 Wks),7000,2250,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Lucy Karanja,114234124,0703418234,Samuel Kinyua,,0,0,Nyahururu,28/7/2026,Daraja (4 Wks),7000,2250,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Catherine Mbuni,726503829,0727865456,Hannah Wambui,,0,0,Nyahururu,29/7/2026,Ngaa (6 Wks),30000,6750,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Josphat Kamanu,710576285,0724701702,Jane Wanjiku,,0,0,Nyahururu,29/7/2026,Vuka (6 Wks),12000,2600,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Pauline Kamau,116691166,0708448209,Ann Mugambi,,0,0,Nyahururu,29/7/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Tabitha Wachira,726890467,0704825688,Jane Muthoni,,0,0,Nyahururu,29/7/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+George Ndirangu,758274400,0711382851,Jane Muthoni,,0,0,Nyahururu,29/7/2026,Karibu (4 Wks),5000,1500,20,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Joyce Kesses,790796424,0718659733,Annah Chelagat,,0,0,Nyahururu,29/7/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Joyce Macharia,745945541,0729417206,Joseph Gachoki,,0,0,Nyahururu,29/7/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Martin Kiarie,708382465,0718846710,Paul Kimani,,0,0,Nyahururu,29/7/2026,Vuka (6 Wks),12000,2600,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Elizabeth Mathaga,743458451,0706607577,Moses Mathaga,,0,0,Nyahururu,29/72026,Daraja (6 Wks),10000,2167,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Samuel Gichia,713501528,0702028822,Paul Mwangi,,0,0,Nyahururu,30/7/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,JULY DISBURSEMENT-nyahururu-branch.csv
+Sarah Ng'ang'a,254724164082,0Rachel njoroge,254727992553,4WEEKS,07000,29750,Nyahururu,1/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Francis Njinju,254704424647,0Peter Wainana,254711767396,6WEEKS,010000,Carol,Nyahururu,1/6/2026,Unknown,500,0,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Joseph mwangi,254799835033,0Esther Wambui,254726683825,6WEEKS,010000,Carol,Nyahururu,1/6/2026,Unknown,500,0,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Lydia Kamau,254701035799,0Ann Mwangi,254703322932,4WEEKS,010000,39500,Nyahururu,1/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+James Kaboro,254703915750,0Magdaline Maina,254720024027,6WEEKS,07000,32167,Nyahururu,1/6/2026,Unknown,500,peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Esther Ngugi,254710540080,0Joyce Njoroge,2547240666021,6WEEKS,015000,62250,Nyahururu,2/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Lucy Munene,254720813561,0Cecilia Mutungili,254725426487,6WEEKS,015000,62250,Nyahururu,2/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Sarah Ndung'u,254706439225,0Alex Mwiti,254706602209,4WEEKS,010000,39500,Nyahururu,2/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Purity Mwangi,254746999243,0Jane Roro,254745305142,6WEEKS,010000,Nancy,Nyahururu,2/6/2026,Unknown,500,0,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+George Waiganjo,254711382851,0Charity Ndirangu,254758274400,4WEEKS,05000,20000,Nyahururu,2/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Ann Njoroge,254715747806,0Teressiah Njoroge,254798764337,6WEEKS,07000,32167,Nyahururu,2/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Zipporah Muriithi,254700480519,0Teresia Maina,25415873084,6WEEKS,07000,32167,Nyahururu,2/6/2026,Unknown,500,nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Margaret Mugo,254721572161,0jane  kariuki,734256765,6weeks,015000,62250,Nyahururu,3/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Joshua Kibon,254721937013,0ealice kimeli,797691850,4weeks,010000,33500,Nyahururu,3/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Esther kimani,254719700664,0peter kimani,107748401,6weeks,07000,32167,Nyahururu,3/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Esther Kimari,726683825,0rahab njambi,753040119,6weeks,010000,41667,Nyahururu,3/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Faith Njogu Njoki,710918080,0lilian mwai,793774262,4wEEKS,07000,32167,Nyahururu,3/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+catherine wanjiru,720340478,0joyce kamau,745658943,4weeks,05000,20000,Nyahururu,3/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Rahab Njambi,746194202,0catherine maina,736819560,6weeks,07000,32167,Nyahururu,3/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Fatuma Duba,116140156,0stephen sirikwa,798372422,6weeks,015000,62250,Nyahururu,4/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Josphine Kapel,142842993,0susan nabaru,718878829,4weeks,05000,20000,Nyahururu,4/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Rahab Nyambura,711227118,0benson mwaniki,724382862,6weeks,030000,128750,Nyahururu,4/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Mary Mwaura,708199244,0norman macharia,700509057,4weeks,020000,78500,Nyahururu,4/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Margart Ekai,740548417,0Eunice Akoth,728108487,4weeks,05000,20000,Nyahururu,4/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Lucy Nambaiyaiye,720294359,0Beth wacera,716331062,4weeks,05000,20000,Nyahururu,4/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Lucy Nyoro Nduta,254717796794,0Susan mburu,254108798026,000",0"10,13000,Nyahururu,4/6/2026,Unknown,6WEEKS,2167,0,IN ARREARS,JUNE DISBURSEMENT-nyahuru-branch.csv
+philomena Nguitu    Francis NGUITUI,254718400068,0,25470051009,000",0"10,13000,Nyahururu,4/6/2026,Unknown,6WEEKS,2167,0,IN ARREARS,JUNE DISBURSEMENT-nyahuru-branch.csv
+Grace Muraya,2547011257897,0Tabitha Kibuu,254704781632,4Weeks,05000,20000,Nyahururu,4/6/2026,Unknown,500,PETER,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+fredrick Kihomge,254794206919,0Henry Maina,254745034146,6WEEKS,09000,38500,Nyahururu,4/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Paul Thuo,2547050330,0Jonathan Chemase=254&705033064,254708005715,6WEEKS,025000,108325,Nyahururu,5/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Peninah Mathenge,254748261697,0Ruth Ndungu,254792748608,6WEEKS,07000,32167,Nyahururu,5/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Jane Kuuti,254768824476,0Diana Okeyo,254768094794,6WEEKS,07000,32167,Nyahururu,5/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Sarah Waruguru,254715706681,0Sa muel Maina,254722948117,4weeks,020000,78500,Nyahururu,5/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Julius Gichuru,254705915891,0Hellen Kawira,2547700066941,6 weeks,020000,82834,Nyahururu,5/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Gladys Waweru,254717622386,0Mary Kariuki,254708817449,4weeks,012000,42700,Nyahururu,5/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Fridah Nairia,254740326857,0Jeniffer Anana,254718825740,6WEEKS,07000,32167,Nyahururu,6-May,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Monicah Amondi,254711124852,0Mary Maina,254110723989,6 weeks,07000,32167,Nyahururu,5/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Godfrey Maina,2547153665131,0Philis Maina,254713543764,6 weeks,010000,41667,Nyahururu,8/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Charity Mwangi,2545724210636,0Rosemary Njeri,254740471220,6WEEKS,010000,41667,Nyahururu,8/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Joyce Nyaguthii,254711680002,0David Mwangi,2548757069418,6WEEKS,010000,41667,Nyahururu,8/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+James Wanyiri,254714503794,0Joyce Nduta,254745128614,6WEEKS,07000,32167,Nyahururu,8/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Leonard kamwaru,25423849109,0Alfred  Etale,254711237285,6WEEKS,010000,41667,Nyahururu,8/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Sarah Ndung'u,254706439225,0Alex Mwiti,254706602209,4weeks,010000,39500,Nyahururu,9/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Robinson Kariuki,254790082214,0Maryann Wangui,254712258783,6WEEKS,07000,32167,Nyahururu,9/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Elizabeth Gachathi,254114732234,0Rose Gachathi,254723842892,6 weeks,014000,57938,Nyahururu,9/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Peris Wanjugu,254712005347,0Catherine Wangechi=254&712005347,254758025726,6WEEKS,07000,32167,Nyahururu,9/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Mary Maina,254110724989,0John Labor,254712416909,6weeks,07000,32167,Nyahururu,9/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Patrick Kimani,254726706952,0Diana Mathathi,254716611899,4Weeks,07000,33500,Nyahururu,9/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Gladys Hiuko,254715709400,0Agnes Nduta,254713101470,6weeks,07000,32167,Nyahururu,9/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Elizabeth Romero,254792049781,0Catherine Irungu,254728587387,6WEEKS,07000,32167,Nyahururu,9/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Samuel Mwangi,254741687879,0Maryann Wangui,254793965045,6WEEKS,010000,38667,Nyahururu,9/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Anthony Wachira,254714076538,0Ibrahim Kingori,254798654955,4weeks,010000,39500,Nyahururu,9/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Mary Njoki,254727698567,0Faris Mwangi,254719306554,4weeks,018000,70700,Nyahururu,9/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Susan Mwaura,254724350985,0Rachel Kiambati,254796102762,6WEEKS,012000,49900,Nyahururu,9/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Benson Wahome,254748485559,0David Kamau,254791470552,6WEEKS,07000,32167,Nyahururu,10/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Bancy Njeri Waweru,254711973607,0Peter Njoroge,254742103835,4 weeks,020000,78500,Nyahururu,10/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Agnes Muthon KioniNana Wanjiru,254769694106,0,254769228244,4weeks,010000,39500,Nyahururu,10/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Naomi Mbuthia mu,254790058345,0Peter Ndindiri,254111510789,4 weeks,08000,33000,Nyahururu,10/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Lawrence Wanjala,254701728665,0Rose Wangechi,254714901793,6 weeks,07000,32167,Nyahururu,10/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Michael Munene,2547729823193,0Charles Kirugo,254717720111,6weeks,030000,128750,Nyahururu,11/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Alice Naserian,254758991413,0Patricia Wacuka,254752560980,6 weeks,09000,38500,Nyahururu,11/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Jane Wanjiru,254746811444,0John Nderitu,254704825688,6weeks,07000,32167,Nyahururu,11/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Jane Ngata,254743647697,0Charles Karari,254741796731,6weeks,05000,20000,Nyahururu,11/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Jackline Lesemante Rabecca Echom,254118525881,0,254794400120,4 weeks,07000,29750,Nyahururu,11/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Gladys Wairimu Maingikelvin kiptoo,254728225297,0kelvin kiptoo,254719545318,6weeks,07000,32167,Nyahururu,11/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Catherine Muchoki,254792612031,0Mary kinyanjui,254716523140,6weeks,07000,32167,Nyahururu,11/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Jeniffer Mukiri,254725709459,0Kenneth Kuria,254722416830,6weeks,07000,32167,Nyahururu,11/6/2026,Unknown,500,carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Susan Kiai,254727368599,0Boniface Njambi,254714398204,6weeks,07000,32167,Nyahururu,12/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Esther Wanjohi,254759831343,0Frida Mahiga,254722715234,6weeks,07000,32167,Nyahururu,12/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Tabitha Wachira,254704825688,0Jane Muthoni,254726890467,6 weeks,07000,32167,Nyahururu,12/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Elizabeth Mathaga,254706607577,0Moses Mithaga,254743458451,6weeks,010000,41667,Nyahururu,12/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Hillary Kirwa,254729518016,0Norman Ngige,254711063122,4weeks,05000,20000,Nyahururu,12/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Susyline Mukono,254723495587,0Joyce Macharia,254729417206,6WEEKS,015000,62250,Nyahururu,12/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Susan Modo,254721991675,0Lucy Nambayaiye,254716331062,6Weeks,07000,32167,Nyahururu,12/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Maurine Kagwora,254723858169,0Esther Maina,254703286633,4weeks,07000,30750,Nyahururu,12/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Ann Wangari,254705304253,0Naomi Bosibori,254706841567,6 Weeks,09000,38500,Nyahururu,12/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Rosemary Maina,254724153150,0Molly Mugure,254721815920,6Weeks,010000,41667,Nyahururu,12/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Lucia Mukami,2547153905575,0Daniel Maina,254759859581,6 weeks,010000,41667,Nyahururu,12/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Esther Gachigiri,254795157747,0Rose Muchoki,254757630137,6weeks,07000,32167,Nyahururu,12/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Florence Wandaka,254714359854,0James Karika,254751778506,6 Weeks,025000,108325,Nyahururu,12/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Maureen Waweru,254727877025,0Serah Chege,2545726297808,6weeks,07000,32167,Nyahururu,15/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Alice Ngugi,254729144308,0Margaret Wangui,254700570661,6 weeks,012000,49900,Nyahururu,15/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Mary Karuri,254721994091,0Catherine kiruri,254715747740,6weeks,08000,35338,Nyahururu,15/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Grace Njuguna,254724544938,0Rabecca Njuguna,254740441273,6 weeks,08000,35334,Nyahururu,15/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Jane Naivest,254724024611,0Agnes Lele,254795493127,6Weeks,010000,41667,Nyahururu,15/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Gogfrey Mugo,254715365131,0Philis Maina,254713543764,6weeks,010000,41667,Nyahururu,15/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Joyce Wanjiru,254700934013,0Peter Mwangi,254796819892,4 weeks,010000,39500,Nyahururu,15/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Purity Gacoki,254769573260,0Hanah Muchemi,254702653933,4 weeks,010000,39500,Nyahururu,15/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Catherine Maina,254728586678,0Mary Macharia,254725585188,4weeks,07000,29750,Nyahururu,15/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Mary Kariuki,254707655312,0Janet Matanu,254711346285,6weeks,09000,38500,Nyahururu,15/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Susan Mburu,254791842906,0Esther Njoroge,354710467216,6weeks,010000,41667,Nyahururu,15/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Esther Kahihia,254722655548,0Mary kimamo,254701481316,6weeks,08000,35334,Nyahururu,15/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Teresa Gatheru,254724836941,0Grace Mathenge,254743320897,4weeks,010000,39500,Nyahururu,15/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Joyce Wandaka,254793621965,0Tabitha Maina,254728627914,4weeks,020000,78500,Nyahururu,15/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Diana Kajuju,254742282927,0Ann Githaiga,254701965026,6 Weeks,010000,41667,Nyahururu,15/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Simon Karani,2547989632927,0Peter Waititu,254720323599,4weeks,010000,39500,Nyahururu,15/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Fridah Kanini,254711312215,0Susan Wanjiru,254790646590,6Weeks,012000,49900,Nyahururu,16/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Diana Kageha,254769409406,0Tabitha Wandaka,254700469416,4Weeks,07000,29750,Nyahururu,16/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Peter Waihenya,254712833328,0Elizabeth Wangari,254792402413,6 weeks,010000,41667,Nyahururu,16/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Mercy Macharia,254715228494,0Mercy Wanjiru,254727816846,4 weeks,010000,39500,Nyahururu,16/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Tabitha Njenga,254796291816,0Douglas Njenga,254759522005,6 weeks,07000,32167,Nyahururu,16/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Hannah Kuria,254799871943,0Sarah Kuria,254742728359,6Weeks,010000,41667,Nyahururu,16/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Hellen Chesang,254790244173,0Elijah Kihonge,254768208209,6Weeks,010000,41667,Nyahururu,17/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Pauline Kamau,254708448209,0Ann Wangui,254116691166,6Weeks,012000,49900,Nyahururu,17/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Magdaline Karuri,254727364504,0Jane Njogu,254792519004,6 weeks,012000,49900,Nyahururu,17/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Monica Gatheca,254741227923,0Benson Wacihi,254757960463,6Weeks,07000,32167,Nyahururu,17/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Josphat Guandarua,254748310063,0Simon  Mwangi,254721425519,6 weeks,010000,41667,Nyahururu,17/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Sarah Ndungu,254706439225,0Alex Mwiti,254106602609,4Weeks,010000,39500,Nyahururu,17/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Anne Akech Atieno,254715577248,0Martha Akinyi,254741463602,6 weeks,08000,35334,Nyahururu,17/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Beatrice Njaramba,254799173612,0Peter Njaramba,254708387501,4Weeks,010000,39500,Nyahururu,17/6/2026,Unknown,500,peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Nancy Gatwiri,254715924520,0Eunice Kendi,254114625557,6 Weeks,07000,32167,Nyahururu,17/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Nancy Maina,25424592850,0Margaret Kimani,254726768129,6 weeks,07000,32167,Nyahururu,18/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Martin Kiarie,254718846710,0Paul Kimani,2547708382465,6 weeks,012000,49900,Nyahururu,18/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Harry Thuku,254705436184,0Geofrey Njenga,254791919951,4 weeks,05000,20000,Nyahururu,18/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Lucy Wachira,254707492014,0Esther Nyambura,254720311445,6 weeks,07000,32167,Nyahururu,18/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Justus Ndungu,254725718918,0Beatrice Wambugu,254711856758,6weeks,09000,36500,Nyahururu,18/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Samuel Muya,254725380367,0Hellen Wanjiku,254728534959,6weeks,010000,41667,Nyahururu,18/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Josphine Chebet,254791967871,0Hannah Kuke,2547757262313,4weeks,05000,20000,Nyahururu,18/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Silvia Wachira,254797396337,0Mercy Wangechi,254715228494,4weeks,010000,39500,Nyahururu,19/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Mary Kingori,254792149332,0Mary Chuma,254721778601,6weeks,07000,32167,Nyahururu,19/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Catherine Mbuni,254727865456,0Hannah Macharia,254726503829,6WEEKS,025000,108325,Nyahururu,19/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Peter Njoroge,254721356359,0Duncan Maina,254721401919,6weeks,015000,62250,Nyahururu,19/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Hellen Wainana,254727059976,0Joseph Munene,254714716360,4weeks,05000,20000,Nyahururu,19/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Grace Gachuhi,254726949202,0Tabitha Ndegwa,254728735170,6 WEEKS,07000,32167,Nyahururu,19/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Naomi Gituria,254794029149,0Esther Gachechere,254717512042,6 WEEKS,07000,32167,Nyahururu,19/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Daniel Gitau,254794416300,0Gladt Njeri,254728397868,4 weeks,05000,20000,Nyahururu,19/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+John Mwangi,254724712026,0Leah Waruguru,254746563025,4WEEKS,010000,39500,Nyahururu,19/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Jesika Kangala,254797775990,0Jane Nyambura,254748608288,6WEEKS,012000,49900,Nyahururu,22/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Josephat Ngugi,254724701702,0Jane Wangari,254710576285,6WEEKS,012000,49900,Nyahururu,22/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Edwin Montana,254742033906,0Peter Irungu,254790412266,6 WEEKS,012000,49900,Nyahururu,22/6/2026,Unknown,500,nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Joshua Kibon,254721937013,0Alice Kimeli,254797691850,4 WEEKS,010000,39500,Nyahururu,22/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Kelvin Karau,254796250750,0Julius Njau,254742199155,000",0"15,19500,Nyahururu,22/6/2026,Unknown,6WEEKS,3250,0,IN ARREARS,JUNE DISBURSEMENT-nyahuru-branch.csv
+Jecinta Nduta,254769621536,0Grace njuguna,254724544938,6WEEKS,014000,Carol,Nyahururu,22/6/2026,Unknown,500,0,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Agnes Muburi,254704163771,0Teresiah Gichohi,254727306592,4WEEKS,020000,78500,Nyahururu,22/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Milfrida Nyaboke,254742982500,0Peter Onyari,254723791251,6 WEEKS,08000,35334,Nyahururu,22/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Jeddy Wachira,254707593937,0Everline   Wachira,254704452061,6WEEKS,07000,32167,Nyahururu,22/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Magdaline Wacera,254707143090,0Veronica Muchiri,254738427495,6weeks,07000,32167,Nyahururu,23/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Winnie Mwangi,254715616331,0Kelvin Ndung'u,254704690718,6WEEKS,012000,49900,Nyahururu,23/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Naomi Ndiritu,254726100264,0Zipporah Kamau,254720882664,4WEEks,05000,20000,Nyahururu,23/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Winnie ndirangu,254759607572,0Jane Wangui,254758091413,4WEEKS,010000,39500,Nyahururu,23/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+James Njuguna,254718886595,0Joseph Mwangi,254726547436,4 WEEKS,05000,20000,Nyahururu,23/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Mary Mwangi,254714885607,0Simon Mwangi,254796216948,6 WEEKS,012000,49900,Nyahururu,23/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Damaris Kimathi,254728290725,0Elizabeth Ndung'u,254714592685,6WEEKS,015000,Carol,Nyahururu,23/6/2026,Unknown,500,0,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Anthony Wachira,254714076538,0Ibrahim Kingori,254798654955,4weeks,010000,39500,Nyahururu,24/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Mary Lokorach,254701169467,0Agnes Barno,254712438585,6WEEKS,08000,35334,Nyahururu,24/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Grace Wairimu,254706099951,0Loice Njoroge,254727526497,6WEEKS,07000,32167,Nyahururu,24/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Naomi Mbuthia,254790058345,0Peter Kabata,254111510784,4WEEKS,08000,33000,Nyahururu,24/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Joseph ndiritu,254714716360,0Richard Karanja,254758589148,6WEEKS,010000,41667,Nyahururu,24/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Lydia Kamau,254701035799,0Ann Mwangi,254703322932,4WEEKS,010000,39500,Nyahururu,24/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Francis Njuguna,254119173109,0Mary Wanjiku,254728845042,6weeks,010000,41667,Nyahururu,24/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Josphine Kapel,142842993,0susan nabaru,718878829,4weeks,05000,20000,Nyahururu,25/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Keziah Wamaitha,700549110,0Lucy Mwangi,25479480201,6 WEEKs,010000,41667,Nyahururu,25/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Jacob Koech,724442266,0Fridah Kimagal,25472214101,4WEEks,010000,39500,Nyahururu,25/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Alice Wanjiru,758372505,0Margaret Wangari,254,000",0"10,2167,Nyahururu,25/6/2026,Unknown,6WEEKS,2167,0,IN ARREARS,JUNE DISBURSEMENT-nyahuru-branch.csv
+Joyce kesses,718659733,0Annah Chelagat,790796424,6weeks,07000,32167,Nyahururu,25/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Gladys Waweru,717622386,0Milka Kariuki,0 108817449,4 WEEKS,012000,47300,Nyahururu,26/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Samuel gichia,702028822,0Paul Macharia,713501528,6WEEKS,010000,30834,Nyahururu,26/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Paul Mwangi,711410254,0John Ndirangu,715257237,6WEEKS,07000,32167,Nyahururu,26/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+John Irungu,702599233,0Caroline Wanja,797584851,6weeks,07000,32667,Nyahururu,26/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Jane Mumbi Theuri,795544079,0John Theuri,713472309,6weeks,010000,Carol,Nyahururu,26/6/2026,Unknown,500,0,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Tabitha Muiga,729828281,0Susan Muchiri,713328411,6weeks,07000,32167,Nyahururu,29/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Leonard kamwaru,25423849109,0Alfred  Etale,254711237285,6WEEKS,010000,41667,Nyahururu,29/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+cecilia Muraya,721961454,0Esther Kariuki,714126599,6WEEKS,07000,32167,Nyahururu,29/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Mercy Wanjiku,743665781,0Esther Muriuki,721439189,6WEEKS,07000,32167,Nyahururu,29/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Lucy Munene,254720813561,0Cecilia Mutungili,254725426487,6WEEKS,017000,69884,Nyahururu,29/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Lucy Gathondu,705851219,0milka wangai,742242993,4weeks,07000,29750,Nyahururu,29/6/2026,Unknown,500,Peter,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+George Waiganjo,711382851,0Charity Ndirangu,758274400,4WEEKS,05000,20000,Nyahururu,30/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Mary Mwaura,708199244,0norman macharia,700509057,4weeks,020000,78500,Nyahururu,30/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Sarah Waruguru,715706681,0Samuel Maina,722948117,4weeks,020000,78500,Nyahururu,30/6/2026,Unknown,500,Nancy,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Purity Gacoki,769573260,0Hanah Muchemi,702653933,4 weeks,010000,39500,Nyahururu,30/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Maurine Kagwora,723858169,0Esther Maina,703286633,4weeks,07000,30750,Nyahururu,30/6/2026,Unknown,500,Carol,0,COMPLETED,JUNE DISBURSEMENT-nyahuru-branch.csv
+Charity Mwangi,,0724210636,Rosemary Nasimiyu,10000,0740471220,13000,Nyahururu,4/5/2026,Daraja (6 Wks),10000,2170,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Susan Mburu,,0113300495,Charles Thiong'o,5000,0712920114,6500,Nyahururu,4/5/2026,Karibu (6 Wks),5000,1085,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Joyce Mwangi,,0711686002,Davd King'ori,10000,0757069418,13000,Nyahururu,4/5/2026,Daraja (6 Wks),10000,2170,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Miriam rotich,,0726281613,Sheila Langat,20000,0707451706,26000,Nyahururu,4/5/2026,wezesha (6 Wks),20000,4334,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Mary Muthoni,,0707655312,Janet Mutanu,9000,0711346285,12000,Nyahururu,4/5/2026,Daraja (6 Wks),9000,2000,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Godfrey Maina,,0715365131,Philis Maina,10000,0713543764,13000,Nyahururu,4/5/2026,Daraja (6 Wks),10000,2170,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Leonard Kamwaro,,0723849109,Alfred Etale,10000,0711237285,13000,Nyahururu,4/5/2026,Daraja (6 Wks),10000,2170,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Hannah Kuria,,0799871943,Serah Kuria,8000,0742728359,10000,Nyahururu,4/5/2026,Daraja (4 Wks),8000,2500,20,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Rahab Kabui,,0711227118,Brigit Kamba,30000,0794955639,20250,Nyahururu,5/5/2026,Ngaa (6 Wks),30000,6750,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Margaret Wamai,,0721142486,Joseph Maina,30000,0721794032,20250,Nyahururu,5/5/2026,Ngaa (6 Wks),30000,6750,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Esther Ngugi,,0710540080,Joyce Njoroge,15000,0724066021,19500,Nyahururu,5/5/2026,Vuka (6 Wks),15000,3250,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Sheila Langat,,0707451706,Hillary Kiplangat,7000,0796979089,10000,Nyahururu,5/5/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Joshua Kibon,,0721937013,Alice Kimeli,10000,0797691850,13000,Nyahururu,5/5/2026,Daraja (4 Wks),10000,3000,20,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Daina Kajuju,,0742282927,Ann Githaiga,10000,0701965026,13000,Nyahururu,6/5/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Monica Gatheca,,0741227923,Benson Gatheca,5000,0757960463,6500,Nyahururu,6/5/2026,Karibu (6 Wks),5000,1085,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Pauline Kamau,,0708448209,Ann Mugambi,12000,0116691166,15600,Nyahururu,6/5/2026,Vuka (6 Wks),12000,2600,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Kenneth Mwirigi,,0726022867,Stephen mathenge,7000,0720274870,10000,Nyahururu,6/5/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Martin Kiarie,,025718846710,Paul Kimani,12000,0708382465,15600,Nyahururu,7/5/2026,Vuka (6 Wks),12000,2600,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Lucy Nyoro,,0758372505,Susan Mburu,10000,010879806,13000,Nyahururu,7/5/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Micheal Ndege,,0729823193,Charles Muhindo,30000,0717720111,40500,Nyahururu,7/5/2026,Ngaa (6 Wks),30000,6750,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+paul Thuo,,0705033064,Jonathan Cheruiyot,30000,0708005715,40500,Nyahururu,7/5/2026,Ngaa (6 Wks),30000,6750,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Hellen Wainana,,0727059976,Joseph Munene,7000,0714716360,10000,Nyahururu,8/5/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Purity Gacoki,,0769573260,Hanah muchemi,8000,0702653933,10000,Nyahururu,8/5/2026,Daraja (4 Wks),8000,2500,20,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Ann Wangari,,0705304253,Naomi bosibori,9000,0706841567,12000,Nyahururu,8/5/2026,Daraja (6 Wks),9000,2000,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Alice Johnson,,0758991413,Patricia Waithira,9000,0752560980,12000,Nyahururu,8/5/2026,Daraja (6 Wks),9000,2000,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Gladys Waweru,,0717622386,Milka Kariuki,12000,0108817449,14400,Nyahururu,11/5/2026,Vuka (4 Wks),12000,3600,20,IN ARREARS,May Disbursement-nyahururu-branch.csv
+James Njuguna,,0718886595,Joseph Mwangi,5000,0726547536,6500,Nyahururu,11/5/2026,Karibu (6 Wks),5000,1084,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Maureen Waweru,,0727877025,Serah  Chege,7000,0726297808,10000,Nyahururu,11/5/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Rahab Njambi,,0746194202,Catherine Maina,5000,0736819560,6000,Nyahururu,11/5/2026,Karibu (4 Wks),5000,1500,20,IN ARREARS,May Disbursement-nyahururu-branch.csv
+James Wanyiri,,0714503794,Joyce Nduta,5000,0745128614,6500,Nyahururu,11/5/2026,Karibu (6 Wks),5000,1085,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Elizabeth Gachathi,,0114732234,Rose Gachathi,14000,0723842892,18200,Nyahururu,11/5/2026,Vuka (6 Wks),14000,3034,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Lucy  Njoki,,0794113332,Jane Wangui,7000,0727429223,10000,Nyahururu,11/5/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Rosemary maina,,0724153150,Molly Muhota,10000,0721815920,13000,Nyahururu,12/5/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Milfrida Nyaboke,,0742982500,Peter Onyari,8000,0723791251,11000,Nyahururu,12/5/2026,Daraja (6 Wks),8000,1834,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Alice Njoki,,0729144308,Margaret Wangui,12000,0700570661,15600,Nyahururu,12/5/2026,Vuka (6 Wks),12000,2600,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Lucy Munene,,0720813561,Ceciliah Mumbua,17000,0715426487,22100,Nyahururu,12/5/2026,wezesha (6 Wks),17000,3684,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Susan mwaura,,0724350985,Racheal Kiambati,12000,0796102762,15600,Nyahururu,12/5/2026,Vuka (6 Wks),12000,2600,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Mary Mwaura,,0708199244,Norman Muchiri,20000,070509057,12000,Nyahururu,12/5/2026,wezesha (4 Wks),20000,6000,20,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Sarah Nderitu,,0715706681,Samuel Maina,20000,0722948117,12000,Nyahururu,12/5/2026,wezesha (4 Wks),20000,6000,20,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Josephat Gitonga,,0748310063,Simon Mwangi,10000,0721425519,13000,Nyahururu,12/5/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Harry Thuku,,0705436184,Geoffery Njenga,10000,0791919951,13000,Nyahururu,12/5/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Grace Gachuhi,,0726949202,Tabitha Ndegwa,7000,0728735170,10000,Nyahururu,12/5/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Brigit Kamba,,0794955639,Lydia Wairimu,15000,0748295935,19500,Nyahururu,13/5/2026,Vuka (6 Wks),15000,3250,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Florence Wandaka,,0714359854,James Kaguura,25000,0751778506,34050,Nyahururu,13/5/2026,Paa (6 Wks),25000,5675,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Zipporah Rotich,,0720853132,John Erukon,10000,0717749260,12000,Nyahururu,13/5/2026,Daraja (6 Wks),10000,3000,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Elizabeth Mathaga,,0706607577,Moses Gicharu,10000,0743458451,13000,Nyahururu,13/5/2026,Daraja (6 Wks),10000,2617,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Naomi Gituria,,0794029149,Esther Gachechere,7000,0717512042,10000,Nyahururu,13/5/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Naomi Gitau,,0711962072,Ruth Kabage,7000,0701315935,10000,Nyahururu,13/5/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Esther Kimani,,0719700664,Peter Kimani,5000,0107484401,6500,Nyahururu,13/5/2026,Karibu (6 Wks),5000,1085,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Peter Waihenya,,0245712833328,Elizabeth Wangari,10000,0792403413,13000,Nyahururu,13/5/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Bancy Njeri,,0711973607,Peter Njoroge,20000,0742103835,24000,Nyahururu,13/5/2026,wezesha (4 Wks),20000,6000,20,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Edwin Montana,,0742033906,Peter Irungu,12000,0790412266,14400,Nyahururu,14/4/2026,Vuka (6 Wks),12000,2600,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+susyline Mukono,,0723495587,Joyce Macharia,15000,0729417206,19500,Nyahururu,14/5/2026,Vuka (6 Wks),15000,3250,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Susan Mburu,,0791542906,Esther Njoroge,10000,0710467216,13000,Nyahururu,14/5/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Fatuma Duba,,0116140156,Stephen Kipkirui,10000,0798372422,13000,Nyahururu,14/5/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Jane Wanjiru,,0746811444,John ndiritu,7000,0115403692,10000,Nyahururu,14/5/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Jane Naivest,,0724024611,Agnes lele,10000,0795493127,13000,Nyahururu,14/5/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Agnes Kioni,,0769694106,Nana Wanjiru,10000,0769228244,12000,Nyahururu,14/5/2026,Daraja (4 Wks),10000,3000,20,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Richard Sike,,0722340765,Jackline Cherop,15000,0713604116,19500,Nyahururu,14/5/2026,Vuka (6 Wks),15000,3250,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Keziah Wamaitha,,0700549110,Lucy Mwangi,10000,079480201,13000,Nyahururu,14/5/2026,Daraja (6 Wks),10000,2170,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Joyce Macharia,,0700934013,Peter Mwangi,12000,0796819892,14400,Nyahururu,15/5/2026,Vuka (4 Wks),12000,3600,20,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Lucia Mukami,,0715390575,David Ndirangu,10000,0759859581,13000,Nyahururu,15/5/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Esther kahihia,,0722655548,Mary Kimamo,8000,0701481316,11000,Nyahururu,15/5/2026,Daraja (6 Wks),8000,1834,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Jane Gathii,,0700083991,Tabitha Maina,7000,0759095270,9000,Nyahururu,15/5/2026,Daraja (4 Wks),7000,2250,20,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Mary Chege,,0727833081,Damaris King'ori,15000,0721760596,0,Nyahururu,15/5/2026,Vuka (6 Wks),15000,3250,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+John Irungu,,0702899233,Caroline Ngari,7000,0797584851,10000,Nyahururu,15/5/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Mary Karuri,,0721994091,Catherine Kiruri,8000,0715747740,11000,Nyahururu,15/5/2026,Daraja (6 Wks),8000,1834,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Mary Lokorach,,0701169467,Agnes Barno,8000,0712438585,11000,Nyahururu,15/5/2026,Daraja (6 Wks),8000,1834,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Jecinta Nduta,,0769621536,Grace Njuguna,14000,0724544938,18200,Nyahururu,15/5/2026,Vuka (6 Wks),14000,3034,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+John Mwangi,,0724712026,Leah Waruguru,10000,0746563025,12000,Nyahururu,15/5/2026,Daraja (4 Wks),10000,3000,20,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Mary Njoki,,0727698567,Faris Maingi,18000,0719306554,21600,Nyahururu,18/9/2026,wezesha (4 Wks),18000,5400,20,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Sarah Ndung'u,,0706439225,Alex Mwiti,10000,0706602209,12000,Nyahururu,18/5/2026,Daraja (4 Wks),10000,3000,20,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Fridah Kanini,,0711312215,Susan Wanjiru,10000,0790646590,13000,Nyahururu,18/5/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Caroline Ngari,,0797584851,Monicah Ngigi,5000,0703215864,6000,Nyahururu,19/9/2026,Karibu (4 Wks),5000,1500,20,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Hannah Kuria,,0799871943,Serah Kuria,10000,0742728359,13000,Nyahururu,19/5/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Teresa Gatheru,,0724836941,Grace Mathenge,10000,0743320897,12000,Nyahururu,19/5/2026,Daraja (4 Wks),10000,3000,20,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Maurine Kagwora,,0723858169,Esther Maina,7000,0703286633,10000,Nyahururu,19/5/2026,Daraja (4 Wks),7000,2250,20,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Racheal Kirigo,,0707670443,Lawrence Muriuki,10000,0704598090,13000,Nyahururu,19/5/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Mary Mwangi,,0714885607,Simon Mwangi,12000,0796216948,15600,Nyahururu,19/5/2026,Vuka (6 Wks),12000,2600,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Tabitha Nyokabi,,0796291816,Douglas Kimani,7000,0759522005,10000,Nyahururu,20/5/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Gladwell Thindi,,0727387416,Susan Wanjau,12000,0710954164,15600,Nyahururu,20/5/2026,Vuka (6 Wks),12000,2600,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Fredrick Karanja,,0727176910,Maureen Hiuko,30000,0723369406,40500,Nyahururu,20/5/2026,Ngaa (6 Wks),30000,6750,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Peter Wainana,,0794861894,Joliah Waithaka,10000,0700539923,13000,Nyahururu,20/5/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Naomi Mbuthia,,0790058345,Peter Kabata,8000,0111510784,10000,Nyahururu,20/5/2026,Daraja (6 Wks),8000,2500,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Hellen Chesang,,0790244173,Elijah Kihonge,10000,0768208209,13000,Nyahururu,20/5/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Jesika Kangala,,0797775990,Jane Nyambura,12000,0748608288,15600,Nyahururu,20/5/2026,Vuka (6 Wks),12000,2600,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Hillary Kirwa,,0729518016,Norman Ngige,5000,0711063122,6000,Nyahururu,20/5/2026,Karibu (4 Wks),5000,1500,20,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Joyce Wandaka,,0793621965,Tabitha wangari,20000,0728627914,24000,Nyahururu,21/5/2026,wezesha (4 Wks),20000,6000,20,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Diana kagea,,0769409406,Tabitha Wandaka,7000,0700469416,9000,Nyahururu,21/5/2026,Daraja (4 Wks),7000,2250,20,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Agnes Muburi,,0704163771,Teresiah Gichohi,20000,0727306592,24000,Nyahururu,21/5/2026,wezesha (4 Wks),20000,6000,20,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Serah Kimani,,0726145455,Peninah Mwangi,7000,0724722087,9000,Nyahururu,21/5/2026,Daraja (4 Wks),7000,2250,20,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Joseph ndiritu,,0714716360,Richard Karanja,10000,0758589148,13000,Nyahururu,21/5/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Josephat Ngugi,,0724701702,Jane Wangari,12000,0710576285,15600,Nyahururu,21/5/2026,Vuka (6 Wks),12000,2600,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Susan Kariet,,0721991675,Lucy Nambayaiye,5000,0708388550,6000,Nyahururu,21/5/2026,Karibu (4 Wks),5000,1500,20,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Beth Muiruri,,0720630896,Martha Nyambura,8000,0113244500,11000,Nyahururu,21/5/2026,Daraja (6 Wks),8000,1834,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Selina Ekiela,,0745464053,Elizabeth Romero,7000,0792049791,10000,Nyahururu,21/5/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Simon Karani,,0798632927,Peter waititu,10000,0720323599,12000,Nyahururu,22/5/2026,Daraja (4 Wks),10000,3000,20,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Loise Njoki,,0705311814,Monicah Wachira,7000,0712455233,10000,Nyahururu,22/5/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Silvia Wachira,,0797396337,Mercy Macharia,10000,0715228494,3000,Nyahururu,22/5/2026,Daraja (4 Wks),10000,3000,20,IN ARREARS,May Disbursement-nyahururu-branch.csv
+cecilia Muraya,,0721961454,Esther Kariuki,7000,0714126599,10000,Nyahururu,22/5/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Purity Gacoki,,0769573260,Hanah muchemi,10000,0702653933,13000,Nyahururu,22/5/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Jane Mumbi Theuri,,0795544079,John Theuri,8000,0713472309,11000,Nyahururu,22/5/2026,Daraja (6 Wks),8000,1834,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Kelvin Karau,,0796250750,Julius Njau,15000,0742199155,19500,Nyahururu,22/5/2026,Vuka (6 Wks),15000,3250,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Alice Wanjiru,,0758372505,Margaret Wangari,10000,0,13000,Nyahururu,25-May-26,Daraja (6 Wks),10000,2167,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Damaris Kimathi,,0728290725,Elizabeth Ndung'u,15000,0714592685,19500,Nyahururu,25-May-26,Vuka (6 Wks),15000,3250,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Mercy Wanjiku,,0743665781,Esther Muriuki,7000,0721439189,10000,Nyahururu,25-May-26,Daraja (6 Wks),7000,1667,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Charles Kiarie,,0722591581,John Mbuthia,7000,0746439153,10000,Nyahururu,25-May-26,Daraja (4 Wks),7000,1667,20,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Esther Jairus,,0112149690,Lukas Ngugi,20000,0759900772,26000,Nyahururu,25-May-26,wezesha (6 Wks),20000,4334,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Salome Kibunja,,0719105265,David  Gitau,10000,0726580019,13000,Nyahururu,25-May-26,Daraja (6 Wks),10000,2167,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Mary Kimamo,,0701483016,James Agwagi,8000,0719699112,11000,Nyahururu,25-May-26,Daraja (6 Wks),8000,1834,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Lucy Wacira,,0707492014,Esther Njuguna,7000,0720311445,10000,Nyahururu,25-May-26,Daraja (6 Wks),7000,1670,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Paul Mwangi,,0711410254,John Ndirangu,7000,0715257237,10000,Nyahururu,26-May-26,Daraja (6 Wks),7000,1667,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Winnie ndirangu,,0759607572,Jane Wangui,10000,0758091413,13000,Nyahururu,26-May-26,Daraja (6 Wks),10000,2167,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Winnie Mwangi,,0715616331,Kelvin Ndung'u,12000,0,15600,Nyahururu,26-May-26,Vuka (6 Wks),12000,2600,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Mercy Nduati,,0790554705,Samwel Theuri,10000,0716503593,13000,Nyahururu,26-May-26,Daraja (6 Wks),10000,2167,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Evaline Aleyo,,0741213695,rosemary Makumi,7000,0725143272,10000,Nyahururu,26-May-26,Daraja (6 Wks),7000,1667,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Caroline Ngugi,,0743725400,Nancy Kirumati,7000,0769386968,10000,Nyahururu,26-May-26,Daraja (6 Wks),7000,1667,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Catherine Mbuni,,0727865456,Hannah Macharia,20000,0726503829,26000,Nyahururu,27-May-26,wezesha (6 Wks),20000,4334,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Magdaline Karuri,,0727364504,Jane Njogu,10000,0792519004,13000,Nyahururu,27-May-26,Daraja (6 Wks),10000,2167,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Judy Wanjiku Gitau,,0722527858,Peninah Maina,7000,0722706813,10000,Nyahururu,27-May-26,Daraja (6 Wks),7000,1667,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Benson Wahome,,0748485559,David kamau,5000,0791470552,6000,Nyahururu,27-May-26,Karibu (4 Wks),5000,1500,20,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Naomi Ndiritu,,0726100264,Zipporah Kamau,5000,0720882664,6000,Nyahururu,27-May-26,Karibu (4 Wks),5000,1500,20,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Joyce Macharia,,0729417206,Joseph Gachoki,10000,0-254745945541,2167,Nyahururu,27-May-26,Daraja (6 Wks),10000,000,30,COMPLETED,May Disbursement-nyahururu-branch.csv
+Simon mutunga,,0723519085,Grace Gathaga,10000,0712989540,13000,Nyahururu,28-May-26,Daraja (6 Wks),10000,2167,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Jacob Koech,,0724442266,Fridah Kimagal,10000,072214101,12000,Nyahururu,28-May-26,Daraja (4 Wks),10000,3000,20,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Mary Muchiri,,0713944872,Jecinta Kirichu,7000,0796323736,10000,Nyahururu,28-May-26,Daraja (6 Wks),7000,3000,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Jacinter Chege,,0748086530,Lydiah Kamau,7000,0721133465,10000,Nyahururu,28-May-26,Daraja (6 Wks),7000,3000,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Hannah Muraguri,,0746405759,sarah Migwi,8000,0718102970,11000,Nyahururu,29-May-26,Daraja (6 Wks),8000,3000,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Margaret Ndaruga,,0700016404,charity karia,7000,0725939468,10000,Nyahururu,29-May-26,Daraja (6 Wks),7000,3000,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Irene Muinde,,0701676104,Hannah Kabuku,10000,0729238210,13000,Nyahururu,29-May-26,Daraja (6 Wks),10000,3000,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Samuel gichia,,0702028822,Paul Macharia,10000,0713501528,13000,Nyahururu,29-May-26,Daraja (6 Wks),10000,3000,30,IN ARREARS,May Disbursement-nyahururu-branch.csv
+Gladwel Thindi,,0727387416,Susan Wanjohi,,0710954164,8668,Nyahururu,1/9/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Catherine Mbuni,,0727865456,Hannah Macharia,,0726503829,15500,Nyahururu,1/9/2026,Ngaa (6 Wks),30000,6750,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Racheal Mwangi,,0741590773,Alice Irungu,5216122,0791282933,6668,Nyahururu,2/9/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Jane Theuri,,0795544079,John Theuri,,0713472309,6501,Nyahururu,2/9/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Mary Karuri,,0721994091,Catherine Karuri,,0715747740,8668,Nyahururu,2/9/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Esther Gachingiri,,0795157747,Rose Muchoki,,0757630138,6668,Nyahururu,4/9/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Jane Njoroge,,0720552419,Samwel Njoroge,,0756240295,8000,Nyahururu,4/9/2026,Daraja (6 Wks),9000,2000,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Elizabeth Mathaga,,0706607577,Moses Mathaga,5173672,0743458451,6501,Nyahururu,4/9/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Esther Jairus,,0112149690,Lukas Ngugi,,0759900772,13002,Nyahururu,7/9/2026,wezesha (6 Wks),20000,4334,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Jeddy Wachira,,0707593937,Everline   Wachira,3647165,0704452061,5001,Nyahururu,7/9/2026,Daraja (6 Wks),10000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Serah Nganga,,0724164082,Rachel Njoroge,,0727992553,9000,Nyahururu,7/9/2026,Daraja (4 Wks),10000,3000,20,IN ARREARS,sep-balances-nyahuru-branch.csv
+Mercy Macharia,,0715228494,Mercy Njoiki,,0727816849,3934,Nyahururu,7/9/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Alloys Mathenge,,0799332321,Cicily Wambui,28614982,0717004382,5001,Nyahururu,8/9/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Mary Remoi,,0701169467,Agnes Barno,,0712438585,5802,Nyahururu,8/9/2026,Daraja (6 Wks),8000,1834,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Martin Kiarie,,0718846710,Paul Kimani,,0708382465,7800,Nyahururu,8/9/2026,Vuka (6 Wks),12000,2600,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Jesika Kangala,,0797775990,Jane Nyambura,,0748608288,9102,Nyahururu,8/9/2026,Vuka (6 Wks),14000,3034,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+virginia wairimu,,0718871498,Rahab Nyambura,,0700144012,3134,Nyahururu,8/9/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Maureen Waweru,,0727877025,Sarah Chege,,0726297808,5001,Nyahururu,8/9/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Lukas Kabui,,0759900772,Micheal Gatimu,,0710625385,8250,Nyahururu,8/9/2026,Daraja (4 Wks),9000,2750,20,IN ARREARS,sep-balances-nyahuru-branch.csv
+Magdaline Karuri,,0727364504,Jane Njogu,10512975,0792519004,7800,Nyahururu,8/9/2026,Vuka (6 Wks),12000,2600,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Daniel Gitau,,0794416300,Glady Njeri,,0728397868,5001,Nyahururu,9/9/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Joyce Macharia,,0729417206,Joseph Gachoki,8678387,0745945541,6501,Nyahururu,9/9/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Teresia Kinyua,14476495,0705400456,Francis Njoroge,13210626,0746322882,5502,Nyahururu,9/9/2026,Daraja (6 Wks),8000,1834,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Catherine Nduta,,0720340478,Esther Mwaniki,23255554,0720132021,6750,Nyahururu,9/9/2026,Daraja (4 Wks),7000,2250,20,IN ARREARS,sep-balances-nyahuru-branch.csv
+Catherine Muchoki,,0792612031,Mary Wanjiku,29104668,0716523140,4600,Nyahururu,9/9/2029,Daraja (6 Wks),7000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Joseph Mwangi,,0799835033,Esther Wambui,26757694,0726683825,6501,Nyahururu,10/9/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Jane Njogu,,0746811444,John Nderitu,2266044,0115403692,6000,Nyahururu,10/9/2026,Daraja (6 Wks),9000,2000,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Lucia Macharia,,0715390575,Daniel Maina,30815397,0759859581,6501,Nyahururu,10/9/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Charity Mwangi,,0724210636,Rosemary Njeri,,0740491220,6501,Nyahururu,10/9/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Winnie Mwangi,,0715616331,kelvin Mwangi,,0704690718,7800,Nyahururu,10/9/2026,Vuka (6 Wks),12000,2600,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Joyce Munyiri,,0740300218,Neema Loliam,23148113,0722117246,5001,Nyahururu,10/9/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Martha Kariuki,,0742751846,Janet Matanu,,0711346285,5001,Nyahururu,10/9/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Salome Kibunja,,0719105265,Daniel Gitau,,0726580019,6501,Nyahururu,10/9/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Caroline Ngari,,0740605836,Monica Ngige,,0703215864,5007,Nyahururu,10/9/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Mary Kingori,,0792149332,Mary Wangui,,0721786012,1967,Nyahururu,11/9/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Jedidah Wambui,,0705102985,Joy Kamwere,,0714203055,3334,Nyahururu,11/9/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Naomi Gituria,,0794029149,Esther Gweche,,0717512042,5001,Nyahururu,11/9/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Kelvin Njau,,0796250750,Julius Njau,35392700,0741199155,10800,Nyahururu,11/9/2026,Vuka (4 Wks),12000,3600,20,IN ARREARS,sep-balances-nyahuru-branch.csv
+Susan Mwaura,,0724350985,Rachel Kiambati,,0796102762,5100,Nyahururu,11/9/2026,Daraja (4 Wks),10000,3000,20,IN ARREARS,sep-balances-nyahuru-branch.csv
+Joyce Mwangi,,0711686002,David Mwangi,,0757069418,4600,Nyahururu,14/9/2026,Vuka (6 Wks),12000,2600,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Joseph Munene,,0714716360,Richard Kamau,,0758589148,4334,Nyahururu,14/9/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Esther Ngugi,,0710540080,Joyce Njoroge,,0724066021,5200,Nyahururu,14/9/2026+A55:A62,Vuka (6 Wks),12000,2600,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Ann Wangari,,0705304253,Naomi Bosibori,,0706841567,4334,Nyahururu,14/9/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Susan Mburu,,0113300495,Charles Nganga,,0721920114,3334,Nyahururu,14/9/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Jennifer Samuel,,0725709459,Kenneth kuria,13685946,0722416830,3668,Nyahururu,14/9/2026,Daraja (6 Wks),8000,1834,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Mary Mwangi,,0714885607,Simon Mwangi,,0796216948,5200,Nyahururu,14/9/2026,Vuka (6 Wks),12000,2600,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Mercy Njuguna,,0746828913,Grace Mwenda,,0718529941,3334,Nyahururu,15/9/2026,Daraja (6 Wks),8000,1834,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Simon Mwago,,0796216948,Peris Gathoni,28461332,0720001026,4334,Nyahururu,15/9/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Milfridah Manyibe,,0742982500,Peter Onyari,9149045,0723791251,4000,Nyahururu,16/9/2026,Daraja (6 Wks),9000,2000,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Daniel Ekadeli,,07922579608,Paulina Isaka,40090371,0743748162,2167,Nyahururu,16/9/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Agnes Machua,,0724446422,Mercy Busianei,,0726768133,3334,Nyahururu,16/9/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Hannah Muraguri,,0746405759,Sara Migwi,,0718102970,3668,Nyahururu,16/9/2026,Daraja (6 Wks),8000,1834,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Hannah Kuria,,0799871943,Sarah Kuria,30667729,0742728359,2600,Nyahururu,16/9/2026,Vuka (6 Wks),12000,2600,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Sarah Ndungu,,0706439225,Alex Mwiti,42319022,010660229,6000,Nyahururu,16/9/2026,Daraja (4 Wks),10000,3000,20,IN ARREARS,sep-balances-nyahuru-branch.csv
+Patricia Waithera,,0721111140,Charity  Wangui,2134179,0712561516,3334,Nyahururu,16/9/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Edwin Gaka,,0797064363,Wilson Mutonga,,0717892112,3067,Nyahururu,16/9/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Sarah Nderitu,,0715706681,Samuel Maina,,0722948117,11350,Nyahururu,17/9/2026,Paa (6 Wks),25000,5675,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Susyline Mukomunene,,0723495587,Joyce Macharia,13211850,0729417206,4100,Nyahururu,17/9/2026,Vuka (6 Wks),12000,2600,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Francis Njinju,,0704424647,Peter Mwaura,20396292,0711767396,3867,Nyahururu,17/9/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Zipporah Mureiithi,,0700480519,Teresiah Maina,,0715873084,3668,Nyahururu,17/9/2026,Daraja (6 Wks),8000,1834,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Peter Waihenja,,0712833328,Elizabeth Wangari,,0792402413,5200,Nyahururu,17/9/2026,Vuka (6 Wks),12000,2600,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Godfrey Maina,,0715365131,Philis Maina,,0713543764,5200,Nyahururu,18/9/2026,Vuka (6 Wks),12000,2600,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Samwel Gichia,,0702028822,Paul Mwangi,,0713501528,4334,Nyahururu,18/9/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Boniface Wanjiru,,0758394044,kelvin Mwangi,,0746652412,3334,Nyahururu,18/9/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Pauline Kamau,,0708448209,Ann Mugambi,,0116691166,4334,Nyahururu,18/9/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+James Kaboro,,0703915750,Rose Kamuri,,0720024027,1866,Nyahururu,18/9/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Mary Wambui,,0757091865,Gladys Wahito,,0725084524,1667,Nyahururu,18/9/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Samuel Muya,,0725380367,Hellen Muiruri,,0728534959,2167,Nyahururu,21/9/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Tabitha Macharia,,0704244146,Christine Makena,25716147,0725385232,2167,Nyahururu,21/9/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Anthony Munene,,0714076538,Ibrahim Kingori,,0798654955,3000,Nyahururu,21/9/2026,Daraja (4 Wks),10000,3000,20,IN ARREARS,sep-balances-nyahuru-branch.csv
+Patricia Githinji,,0727828552,Jane Wanjiku,21703988,0726657229,1667,Nyahururu,21/9/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Esther Lomelo,,0725995376,Mercy Nabei,41854695,0741508090,2250,Nyahururu,21/9/2026,Daraja (4 Wks),7000,2250,20,IN ARREARS,sep-balances-nyahuru-branch.csv
+Faith Muturi,,0721318231,Eunice Nyambura,20281492,0705850703,2600,Nyahururu,21/9/2026,Vuka (6 Wks),12000,2600,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Grace Wangui,,0705191158,Grace Cherotich,37056737,0762070095,2903,Nyahururu,21/9/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Anthony Muthoni,,0724479261,Joyce Ndunge,,0728649729,3000,Nyahururu,22/9/2026,Daraja (4 Wks),10000,3000,20,IN ARREARS,sep-balances-nyahuru-branch.csv
+Agnes Mwihaki,20043507,0713101470,Mary Maina,,0110724989,1050,Nyahururu,22/9/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Martha Mwinga,13132580,0711869409,Ann Mwangi,21867011,0710686602,1667,Nyahururu,22/9/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Tabitha Muiga,,0729828281,Susan Muchiri,2887671,0713328411,1650,Nyahururu,22/9/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Rahab Kabui,,0711227118,Benson Mwaniki,,0724382862,6750,Nyahururu,22/9/2026,Ngaa (6 Wks),30000,6750,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Hillary Kirwa,,0729518016,Norman Ngige,,0711063122,1834,Nyahururu,22/9/2026,Daraja (6 Wks),8000,1834,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Alice Ngugi,,0729144308,Margaret Macharia,42101696,0700570661,2167,Nyahururu,22/9/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Jane Kuuti,,0768824476,Diana Okeyo,40206258,0768094794,1834,Nyahururu,22/9/2026,Daraja (6 Wks),8000,1834,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Teresa Gatheru,,0724836941,Grace Njeri,,0743320897,3000,Nyahururu,22/9/2026,Daraja (4 Wks),10000,3000,20,IN ARREARS,sep-balances-nyahuru-branch.csv
+Florence Wandaka,,0714359854,James  Karika,564306086,0715778506,6750,Nyahururu,23/9/2026,Ngaa (6 Wks),30000,6750,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Bancy Waweru,,0711973607,Peter Njoroge,4671412,0742103835,6000,Nyahururu,23/9/2026,wezesha (4 Wks),20000,6000,20,IN ARREARS,sep-balances-nyahuru-branch.csv
+Leonard Kamwaro,,0723849109,Alfred Etale,25788317,0711237285,2167,Nyahururu,23/9/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Micheal Ndege,,0729823193,Charles Kirugo,,0717722011,6750,Nyahururu,24/9/2026,Ngaa (6 Wks),30000,6750,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Harun Nguchita,,0707029040,Magdaline Maina,,0707029040,4334,Nyahururu,24/9/2026,wezesha (6 Wks),20000,4334,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Esther Kimari,,0726683825,Rahab Njambi,25284182,0746194202,2167,Nyahururu,24/9/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Jane Ndirangu,36004000,0758091413,Winnie ndirangu,32416632,0759607572,3000,Nyahururu,24/9/2026,Daraja (4 Wks),10000,3000,20,IN ARREARS,sep-balances-nyahuru-branch.csv
+Selina  Ekitela,,0745464053,Susan Lomonyang,10316935,0792049791,1667,Nyahururu,24/9/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Keziah Wangechi,29484668,0115006398,Beatrice Wangu,33115042,0,2250,Nyahururu,24/9/2026,Daraja (4 Wks),7000,2250,20,IN ARREARS,sep-balances-nyahuru-branch.csv
+Mercy Njuguna,,0794817796,Zipporah Njuki,,0702282198,2250,Nyahururu,25/9/2026,Daraja (4 Wks),7000,2250,20,IN ARREARS,sep-balances-nyahuru-branch.csv
+Mary Kariuki,,0707655312,Janet Matanu,,0711346285,2167,Nyahururu,25/9/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Leah Kanyango,,0721950008,Alice Wachira,,0727258550,2250,Nyahururu,25/9/2026,Daraja (4 Wks),7000,2250,20,IN ARREARS,sep-balances-nyahuru-branch.csv
+Susan Mburu,,0791542906,Esther Njoroge,13219284,0710467216,2167,Nyahururu,25/9/2026,Daraja (6 Wks),10000,2167,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Caroline Kimuhu,,0758849257,Stephen Kinyanjui,,0748300019,2500,Nyahururu,25/9/2026,Daraja (4 Wks),8000,2500,20,IN ARREARS,sep-balances-nyahuru-branch.csv
+Papeshwa Githinji,,0716339627,Magdaline Wambui,2950661,0740182164,3000,Nyahururu,25/9/2026,Daraja (4 Wks),10000,3000,20,IN ARREARS,sep-balances-nyahuru-branch.csv
+Molly Atieno,,0703832288,Jerusha Chege,21867011,0725544551,1670,Nyahururu,25/9/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Faith Nduta,,0715024838,Alice wanjiru,11468072,0705729772,2250,Nyahururu,25/9/2026,Daraja (4 Wks),7000,2250,20,IN ARREARS,sep-balances-nyahuru-branch.csv
+Elizabeth Lesurment,38594534,0113811503,Serah Mugure,38594534,0705287823,2250,Nyahururu,25/9/2026,Daraja (4 Wks),7000,2250,20,IN ARREARS,sep-balances-nyahuru-branch.csv
+Doreen Kipchirchir,,0791981144,Naomi Muthoni,,0714584701,1667,Nyahururu,25/9/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Damaris Kimathi,,0728290725,Elizabeth Wangui,2850183,0714592685,2600,Nyahururu,25/9/2026,Vuka (6 Wks),12000,2600,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Jane Ngata,,0743647697,Charles Munene,,0741796731,2250,Nyahururu,25/9/2026,Daraja (4 Wks),7000,2250,20,IN ARREARS,sep-balances-nyahuru-branch.csv
+Kelvin Kimaru,,0700677627,Charity Karia,,0724348241,1667,Nyahururu,25/9/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Benson Wahome,,0748485559,David Kamau,,0791470552,0,Nyahururu,28/9/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Simon Mtikiugu,,0798632927,Peter  waititu,,0720323599,0,Nyahururu,28/9/2026,Daraja (4 Wks),10000,3000,20,IN ARREARS,sep-balances-nyahuru-branch.csv
+Judy Gitau,,0722527858,Penina maina,,0722706813,0,Nyahururu,28/9/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+John  Mwangi,,0720241837,Monica Njeri,,0794326731,0,Nyahururu,28/9/2026,Daraja (4 Wks),10000,3000,20,IN ARREARS,sep-balances-nyahuru-branch.csv
+Beth Wairimu,,0720630896,Martha Wairimu,37183640,0113244500,0,Nyahururu,28/9/2026,Daraja (6 Wks),8000,1834,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Esther Kahihia,,0722655548,Mary Wanjiru,,0701481316,0,Nyahururu,28/9/2026,Daraja (6 Wks),8000,1834,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Agnes Muburi,,0704163771,Teresiah Gichohi,21631981,0727306592,0,Nyahururu,28/9/2026,wezesha (4 Wks),20000,6000,20,IN ARREARS,sep-balances-nyahuru-branch.csv
+James Wanyiri,,0714503794,Joyce Kiboi,35237828,0745128614,0,Nyahururu,28/9/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Gladys Waweru,,0717622386,Milka Wanjiku,,01088117449,0,Nyahururu,29/9/2026,Vuka (4 Wks),12000,3600,20,IN ARREARS,sep-balances-nyahuru-branch.csv
+Grace Gachuhi,,0726949202,Tabitha Ndegwa,,0728773170,0,Nyahururu,29/9/2026,Daraja (4 Wks),7000,2250,20,IN ARREARS,sep-balances-nyahuru-branch.csv
+Edwin Wanjohi,,0742033906,Peter Irungu,,0790412246,0,Nyahururu,29/9/2026,Daraja (6 Wks),7000,1667,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Lydiah Kamau,,0701035799,Ann Mwangi,,0703322932,0,Nyahururu,29/9/2026,Vuka (6 Wks),15000,3250,30,IN ARREARS,sep-balances-nyahuru-branch.csv
+Simon Loter,,0791933445,Charles Wambugu,6835432,0726765939,9000,Nyahururu,2/10/2026,Daraja (4 Wks),7000,0,20,COMPLETED,OCTOBER DISBURSEMENT NYAHURURU.csv
+Alice Wairimu,,0715068622,John Mucheru,37173662,0790275139,10000,Nyahururu,2/10/2026,Daraja (6 Wks),7000,0,30,COMPLETED,OCTOBER DISBURSEMENT NYAHURURU.csv
+Serah Muthura,,0725818764,Mary Kariuki,12487050,0720847355,10000,Nyahururu,2/10/2026,Daraja (4 Wks),8000,0,20,COMPLETED,OCTOBER DISBURSEMENT NYAHURURU.csv
+Peter Mbugua,,0721356359,Duncan Njeri,,0721401919,9000,Nyahururu,2/10/2026,Daraja (4 Wks),7000,0,20,COMPLETED,OCTOBER DISBURSEMENT NYAHURURU.csv
+James Njuguna,,0718886595,Joseph Njoroge,,0726547536,10000,Nyahururu,2/10/2026,Daraja (6 Wks),7000,0,30,COMPLETED,OCTOBER DISBURSEMENT NYAHURURU.csv
+Lucy Munene,,0720813561,Cecilia  Mumbua,36275179,0715426487,24800,Nyahururu,2/10/2026,wezesha (6 Wks),19000,0,30,COMPLETED,OCTOBER DISBURSEMENT NYAHURURU.csv
+George Njuguna,,0710733293,Peter Ndungu,348261322,0742259071,10000,Nyahururu,2/10/2026,Daraja (6 Wks),7000,0,30,COMPLETED,OCTOBER DISBURSEMENT NYAHURURU.csv
+Josphat Gitonga,,0748310063,Simon Mwangi,9812519,0721425519,13000,Nyahururu,2/10/2026,Daraja (6 Wks),10000,0,30,COMPLETED,OCTOBER DISBURSEMENT NYAHURURU.csv
+Margaret Muchemi,27744743,0700430558,Miriam Maina,,0724225761,10000,Nyahururu,2/10/2026,Daraja (6 Wks),7000,0,30,COMPLETED,OCTOBER DISBURSEMENT NYAHURURU.csv
+Esther kimani,,0719700664,peter kimani,,0107748401,10000,Nyahururu,2/10/2026,Daraja (6 Wks),7000,0,30,COMPLETED,OCTOBER DISBURSEMENT NYAHURURU.csv
+Pierra Makena,,0740854760,James Manyara,21148395,0744847721,15600,Nyahururu,2/10/2026,Vuka (6 Wks),12000,0,30,COMPLETED,OCTOBER DISBURSEMENT NYAHURURU.csv
+Diana Kageha,,0769409406,Tabitha Wandaka,,0700469416,14400,Nyahururu,2/10/2026,Vuka (4 Wks),12000,0,20,COMPLETED,OCTOBER DISBURSEMENT NYAHURURU.csv
+Janet Koech,,0795884457,Regina Lorei,22958472,0724263450,10000,Nyahururu,2/10/2026,Daraja (6 Wks),7000,0,30,COMPLETED,OCTOBER DISBURSEMENT NYAHURURU.csv
+Beatrice  Achoto,34385557,0795314749,Jedidah Kamais,31757130,0726271471,10000,Nyahururu,3/10/2026,Daraja (6 Wks),7000,0,30,COMPLETED,OCTOBER DISBURSEMENT NYAHURURU.csv
+Rodah Ngarari,,0725559308,Susan Wanjiku,,0705102133,10000,Nyahururu,3/10/2026,Daraja (6 Wks),7000,0,30,COMPLETED,OCTOBER DISBURSEMENT NYAHURURU.csv
+Naomi Mbuthia,,0790058345,Peter Kabata,,011510784,10000,Nyahururu,3/10/2026,Daraja (4 Wks),8000,0,20,COMPLETED,OCTOBER DISBURSEMENT NYAHURURU.csv
+Marion Karunge,,0791046162,Ann Waruru,,0714388690,10000,Nyahururu,3/10/2026,Daraja (6 Wks),7000,0,30,COMPLETED,OCTOBER DISBURSEMENT NYAHURURU.csv
+Daniel Wambui,,0728981668,Sabina Akope,32435433,0769325233,10000,Nyahururu,,Daraja (6 Wks),7000,0,30,COMPLETED,OCTOBER DISBURSEMENT NYAHURURU.csv
+Jecinta Nduta,,0769621536,Grace Njuguna,20781055,0724544938,13000,Nyahururu,,Daraja (6 Wks),10000,0,30,COMPLETED,OCTOBER DISBURSEMENT NYAHURURU.csv
