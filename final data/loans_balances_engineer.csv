@@ -1,0 +1,17 @@
+﻿Loan Number,Client Name,Client ID,Client Phone,Guarantor Name,Guarantor Contact,Product Name,Principal,Balance,Interest Rate,Disbursement Date,Maturity Date,Branch,Loan Officer,Status,Arrears Indicator,Source File
+LN-466,,,,,,Daraja (6 Wks),10000,8666,30,9/11/2026,51/11/2026,ENGINEER,,YES - In Arrears,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv
+LN-465,,,,,,wezesha (6 Wks),20000,17332,30,9/11/2026,51/11/2026,ENGINEER,,YES - In Arrears,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv
+LN-467,,,,,,Daraja (6 Wks),10000,9000,30,9/11/2026,51/11/2026,ENGINEER,,YES - In Arrears,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv
+LN-505,,,,,,Daraja (6 Wks),10000,12000,30,9/11/2026,51/11/2026,ENGINEER,,YES - In Arrears,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv
+LN-462,,,,,,Daraja (6 Wks),7000,4500,30,9/10/2026,51/10/2026,ENGINEER,,YES - In Arrears,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv
+LN-463,,,,,,wezesha (6 Wks),20000,CLEARED,30,9/10/2026,51/10/2026,ENGINEER,,NO - Paid,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv
+LN-464,,,,,,Daraja (6 Wks),10000,CLEARED,30,9/10/2026,51/10/2026,ENGINEER,,NO - Paid,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv
+LN-461,,,,,,Daraja (6 Wks),8000,CLEARED,30,9/9/2026,51/9/2026,ENGINEER,38590917,NO - Paid,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv
+LN-460,,,,,,wezesha (6 Wks),20000,CLEARED,30,9/9/2026,51/9/2026,ENGINEER,38439700,NO - Paid,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv
+LN-459,,,,,,wezesha (6 Wks),20000,CLEARED,30,9/9/2026,51/9/2026,ENGINEER,38439700,NO - Paid,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv
+LN-458,,,,,,Daraja (6 Wks),10000,CLEARED,30,9/7/2026,51/7/2026,ENGINEER,38439700,NO - Paid,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv
+LN-457,,,,,,Vuka (6 Wks),15000,CLEARED,30,9/4/2026,51/4/2026,ENGINEER,38439700,NO - Paid,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv
+LN-456,,,,,,Daraja (6 Wks),10000,CLEARED,30,9/4/2026,51/4/2026,ENGINEER,38439700,NO - Paid,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv
+LN-511,,,,,,Daraja (6 Wks),8000,10000,30,10/2/2026,52/2/2026,ENGINEER,,YES - In Arrears,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv
+LN-512,,,,,,Daraja (6 Wks),8000,10000,30,10/2/2026,52/2/2026,ENGINEER,,YES - In Arrears,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv
+LN-510,,,,,,Daraja (6 Wks),7000,9000,30,10/2/2026,52/2/2026,ENGINEER,,YES - In Arrears,Migrated from ENGINEER BRANCH DISBURSEMENT & OLB Report (1) (3).csv

@@ -1,0 +1,180 @@
+﻿Loan Number,Client Name,Client ID,Client Phone,Guarantor Name,Guarantor Contact,Product Name,Principal,Balance,Interest Rate,Disbursement Date,Maturity Date,Branch,Loan Officer,Status,Arrears Indicator,Source File
+LN-529,,,792612031,,,Daraja (6 Wks),7000,10000,30,9/9/2029,51/9/2029,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-588,,,742033906,,,Daraja (6 Wks),7000,10000,30,29/9/2026,71/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-589,,,701035799,,,Vuka (6 Wks),15000,19500,30,29/9/2026,71/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-587,,,717622386,,,Vuka (4 Wks),12000,14400,20,29/9/2026,57/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-585,,,722655548,,,Daraja (6 Wks),8000,11000,30,28/9/2026,70/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-584,,,720630896,,,Daraja (6 Wks),8000,11000,30,28/9/2026,70/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-582,,,722527858,,,Daraja (6 Wks),7000,10000,30,28/9/2026,70/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-583,,,720241837,,,Daraja (4 Wks),10000,12000,20,28/9/2026,56/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-580,,,748485559,,,Daraja (6 Wks),7000,10000,30,28/9/2026,70/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-581,,,798632927,,,Daraja (4 Wks),10000,12000,20,28/9/2026,56/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-586,,,704163771,,,wezesha (4 Wks),20000,24000,20,28/9/2026,56/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-572,,,707655312,,,Daraja (6 Wks),10000,13000,30,25/9/2026,67/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-573,,,721950008,,,Daraja (4 Wks),7000,9000,20,25/9/2026,53/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-571,,,794817796,,,Daraja (4 Wks),7000,9000,20,25/9/2026,53/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-578,,,743647697,,,Daraja (4 Wks),7000,9000,20,25/9/2026,53/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-574,,,791542906,,,Daraja (6 Wks),10000,13000,30,25/9/2026,67/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-577,,,728290725,,,Vuka (6 Wks),12000,15600,30,25/9/2026,67/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-576,,,716339627,,,Daraja (4 Wks),10000,12000,20,25/9/2026,53/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-575,,,758849257,,,Daraja (4 Wks),8000,10000,20,25/9/2026,53/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-579,,,700677627,,,Daraja (6 Wks),7000,10000,30,25/9/2026,67/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-570,,,758091413,,,Daraja (4 Wks),10000,12000,20,24/9/2026,52/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-569,,,726683825,,,Daraja (6 Wks),10000,13000,30,24/9/2026,66/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-567,,,711973607,,,wezesha (4 Wks),20000,20000,20,23/9/2026,51/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-566,,,714359854,,,Ngaa (6 Wks),30000,40500,30,23/9/2026,65/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-568,,,723849109,,,Daraja (6 Wks),10000,13000,30,23/9/2026,65/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-560,,,729828281,,,Daraja (6 Wks),7000,10000,30,22/9/2026,64/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-559,,,724479261,,,Daraja (4 Wks),10000,12000,20,22/9/2026,50/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-565,,,724836941,,,Daraja (4 Wks),10000,12000,20,22/9/2026,50/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-563,,,729144308,,,Daraja (6 Wks),10000,13000,30,22/9/2026,64/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-564,,,768824476,,,Daraja (6 Wks),8000,11000,30,22/9/2026,64/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-561,,,711227118,,,Ngaa (6 Wks),30000,40500,30,22/9/2026,64/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-562,,,729518016,,,Daraja (6 Wks),8000,11000,30,22/9/2026,64/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-557,,,721318231,,,Vuka (6 Wks),12000,15600,30,21/9/2026,63/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-556,,,714076538,,,Daraja (4 Wks),10000,12000,20,21/9/2026,49/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-555,,,704244146,,,Daraja (6 Wks),10000,13000,30,21/9/2026,63/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-554,,,725380367,,,Daraja (6 Wks),10000,13000,30,21/9/2026,63/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-558,,,705191158,,,Daraja (6 Wks),7000,10000,30,21/9/2026,63/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-663,,,254797584851,,,Karibu (4 Wks),5000,1500,20,19/9/2026,47/9/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-551,,,708448209,,,Daraja (6 Wks),10000,13000,30,18/9/2026,60/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-550,,,702028822,,,Daraja (6 Wks),10000,13000,30,18/9/2026,60/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-549,,,715365131,,,Vuka (6 Wks),12000,15600,30,18/9/2026,60/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-660,,,254727698567,,,wezesha (4 Wks),18000,5400,20,18/9/2026,46/9/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-553,,,757091865,,,Daraja (6 Wks),7000,10000,30,18/9/2026,60/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-552,,,703915750,,,Daraja (6 Wks),7000,10000,30,18/9/2026,60/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-547,,,700480519,,,Daraja (6 Wks),8000,11000,30,17/9/2026,59/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-548,,,712833328,,,Vuka (6 Wks),12000,15600,30,17/9/2026,59/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-546,,,704424647,,,Daraja (6 Wks),10000,13000,30,17/9/2026,59/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-545,,,715706681,,,Paa (6 Wks),25000,34050,30,17/9/2026,59/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-540,,,724446422,,,Daraja (6 Wks),7000,10000,30,16/9/2026,58/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-539,,,7922579608,,,Daraja (6 Wks),10000,13000,30,16/9/2026,58/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-538,,,742982500,,,Daraja (6 Wks),9000,12000,30,16/9/2026,58/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-541,,,746405759,,,Daraja (6 Wks),8000,11000,30,16/9/2026,58/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-544,,,797064363,,,Daraja (6 Wks),7000,10000,30,16/9/2026,58/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-543,,,706439225,,,Daraja (4 Wks),10000,12000,20,16/9/2026,44/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-542,,,799871943,,,Vuka (6 Wks),12000,15600,30,16/9/2026,58/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-532,,,714716360,,,Daraja (6 Wks),10000,13000,30,14/9/2026,56/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-534,,,705304253,,,Daraja (6 Wks),10000,13000,30,14/9/2026,56/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-535,,,113300495,,,Daraja (6 Wks),7000,10000,30,14/9/2026,56/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-537,,,714885607,,,Vuka (6 Wks),12000,15600,30,14/9/2026,56/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-536,,,725709459,,,Daraja (6 Wks),8000,11000,30,14/9/2026,56/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-531,,,711686002,,,Vuka (6 Wks),12000,15600,30,14/9/2026,56/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-530,,,799835033,,,Daraja (6 Wks),10000,13000,30,10/9/2026,52/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-527,,,794416300,,,Daraja (6 Wks),7000,10000,30,9/9/2026,51/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-528,,,729417206,,,Daraja (6 Wks),10000,13000,30,9/9/2026,51/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-523,,,797775990,,,Vuka (6 Wks),14000,18200,30,8/9/2026,50/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-522,,,718846710,,,Vuka (6 Wks),12000,15600,30,8/9/2026,50/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-524,,,718871498,,,Daraja (6 Wks),7000,10000,30,8/9/2026,50/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-526,,,759900772,,,Daraja (4 Wks),9000,11000,20,8/9/2026,36/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-525,,,727877025,,,Daraja (6 Wks),7000,10000,30,8/9/2026,50/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-521,,,715228494,,,Daraja (6 Wks),7000,10000,30,7/9/2026,49/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-518,,,112149690,,,wezesha (6 Wks),20000,26000,30,7/9/2026,49/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-519,,,707593937,,,Daraja (6 Wks),10000,10000,30,7/9/2026,49/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-520,,,724164082,,,Daraja (4 Wks),10000,12000,20,7/9/2026,35/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-515,,,795157747,,,Daraja (6 Wks),7000,10000,30,4/9/2026,46/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-516,,,720552419,,,Daraja (6 Wks),9000,12000,30,4/9/2026,46/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-517,,,706607577,,,Daraja (6 Wks),10000,13000,30,4/9/2026,46/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-513,,,741590773,,,Daraja (6 Wks),7000,10000,30,2/9/2026,44/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-514,,,721994091,,,Daraja (6 Wks),10000,13000,30,2/9/2026,44/9/2026,Unknown,,YES - In Arrears,Migrated from FIIILTER.csv
+LN-688,,,254797396337,,,Daraja (4 Wks),10000,3000,20,22/5/2026,50/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-687,,,254705311814,,,Daraja (6 Wks),7000,1667,30,22/5/2026,64/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-686,,,254798632927,,,Daraja (4 Wks),10000,3000,20,22/5/2026,50/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-689,,,254721961454,,,Daraja (6 Wks),7000,1667,30,22/5/2026,64/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-692,,,254796250750,,,Vuka (6 Wks),15000,3250,30,22/5/2026,64/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-691,,,254795544079,,,Daraja (6 Wks),8000,1834,30,22/5/2026,64/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-690,,,254769573260,,,Daraja (6 Wks),10000,2167,30,22/5/2026,64/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-678,,,254769409406,,,Daraja (4 Wks),7000,2250,20,21/5/2026,49/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-680,,,254726145455,,,Daraja (4 Wks),7000,2250,20,21/5/2026,49/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-679,,,254704163771,,,wezesha (4 Wks),20000,6000,20,21/5/2026,49/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-677,,,254793621965,,,wezesha (4 Wks),20000,6000,20,21/5/2026,49/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-681,,,254714716360,,,Daraja (6 Wks),10000,2167,30,21/5/2026,63/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-684,,,254720630896,,,Daraja (6 Wks),8000,1834,30,21/5/2026,63/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-685,,,254745464053,,,Daraja (6 Wks),7000,1667,30,21/5/2026,63/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-682,,,254724701702,,,Vuka (6 Wks),12000,2600,30,21/5/2026,63/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-683,,,254721991675,,,Karibu (4 Wks),5000,1500,20,21/5/2026,49/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-674,,,254790244173,,,Daraja (6 Wks),10000,2167,30,20/5/2026,62/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-675,,,254797775990,,,Vuka (6 Wks),12000,2600,30,20/5/2026,62/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-672,,,254794861894,,,Daraja (6 Wks),10000,2167,30,20/5/2026,62/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-673,,,254790058345,,,Daraja (6 Wks),8000,2500,30,20/5/2026,62/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-670,,,254727387416,,,Vuka (6 Wks),12000,2600,30,20/5/2026,62/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-671,,,254727176910,,,Ngaa (6 Wks),30000,6750,30,20/5/2026,62/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-676,,,254729518016,,,Karibu (4 Wks),5000,1500,20,20/5/2026,48/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-669,,,254796291816,,,Daraja (6 Wks),7000,1667,30,20/5/2026,62/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-667,,,254707670443,,,Daraja (6 Wks),10000,2167,30,19/5/2026,61/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-668,,,254714885607,,,Vuka (6 Wks),12000,2600,30,19/5/2026,61/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-666,,,254723858169,,,Daraja (4 Wks),7000,2250,20,19/5/2026,47/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-665,,,254724836941,,,Daraja (4 Wks),10000,3000,20,19/5/2026,47/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-664,,,254799871943,,,Daraja (6 Wks),10000,2167,30,19/5/2026,61/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-662,,,254711312215,,,Daraja (6 Wks),10000,2167,30,18/5/2026,60/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-661,,,254706439225,,,Daraja (4 Wks),10000,3000,20,18/5/2026,46/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-657,,,254701169467,,,Daraja (6 Wks),8000,1834,30,15/5/2026,57/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-650,,,254700934013,,,Vuka (4 Wks),12000,3600,20,15/5/2026,43/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-651,,,254715390575,,,Daraja (6 Wks),10000,2167,30,15/5/2026,57/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-659,,,254724712026,,,Daraja (4 Wks),10000,3000,20,15/5/2026,43/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-655,,,254702899233,,,Daraja (6 Wks),7000,1667,30,15/5/2026,57/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-653,,,254700083991,,,Daraja (4 Wks),7000,2250,20,15/5/2026,43/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-654,,,254727833081,,,Vuka (6 Wks),15000,3250,30,15/5/2026,57/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-658,,,254769621536,,,Vuka (6 Wks),14000,3034,30,15/5/2026,57/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-652,,,254722655548,,,Daraja (6 Wks),8000,1834,30,15/5/2026,57/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-656,,,254721994091,,,Daraja (6 Wks),8000,1834,30,15/5/2026,57/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-647,,,254769694106,,,Daraja (4 Wks),10000,3000,20,14/5/2026,42/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-642,,,254723495587,,,Vuka (6 Wks),15000,3250,30,14/5/2026,56/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-643,,,254791542906,,,Daraja (6 Wks),10000,2167,30,14/5/2026,56/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-646,,,254724024611,,,Daraja (6 Wks),10000,2167,30,14/5/2026,56/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-645,,,254746811444,,,Daraja (6 Wks),7000,1667,30,14/5/2026,56/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-649,,,254700549110,,,Daraja (6 Wks),10000,2170,30,14/5/2026,56/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-644,,,254116140156,,,Daraja (6 Wks),10000,2167,30,14/5/2026,56/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-648,,,254722340765,,,Vuka (6 Wks),15000,3250,30,14/5/2026,56/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-634,,,254720853132,,,Daraja (6 Wks),10000,3000,30,13/5/2026,55/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-635,,,254706607577,,,Daraja (6 Wks),10000,2617,30,13/5/2026,55/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-633,,,254714359854,,,Paa (6 Wks),25000,5675,30,13/5/2026,55/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-640,,,254711973607,,,wezesha (4 Wks),20000,6000,20,13/5/2026,41/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-639,,,245712833328,,,Daraja (6 Wks),10000,2167,30,13/5/2026,55/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-638,,,254719700664,,,Karibu (6 Wks),5000,1085,30,13/5/2026,55/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-637,,,254711962072,,,Daraja (6 Wks),7000,1667,30,13/5/2026,55/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-632,,,254794955639,,,Vuka (6 Wks),15000,3250,30,13/5/2026,55/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-636,,,254794029149,,,Daraja (6 Wks),7000,1667,30,13/5/2026,55/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-626,,,254724350985,,,Vuka (6 Wks),12000,2600,30,12/5/2026,54/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-625,,,254720813561,,,wezesha (6 Wks),17000,3684,30,12/5/2026,54/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-631,,,254726949202,,,Daraja (6 Wks),7000,1667,30,12/5/2026,54/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-623,,,254742982500,,,Daraja (6 Wks),8000,1834,30,12/5/2026,54/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-624,,,254729144308,,,Vuka (6 Wks),12000,2600,30,12/5/2026,54/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-622,,,254724153150,,,Daraja (6 Wks),10000,2167,30,12/5/2026,54/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-627,,,254708199244,,,wezesha (4 Wks),20000,6000,20,12/5/2026,40/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-630,,,254705436184,,,Daraja (6 Wks),10000,2167,30,12/5/2026,54/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-629,,,254748310063,,,Daraja (6 Wks),10000,2167,30,12/5/2026,54/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-628,,,254715706681,,,wezesha (4 Wks),20000,6000,20,12/5/2026,40/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-616,,,254718886595,,,Karibu (6 Wks),5000,1084,30,11/5/2026,53/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-618,,,254746194202,,,Karibu (4 Wks),5000,1500,20,11/5/2026,39/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-615,,,254717622386,,,Vuka (4 Wks),12000,3600,20,11/5/2026,39/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-617,,,254727877025,,,Daraja (6 Wks),7000,1667,30,11/5/2026,53/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-620,,,254114732234,,,Vuka (6 Wks),14000,3034,30,11/5/2026,53/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-619,,,254714503794,,,Karibu (6 Wks),5000,1085,30,11/5/2026,53/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-621,,,254794113332,,,Daraja (6 Wks),7000,1667,30,11/5/2026,53/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-611,,,254727059976,,,Daraja (6 Wks),7000,1667,30,8/5/2026,50/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-614,,,254758991413,,,Daraja (6 Wks),9000,2000,30,8/5/2026,50/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-612,,,254769573260,,,Daraja (4 Wks),8000,2500,20,8/5/2026,36/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-613,,,254705304253,,,Daraja (6 Wks),9000,2000,30,8/5/2026,50/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-609,,,254729823193,,,Ngaa (6 Wks),30000,6750,30,7/5/2026,49/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-608,,,254758372505,,,Daraja (6 Wks),10000,2167,30,7/5/2026,49/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-607,,,25718846710,,,Vuka (6 Wks),12000,2600,30,7/5/2026,49/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-610,,,254705033064,,,Ngaa (6 Wks),30000,6750,30,7/5/2026,49/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-605,,,254708448209,,,Vuka (6 Wks),12000,2600,30,6/5/2026,48/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-604,,,254741227923,,,Karibu (6 Wks),5000,1085,30,6/5/2026,48/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-603,,,254742282927,,,Daraja (6 Wks),10000,2167,30,6/5/2026,48/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-606,,,254726022867,,,Daraja (6 Wks),7000,1667,30,6/5/2026,48/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-600,,,254710540080,,,Vuka (6 Wks),15000,3250,30,5/5/2026,47/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-599,,,254721142486,,,Ngaa (6 Wks),30000,6750,30,5/5/2026,47/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-601,,,254707451706,,,Daraja (6 Wks),7000,1667,30,5/5/2026,47/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-598,,,254711227118,,,Ngaa (6 Wks),30000,6750,30,5/5/2026,47/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-602,,,254721937013,,,Daraja (4 Wks),10000,3000,20,5/5/2026,33/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-593,,,254726281613,,,wezesha (6 Wks),20000,4334,30,4/5/2026,46/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-594,,,254707655312,,,Daraja (6 Wks),9000,2000,30,4/5/2026,46/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-591,,,254113300495,,,Karibu (6 Wks),5000,1085,30,4/5/2026,46/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-592,,,254711686002,,,Daraja (6 Wks),10000,2170,30,4/5/2026,46/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-597,,,254799871943,,,Daraja (4 Wks),8000,2500,20,4/5/2026,32/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-590,,,254724210636,,,Daraja (6 Wks),10000,2170,30,4/5/2026,46/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-595,,,254715365131,,,Daraja (6 Wks),10000,2170,30,4/5/2026,46/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-596,,,254723849109,,,Daraja (6 Wks),10000,2170,30,4/5/2026,46/5/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
+LN-641,,,254742033906,,,Vuka (6 Wks),12000,2600,30,14/4/2026,56/4/2026,Unknown,,YES - In Arrears,Migrated from May Disbursement.csv
